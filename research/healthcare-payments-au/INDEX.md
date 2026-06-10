@@ -10,6 +10,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 002 | 2026-06-08 | [MBS Schedule Fee Indexation: How Australia Prices Medical Services — and Why Fees Keep Falling Behind](002-2026-06-08-mbs-schedule-fee-indexation.md) | Five threads: PBS drug pricing/cost-effectiveness; specialist fee international comparisons; Medical Costs Finder Bill 2026; GP practice economics and BBPIP adequacy; MBS Review Taskforce outcomes |
 | 003 | 2026-06-08 | [The Pharmaceutical Benefits Scheme: How Australia Prices and Subsidises Medicines](003-2026-06-08-pharmaceutical-benefits-scheme-pbs.md) | Five threads: PBS access reform/interim listing; biosimilar policy in depth; high-cost medicines sustainability; PHARMAC comparison (NZ); private health insurance and pharmacy benefits |
 | 004 | 2026-06-09 | [PBS Access Reform: Closing the 591-Day Gap — Interim Listing, Bridging Funds, and Conditional Reimbursement](004-2026-06-09-pbs-access-reform-interim-listing.md) | Five threads: PHI and PBS interaction; biosimilar policy depth; high-cost medicines/PBS sustainability; PHARMAC comparison; TGA reform and international regulatory alignment |
+| 005 | 2026-06-10 | [Biosimilar Policy in Australia: The PBS Success Story That Isn't Quite Working](005-2026-06-10-biosimilar-policy-uptake-savings.md) | Five threads: high-cost medicines and PBS sustainability (gene therapies, CAR-T); PHARMAC comparison; PHI and PBS interaction; TGA regulatory alignment; GP practice economics |
 
 ---
 
@@ -51,6 +52,31 @@ A daily research series building a connected, deepening body of knowledge on how
 3. High-cost medicines and PBS sustainability — projected growth of oncology biologics and gene therapies, ICER threshold debate
 4. PHARMAC comparison — New Zealand's single national purchasing agency, per-capita costs, equity vs access trade-off
 5. TGA reform and international regulatory alignment — TGA-FDA alignment, faster approval pathways, and impact on PBS listing pipeline
+
+## Suggested next branches (from Report 005)
+1. High-cost medicines and PBS sustainability — the next wave: CAR-T cells, gene therapies, mRNA platforms; ICER threshold debate; whether the PBS can sustain $1m+ medicines
+2. PHARMAC comparison — New Zealand's single-buyer tendering model; per-capita biologic costs vs Australia; equity vs access trade-off; lessons Australia hasn't drawn
+3. Private health insurance and PBS interaction — PHI hospital/extras covers; formulary differences for biologics; private vs public hospital biologic access
+4. TGA reform and international regulatory alignment — TGA-FDA/EMA alignment; impact of 22 biosimilar TGA approvals in 2024 on PBS pipeline
+5. GP practice economics and bulk billing viability — how systemic GP funding pressures shape referral pathways to specialist biologic prescribers
+
+## Covered topics (Report 005 additions)
+- Biosimilar definition and regulatory pathway (TGA, PBAC)
+- PBS biosimilar pricing: 25% mandatory statutory price reduction on first biosimilar listing (legislated, up from 16% in October 2018)
+- Ongoing price disclosure: twice-yearly cycles capturing competitive market reductions
+- TNF inhibitor biosimilar savings: AU$562 million cumulative 2015–2025 (adalimumab, etanercept, infliximab)
+- Etanercept biosimilar PBS listing April 2017; contributed ~$341 million in savings
+- Adalimumab biosimilar PBS listings 2021–2024; 6 biosimilar brands on PBS by 2024; first price disclosure cycle April 2024
+- PBS-listed biosimilars: 30 brands, 12 active ingredients (October 2024); 65 TGA-registered (2024); 22 TGA approvals in 2024 alone
+- Biologic PBS expenditure: AU$2.41 billion (2020–21)
+- Uptake rates: Australia anti-TNF biosimilar retail pharmacy 35%; OECD average 67%; Norway infliximab 99.4%; Denmark trastuzumab 90% after 3 months
+- Three structural barriers: no patient price incentive (same co-payment); complex PBS authority requirements; no pharmacist financial incentive
+- Government policies: a-flag substitution; non-mandatory biosimilar preference for treatment-naive patients; Biosimilar Awareness Initiative (2015); NPS MedicineWise education; streamlined authority codes
+- Norway tender model: annual competitive tender; 72% price reduction on infliximab in 2015; near-universal biosimilar uptake
+- Sandoz Biosimilar Summit: Canberra, 10 February 2025
+- Sandoz White Paper: June 2025; proposes mandating naive-patient biosimilar prescribing; removing authority requirements at 70% uptake; Chronic Disease Future Fund; estimated $75 million savings per molecule
+- PBAC recommended 9 biosimilars for PBS listing March 2024 – March 2025
+- Strategic Agreement with GBMA and Medicines Australia: expires 30 June 2027
 
 ## Covered topics (Report 004 additions)
 - PBS access delays: 591-day average for novel cost-effectiveness submissions; 466-day OECD comparison; international ranking (Japan 102d, Germany 136d, UK 156d, Australia 466d)
