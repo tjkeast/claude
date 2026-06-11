@@ -11,6 +11,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 003 | 2026-06-08 | [The Pharmaceutical Benefits Scheme: How Australia Prices and Subsidises Medicines](003-2026-06-08-pharmaceutical-benefits-scheme-pbs.md) | Five threads: PBS access reform/interim listing; biosimilar policy in depth; high-cost medicines sustainability; PHARMAC comparison (NZ); private health insurance and pharmacy benefits |
 | 004 | 2026-06-09 | [PBS Access Reform: Closing the 591-Day Gap — Interim Listing, Bridging Funds, and Conditional Reimbursement](004-2026-06-09-pbs-access-reform-interim-listing.md) | Five threads: PHI and PBS interaction; biosimilar policy depth; high-cost medicines/PBS sustainability; PHARMAC comparison; TGA reform and international regulatory alignment |
 | 005 | 2026-06-10 | [Biosimilar Policy in Australia: The PBS Success Story That Isn't Quite Working](005-2026-06-10-biosimilar-policy-uptake-savings.md) | Five threads: high-cost medicines and PBS sustainability (gene therapies, CAR-T); PHARMAC comparison; PHI and PBS interaction; TGA regulatory alignment; GP practice economics |
+| 006 | 2026-06-11 | [High-Cost Medicines and PBS Sustainability: Gene Therapies, CAR-T Cells, and the Coming Million-Dollar-Medicine Era](006-2026-06-11-high-cost-medicines-gene-therapy-pbs-sustainability.md) | Five threads: PHARMAC comparison; PHI and high-cost medicine coverage; HTA Implementation Advisory Group reforms; rare disease/orphan drug policy; MSAC vs PBAC boundary dispute |
 
 ---
 
@@ -77,6 +78,26 @@ A daily research series building a connected, deepening body of knowledge on how
 - Sandoz White Paper: June 2025; proposes mandating naive-patient biosimilar prescribing; removing authority requirements at 70% uptake; Chronic Disease Future Fund; estimated $75 million savings per molecule
 - PBAC recommended 9 biosimilars for PBS listing March 2024 – March 2025
 - Strategic Agreement with GBMA and Medicines Australia: expires 30 June 2027
+
+## Suggested next branches (from Report 006)
+1. PHARMAC comparison — NZ's single-buyer model vs Australia's PBS/HST/PBAC; has PHARMAC listed any gene therapies? per-capita biologic costs; equity vs access trade-off
+2. Private health insurance and high-cost medicines — does PHI cover CAR-T or gene therapies in private hospitals? coverage exclusions; what happens to patients who miss public funding criteria?
+3. HTA Implementation Advisory Group 2025–26 reform agenda — specific reforms targeting 2026–27 Budget; discount rate changes; annuity payment models; MSAC/PBAC boundary
+4. Rare disease and orphan drug policy — Australia's Life Saving Drugs Program vs EU/US orphan drug frameworks; LSDP eligibility vs gene therapy era
+5. MSAC vs PBAC boundary dispute — CAR-T assessed as a 'service' by MSAC; Zolgensma as a 'medicine' by PBAC; inconsistent evaluation frameworks for similar products
+
+## Covered topics (Report 006 additions)
+- Highly Specialised Therapies (HST) Program — MSAC pathway; treatments >$200K per patient; jointly funded Commonwealth/states under NHRA Addendum; hospital-only delivery
+- CAR-T therapies publicly funded: Kymriah, Yescarta, Tecartus, Carvykti (from May 2026); 4 therapies via HST
+- Zolgensma (onasemnogene abeparvovec): AU$2.5 million per patient; first gene therapy on PBS; ~15 infants/year eligible; listed via PBAC
+- Luxturna (voretigene neparvovec): AU$1.18 million per patient; first publicly funded gene therapy via MSAC/HST; 2 treatment centres; 14 patients treated as of Oct 2024; ~100–125 eligible Australians total
+- Hemgenix (etranacogene dezaparvovec): haemophilia B; TGA provisional approval July 2024; US price ~US$3.5 million; MSAC assessment Aug 2024; price redacted; funding status pending
+- PBS cost-effectiveness framework limitations for gene therapies: 5% discount rate disadvantages lifetime-curative benefits; small-n problem; clinical uncertainty problem
+- ICER threshold: Australia has no explicit threshold; implicit ~$50K/QALY standard; innovative medicines range $85K–$220K/QALY; NICE ultra-rare threshold up to £300K/QALY
+- HTA Review 2024: 50 recommendations including new pathways for ATMPs, discount rate revision, outcomes-based reimbursement, annuity-based payment models
+- HTA Implementation Advisory Group: established Nov 2024; interim report Sep 2025; reform package for 2026–27 Budget
+- PBS total expenditure growing ~7.3% YoY (AU$17.7B → AU$19.1B); oncology absorbs ~$259/person/year in PBS government expenditure
+- State-Commonwealth cost-sharing friction in HST funding as barrier to equitable access
 
 ## Covered topics (Report 004 additions)
 - PBS access delays: 591-day average for novel cost-effectiveness submissions; 466-day OECD comparison; international ranking (Japan 102d, Germany 136d, UK 156d, Australia 466d)
