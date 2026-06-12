@@ -12,6 +12,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 004 | 2026-06-09 | [PBS Access Reform: Closing the 591-Day Gap — Interim Listing, Bridging Funds, and Conditional Reimbursement](004-2026-06-09-pbs-access-reform-interim-listing.md) | Five threads: PHI and PBS interaction; biosimilar policy depth; high-cost medicines/PBS sustainability; PHARMAC comparison; TGA reform and international regulatory alignment |
 | 005 | 2026-06-10 | [Biosimilar Policy in Australia: The PBS Success Story That Isn't Quite Working](005-2026-06-10-biosimilar-policy-uptake-savings.md) | Five threads: high-cost medicines and PBS sustainability (gene therapies, CAR-T); PHARMAC comparison; PHI and PBS interaction; TGA regulatory alignment; GP practice economics |
 | 006 | 2026-06-11 | [High-Cost Medicines and PBS Sustainability: Gene Therapies, CAR-T Cells, and the Coming Million-Dollar-Medicine Era](006-2026-06-11-high-cost-medicines-gene-therapy-pbs-sustainability.md) | Five threads: PHARMAC comparison; PHI and high-cost medicine coverage; HTA Implementation Advisory Group reforms; rare disease/orphan drug policy; MSAC vs PBAC boundary dispute |
+| 007 | 2026-06-12 | [The PHARMAC Model: New Zealand's Single-Buyer Medicine System and What Australia Can — and Cannot — Learn From It](007-2026-06-12-pharmac-vs-pbs-nz-australia-comparison.md) | Five threads: PHI and medicine access gap (NZ and AU); rare disease/orphan drug policy; HTA IAG 2026-27 reforms; US trade pressure on pharmaceutical pricing; GP practice economics and bulk billing |
 
 ---
 
@@ -113,3 +114,29 @@ A daily research series building a connected, deepening body of knowledge on how
 - UK Cancer Drugs Fund: 2-year conditional approval; real-world data collection; 87.2% of reassessed drugs moved to routine commissioning
 - Canada TLR + pTAP: Time-Limited Reimbursement (Nov 2023); EPKINLY example — 248 days vs 568-day standard; 10.7 months faster
 - France Accès Précoce: pre- and post-MA access; 3-month review; retroactive manufacturer rebate if final price lower
+
+## Suggested next branches (from Report 007)
+1. Private health insurance and the medicine access gap — For NZ patients denied public funding and AU patients needing CAR-T/gene therapies in private hospitals, does PHI bridge the gap? What are the coverage exclusions and equity implications?
+2. Rare disease and orphan drug policy — Australia's Life Saving Drugs Program vs PHARMAC's Rare Disorders pathway vs EU/US orphan drug frameworks; structural gaps in both systems for the gene therapy era
+3. HTA Implementation Advisory Group 2025-26 reform agenda — What specific changes are being implemented for the 2026-27 Budget? Has the discount rate been revised? Annuity payment models adopted?
+4. US trade pressure on pharmaceutical pricing — PHARMAC repeatedly targeted by US pharma lobby as "unfair trade barrier"; Australia's PBS faces similar pressure; implications for bilateral trade deals
+5. GP practice economics and the bulk billing crisis — Deferred from Report 002; how GP funding pressures shape prescribing patterns, referral pathways, and patient navigation
+
+## Covered topics (Report 007 additions)
+- PHARMAC structure: fixed Combined Pharmaceutical Budget (CPB) set annually by NZ government; Crown entity under NPHA 2000; manages ~2,600 funded medicines (community + hospital)
+- PHARMAC CPB 2024-25: NZD $1.689 billion; NZD $604 million budget boost in 2024 (largest in PHARMAC history); 66 new medicines funded (33 cancer, 33 other)
+- Per capita comparison: NZ ~NZD $331/person (PHARMAC CPB ÷ 5.1m population) ≈ AU$304; Australia PBS ~AU$721/person (2024-25); NZ spends less than half Australia per capita on government-subsidised medicines
+- PHARMAC mechanisms: sole tender (exclusive 3-year contracts, up to >90% price reduction); reference pricing (same subsidy regardless of brand); biosimilar entry used to simultaneously renegotiate originator price; bundling and risk-sharing
+- Biosimilar leverage: PHARMAC used biosimilar infliximab entry (2014) to negotiate 30% reduction on originator Remicade; saved estimated NZD $25 million over 5 years
+- Annual Tender: ~20% of CPB; multi-product competitive procurement; savings recycled to widen access
+- NZ OECD access ranking: at or near bottom of OECD for access to new medicines
+- Blood cancer access gap (Jan 2024): 24 blood cancer medicines funded in Australia but not NZ, for 42 indications; 12 with substantial clinical benefit; 2 with curative potential
+- Budget 2024 partially closed gap: 4 blood cancer medicines funded for 6 uses; gap reduced to 36 medicine-indication pairs
+- Budget 2025: no new PHARMAC budget increase; blood cancer advocates describe as locking in 4 years of denied access
+- Lancet Oncology 2024: NZ doctors raise alarm about cancer drug inequity; 50+ haematologists sign joint letter calling situation "fundamental health policy failure"
+- CAR-T in NZ: NO CAR-T cell therapies publicly funded in NZ (June 2026); PHARMAC/Medsafe/Cancer Control Agency still developing assessment framework; NZ patients face US$500K–$1M overseas treatment bills
+- Contrast with Australia: all 4 CAR-T therapies publicly funded in Australia via HST Program
+- Zolgensma in NZ: PHARMAC funded risdiplam (Evrysdi) April 2023 as second SMA treatment; Zolgensma (gene therapy, ~NZD $3–4m/patient) not funded as of mid-2026; RDAC considered 2023-24 but no listing confirmed
+- Fixed-budget vs demand-driven contrast: PHARMAC cannot fund new medicine without displacing budget from elsewhere; PBS adds new listings to open-ended Commonwealth commitment
+- NZ co-payment: NZD $5 per prescription (most medicines); NZD $0 for community services card holders
+- Political economy: PHARMAC popular in NZ for cost discipline; access failures concentrated in specific disease communities lacking broad political weight; institutional inertia maintained by savings success
