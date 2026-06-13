@@ -13,6 +13,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 005 | 2026-06-10 | [Biosimilar Policy in Australia: The PBS Success Story That Isn't Quite Working](005-2026-06-10-biosimilar-policy-uptake-savings.md) | Five threads: high-cost medicines and PBS sustainability (gene therapies, CAR-T); PHARMAC comparison; PHI and PBS interaction; TGA regulatory alignment; GP practice economics |
 | 006 | 2026-06-11 | [High-Cost Medicines and PBS Sustainability: Gene Therapies, CAR-T Cells, and the Coming Million-Dollar-Medicine Era](006-2026-06-11-high-cost-medicines-gene-therapy-pbs-sustainability.md) | Five threads: PHARMAC comparison; PHI and high-cost medicine coverage; HTA Implementation Advisory Group reforms; rare disease/orphan drug policy; MSAC vs PBAC boundary dispute |
 | 007 | 2026-06-12 | [The PHARMAC Model: New Zealand's Single-Buyer Medicine System and What Australia Can — and Cannot — Learn From It](007-2026-06-12-pharmac-vs-pbs-nz-australia-comparison.md) | Five threads: PHI and medicine access gap (NZ and AU); rare disease/orphan drug policy; HTA IAG 2026-27 reforms; US trade pressure on pharmaceutical pricing; GP practice economics and bulk billing |
+| 008 | 2026-06-13 | [Private Health Insurance and the Medicine Access Gap: What PHI Covers, What It Doesn't, and Why It Matters](008-2026-06-13-private-health-insurance-medicine-access-gap.md) | PHI legally prohibited from covering PBS medicines; extras cover pharmacy ($200-500/year cap); CAR-T not covered in private hospitals; financial toxicity paradox (PHI holders have higher OOP costs); threads opened: rare disease LSDP, HTA IAG reforms, GP economics, US trade pressure, PHI structural reform |
 
 ---
 
@@ -121,6 +122,34 @@ A daily research series building a connected, deepening body of knowledge on how
 3. HTA Implementation Advisory Group 2025-26 reform agenda — What specific changes are being implemented for the 2026-27 Budget? Has the discount rate been revised? Annuity payment models adopted?
 4. US trade pressure on pharmaceutical pricing — PHARMAC repeatedly targeted by US pharma lobby as "unfair trade barrier"; Australia's PBS faces similar pressure; implications for bilateral trade deals
 5. GP practice economics and the bulk billing crisis — Deferred from Report 002; how GP funding pressures shape prescribing patterns, referral pathways, and patient navigation
+
+## Covered topics (Report 008 additions)
+- PHI legal prohibition on PBS medicine coverage (core structural rule)
+- PHI extras cover pharmacy: S4/S8 non-PBS medicines only; annual limits $200-500; per-script caps; 2-month waiting period typical
+- Medicare Levy Surcharge (MLS): 1%-1.5% tax for income >$93K single (2025-26); strong PHI take-up driver
+- Lifetime Health Cover (LHC) loading: 2%/year delay, max 70% for 10 years; take-out before age 31 incentive
+- PHI Government Rebate: 24.288% base tier under-65 (2025-26); income-tested; reduces to zero at top tier
+- PHI participation: 12.6 million hospital cover; 15.3 million extras cover (Dec 2025, APRA)
+- PHI market concentration: Medibank 27.1%, Bupa 25.4%, HCF 12.6%; top 5 = 79% premium income
+- PHI total benefits paid: $26.7 billion (12 months to Sep 2025); hospital $20 billion (up 6%); extras $6.7 billion (up 5%)
+- Hospital benefits ratio: 83% (2022-23 pandemic low) → 85.9% (Sep 2025) → 87% projected (2026)
+- Gold-tier decline: 743,000 fewer Australians in gold-tier vs Mar 2020; 360,000 fewer policies; gold premiums up 13.3% in 2026 round
+- 2026 premium increase: 4.41% average from April 2026 (largest since 2018)
+- Product phoenixing: practice banned; insurers closed and relaunched products to circumvent premium cap
+- Prostheses List reform: $900 million total savings; staged July 2022 – July 2024; 51% of items had benefit reduction
+- PBS Section 100 Highly Specialised Drugs (HSD): PBS-listed biologics/specialist medicines accessible in private hospitals; patient pays PBS co-payment; private hospital HSD prescribing authority required via Services Australia
+- CAR-T in private hospitals: HST Program is public-hospital-only; private hospital patients face full commercial cost AU$450-700K; PHI covers hospital stay but not drug product
+- Financial toxicity paradox: PHI holders more likely to have OOP costs >$1,000 than Medicare-only patients (MJA 2024, Goldsbury et al.)
+- Cancer OOP: 50% of patients spend >$5,000; 25% spend >$10,000; prostate cancer average AU$11,077
+- GLP-1 (Ozempic): PBS-listed for type 2 diabetes only (from July 2020); private obesity script ~$300-400/month; PHI extras pharmacy may cover non-PBS GLP-1 scripts up to annual limit; compounded semaglutide banned since October 2024
+- PHI structural reform proposals: minimum benefits ratios; subsidy reform; mandatory gold tier value floors
+
+## Suggested next branches (from Report 008)
+1. Rare disease and orphan drug policy — Life Saving Drugs Program vs PBS vs HST Program: three overlapping funding pathways for ultra-rare conditions, each with different eligibility and cost-sharing; gene therapy era exposing gaps in all three
+2. HTA Implementation Advisory Group 2025-26 reforms — specific changes locked in for 2026-27 Budget; discount rate revision; annuity payment models; MSAC/PBAC boundary
+3. GP practice economics and the bulk billing crisis — deferred from Report 002; how structural GP funding pressures shape prescribing patterns, referral pathways, and patient navigation
+4. US trade pressure on pharmaceutical pricing — AUSFTA, PHARMAC as unfair trade barrier, PBS price transparency in bilateral negotiations
+5. PHI structural reform proposals — Productivity Commission, PHI advocates, academic proposals; minimum benefits ratio; mandatory value floors for gold tier
 
 ## Covered topics (Report 007 additions)
 - PHARMAC structure: fixed Combined Pharmaceutical Budget (CPB) set annually by NZ government; Crown entity under NPHA 2000; manages ~2,600 funded medicines (community + hospital)
