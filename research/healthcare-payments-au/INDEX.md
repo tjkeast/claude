@@ -14,6 +14,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 006 | 2026-06-11 | [High-Cost Medicines and PBS Sustainability: Gene Therapies, CAR-T Cells, and the Coming Million-Dollar-Medicine Era](006-2026-06-11-high-cost-medicines-gene-therapy-pbs-sustainability.md) | Five threads: PHARMAC comparison; PHI and high-cost medicine coverage; HTA Implementation Advisory Group reforms; rare disease/orphan drug policy; MSAC vs PBAC boundary dispute |
 | 007 | 2026-06-12 | [The PHARMAC Model: New Zealand's Single-Buyer Medicine System and What Australia Can — and Cannot — Learn From It](007-2026-06-12-pharmac-vs-pbs-nz-australia-comparison.md) | Five threads: PHI and medicine access gap (NZ and AU); rare disease/orphan drug policy; HTA IAG 2026-27 reforms; US trade pressure on pharmaceutical pricing; GP practice economics and bulk billing |
 | 008 | 2026-06-13 | [Private Health Insurance and the Medicine Access Gap: What PHI Covers, What It Doesn't, and Why It Matters](008-2026-06-13-private-health-insurance-medicine-access-gap.md) | PHI legally prohibited from covering PBS medicines; extras cover pharmacy ($200-500/year cap); CAR-T not covered in private hospitals; financial toxicity paradox (PHI holders have higher OOP costs); threads opened: rare disease LSDP, HTA IAG reforms, GP economics, US trade pressure, PHI structural reform |
+| 009 | 2026-06-14 | [GP Practice Economics and the Bulk Billing Crisis: Why Australia Nearly Lost Its Free Doctor System — and Whether $8.5 Billion Can Fix It](009-2026-06-14-gp-practice-economics-bulk-billing-crisis.md) | Threads opened: MyMedicare and longitudinal care reform; rare disease LSDP (again deferred); Better Access mental health rebate cap; Medical Costs Finder Bill 2026; US trade pressure on PBS pricing |
 
 ---
 
@@ -169,3 +170,31 @@ A daily research series building a connected, deepening body of knowledge on how
 - Fixed-budget vs demand-driven contrast: PHARMAC cannot fund new medicine without displacing budget from elsewhere; PBS adds new listings to open-ended Commonwealth commitment
 - NZ co-payment: NZD $5 per prescription (most medicines); NZD $0 for community services card holders
 - Political economy: PHARMAC popular in NZ for cost discipline; access failures concentrated in specific disease communities lacking broad political weight; institutional inertia maintained by savings success
+
+## Suggested next branches (from Report 009)
+1. MyMedicare and continuity of care reform — voluntary patient enrolment system; enhanced rebates for complex care, mental health care plans, chronic disease management; interaction with BBPIP
+2. Rare disease and orphan drug policy — Life Saving Drugs Program vs PBS vs HST Program: three overlapping pathways; gene therapy era exposing gaps; repeatedly deferred
+3. Better Access and the mental health rebate cap — MBS items for psychology/psychiatry; 20-session cap; 2022-25 pandemic surge and cuts controversy; GP gatekeeper economics
+4. Medical Costs Finder Bill 2026 — fee transparency legislation requiring specialists to publish fees; implementation status; first flagged in Report 002
+5. US trade pressure on PBS pricing — AUSFTA; pharmaceutical pricing as bilateral trade issue; implications for $19.1B PBS budget
+
+## Covered topics (Report 009 additions)
+- Bulk billing rate history: 88.8-89% peak (2020 pandemic); 77.3% low (2023-24); 11.5 pp fall over 3 years; 81.4% (Nov 2025-Jan 2026 post-BBPIP)
+- State/territory bulk billing variation (2023): NSW 82%, QLD ~80%, TAS 69%, ACT 53%
+- MBS Item 23 (Level B, 6-20 min consultation): $43.90 schedule fee from 1 July 2025 (2.4% indexation)
+- GP overhead structure: staff costs ~40-50% of revenue; rent; IT; indemnity; healthy net margin target 15-25%
+- GP contractor model: 70-75% of billings retained (after practice overhead share)
+- AMA recommended fee for Item 23: significantly above MBS (ASGP alternative list suggests ~$89-$120+ for a standard consultation)
+- November 2023 triple BBI: tripled bulk billing incentive for children under 16 and concession card holders; slowed but did not reverse decline
+- BBPIP (1 November 2025): 12.5% loading on ALL MBS benefits for practices bulk billing ALL patients; 50/50 split GP/practice; $2 billion/year cost
+- BBPIP registration: >3,700 practices by February 2026
+- BBPIP result: 81.4% bulk billing rate Nov 2025-Jan 2026; "largest quarterly jump in 20 years" (outside COVID)
+- Government target: 90% of GP visits bulk billed by 2030; ~4,800 practices fully bulk billing
+- Health department warning: 23% of clinics unlikely to bulk bill even with BBPIP incentive
+- Payroll tax reform: states enacted contractor/employee GP exemptions for bulk-billed services — SA (Jul 2024), NSW (Sep 2024), VIC/ACT (Jul 2025), QLD (ongoing); NT unclear
+- GP desert: ~500,000 Australians in bottom 5% for GP services per person; receive 40% fewer services than national average
+- Projected national shortfall: ~9,000 FTE GPs by 2048 (Department of Health modelling)
+- GP training 2026: ~2,100 trainees expected (largest intake on record); 1,800 AGPT funded places; $600M+ Budget 2025-26 commitment
+- GP trainee incentives from semester 1 2026: $30,000 salary incentive for transition to community practice; study leave payments; parental leave
+- GP workforce dynamics: growing female proportion; part-time preference; IMG dependence in rural areas; 4-year training pipeline lag
+- MyMedicare: voluntary patient enrolment system; enhanced rebates for enrolled patients; interaction with BBPIP under evaluation
