@@ -15,6 +15,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 007 | 2026-06-12 | [The PHARMAC Model: New Zealand's Single-Buyer Medicine System and What Australia Can — and Cannot — Learn From It](007-2026-06-12-pharmac-vs-pbs-nz-australia-comparison.md) | Five threads: PHI and medicine access gap (NZ and AU); rare disease/orphan drug policy; HTA IAG 2026-27 reforms; US trade pressure on pharmaceutical pricing; GP practice economics and bulk billing |
 | 008 | 2026-06-13 | [Private Health Insurance and the Medicine Access Gap: What PHI Covers, What It Doesn't, and Why It Matters](008-2026-06-13-private-health-insurance-medicine-access-gap.md) | PHI legally prohibited from covering PBS medicines; extras cover pharmacy ($200-500/year cap); CAR-T not covered in private hospitals; financial toxicity paradox (PHI holders have higher OOP costs); threads opened: rare disease LSDP, HTA IAG reforms, GP economics, US trade pressure, PHI structural reform |
 | 009 | 2026-06-14 | [GP Practice Economics and the Bulk Billing Crisis: Why Australia Nearly Lost Its Free Doctor System — and Whether $8.5 Billion Can Fix It](009-2026-06-14-gp-practice-economics-bulk-billing-crisis.md) | Threads opened: MyMedicare and longitudinal care reform; rare disease LSDP (again deferred); Better Access mental health rebate cap; Medical Costs Finder Bill 2026; US trade pressure on PBS pricing |
+| 010 | 2026-06-15 | [MyMedicare and the Continuity of Care Imperative: Australia's Attempt to Shift Primary Care from Episodic to Longitudinal](010-2026-06-15-mymedicare-continuity-of-care-reform.md) | Threads opened: Better Access and the mental health 20-session cap; Medical Costs Finder Bill 2026 (overdue); MyMedicare and ACCHOs; rural/remote payment limits; US trade pressure on PBS |
 
 ---
 
@@ -198,3 +199,26 @@ A daily research series building a connected, deepening body of knowledge on how
 - GP trainee incentives from semester 1 2026: $30,000 salary incentive for transition to community practice; study leave payments; parental leave
 - GP workforce dynamics: growing female proportion; part-time preference; IMG dependence in rural areas; 4-year training pipeline lag
 - MyMedicare: voluntary patient enrolment system; enhanced rebates for enrolled patients; interaction with BBPIP under evaluation
+
+## Suggested next branches (from Report 010)
+1. Better Access and mental health care — MBS items for psychology (2710, 2712, 2721, 2723); 20-session cap; 2022 cut from 20 to 10 sessions; 2023 partial reversal; GP as mental health gatekeeper; out-of-pocket crisis for psychology
+2. Medical Costs Finder Bill 2026 — specialist fee transparency legislation; first flagged Report 002; implementation status; what data becomes public
+3. MyMedicare and ACCHOs — Strengthening Medicare Taskforce explicitly recommended investment in Aboriginal Community Controlled Health Organisations; how ACCHOs engage with enrolment model; different funding structures
+4. Rural and remote healthcare payments — Modified Monash Model; rural incentive payments; GP desert limits; what payment reform can and cannot do when there are no GPs
+5. US trade pressure on PBS pricing — AUSFTA; pharmaceutical pricing as bilateral trade issue; PHARMAC as precedent; implications for $19.1B PBS budget
+
+## Covered topics (Report 010 additions)
+- MyMedicare launch: practice registration from 1 July 2023; patient registration from 1 October 2023
+- MyMedicare enrolment (June 2025): ~3 million patients (~10% of Medicare card holders); 6,654 registered practices
+- Awareness: only 1 in 3 Australians have heard of MyMedicare (2025 National Consumer Sentiment Survey); awareness not growing between 2024-2025 surveys
+- Barriers: patient awareness, digital literacy, no immediate visible patient benefit on enrolment
+- Strengthening Medicare package: $6.1 billion Budget 2023-24; largest single Medicare investment; 47 reform measures; 57% delivered; 38% in progress; 1 of 47 fully evaluated
+- Enhanced telehealth: enrolled patients exempt from 12-month face-to-face rule from Nov 2025; longer phone/video consultations for enrolled patients; tripled rates for concession/under-16 enrollees from Nov 2023
+- GPCCMP (from 1 July 2025): replaced GPMP (Item 721) and TCA (Item 723) with Item 965 ($156.55 rebate) and Item 967 ($156.55 rebate) — first major CDM overhaul in 20 years
+- CCM-MyMedicare linkage: patients enrolled in MyMedicare can only access GPCCMP items at their registered practice; transition period to 1 July 2027 for existing plans
+- GPACI (from August 2024): $300/patient/year to GP + $130/patient/year to practice for aged care residents; requires 2 care plans + 8 visits/year; 1,744 practices actively using as at June 2025
+- Frequent Hospital Users incentive: planned, funded ($16M), then officially discontinued in late 2024 — one of two Strengthening Medicare measures abandoned before launch
+- BBPIP-MyMedicare nexus: practices must be MyMedicare-registered to access BBPIP; de facto mandatory at practice level despite "voluntary" label
+- MJA scoping review (Bates et al., 2025): 24 studies from 12 countries; enrolment improves planning efficiency; heterogeneous clinical outcome evidence; access risk in capacity-constrained settings
+- Voluntary vs mandatory comparison: Denmark (automatic); Netherlands (near-universal); Australia (voluntary, ~10% take-up)
+- PEPR Study: Prospective Evaluation of Patient Registration; protocol published Frontiers 2026; Lumos data linkage from 2026; formal evidence years away
