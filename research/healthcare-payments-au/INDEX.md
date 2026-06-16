@@ -16,6 +16,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 008 | 2026-06-13 | [Private Health Insurance and the Medicine Access Gap: What PHI Covers, What It Doesn't, and Why It Matters](008-2026-06-13-private-health-insurance-medicine-access-gap.md) | PHI legally prohibited from covering PBS medicines; extras cover pharmacy ($200-500/year cap); CAR-T not covered in private hospitals; financial toxicity paradox (PHI holders have higher OOP costs); threads opened: rare disease LSDP, HTA IAG reforms, GP economics, US trade pressure, PHI structural reform |
 | 009 | 2026-06-14 | [GP Practice Economics and the Bulk Billing Crisis: Why Australia Nearly Lost Its Free Doctor System — and Whether $8.5 Billion Can Fix It](009-2026-06-14-gp-practice-economics-bulk-billing-crisis.md) | Threads opened: MyMedicare and longitudinal care reform; rare disease LSDP (again deferred); Better Access mental health rebate cap; Medical Costs Finder Bill 2026; US trade pressure on PBS pricing |
 | 010 | 2026-06-15 | [MyMedicare and the Continuity of Care Imperative: Australia's Attempt to Shift Primary Care from Episodic to Longitudinal](010-2026-06-15-mymedicare-continuity-of-care-reform.md) | Threads opened: Better Access and the mental health 20-session cap; Medical Costs Finder Bill 2026 (overdue); MyMedicare and ACCHOs; rural/remote payment limits; US trade pressure on PBS |
+| 011 | 2026-06-16 | [Better Access and the Mental Health Rebate: Australia's Subsidised Psychology System — Costs, Caps, and the Equity Crisis](011-2026-06-16-better-access-mental-health-session-cap.md) | Threads opened: rural/remote healthcare payments and Modified Monash Model; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (third deferral); NDIS and psychosocial disability; US trade pressure on PBS |
 
 ---
 
@@ -222,3 +223,30 @@ A daily research series building a connected, deepening body of knowledge on how
 - MJA scoping review (Bates et al., 2025): 24 studies from 12 countries; enrolment improves planning efficiency; heterogeneous clinical outcome evidence; access risk in capacity-constrained settings
 - Voluntary vs mandatory comparison: Denmark (automatic); Netherlands (near-universal); Australia (voluntary, ~10% take-up)
 - PEPR Study: Prospective Evaluation of Patient Registration; protocol published Frontiers 2026; Lumos data linkage from 2026; formal evidence years away
+
+## Suggested next branches (from Report 011)
+1. Rural and remote healthcare payments — Modified Monash Model; rural incentive payments; GP and psychology deserts; what payment reform can and cannot do when there are no providers
+2. Headspace and youth mental health block grants — PHN-funded, not MBS fee-for-service; 12–25 age cohort; cost-per-person comparison with Better Access; recent reviews
+3. Medical Costs Finder Bill 2026 — specialist fee transparency legislation (third deferral); implementation status; interaction with psychology gap fee crisis
+4. NDIS and psychosocial disability — 500,000 "missing middle" Australians; Productivity Commission Nov 2025 recommendations; how NDIS psychology/psychosocial support funding works
+5. US trade pressure on PBS and Medicare pricing — AUSFTA; pharmaceutical and healthcare industry trade advocacy; implications for $270.5B health budget
+
+## Covered topics (Report 011 additions)
+- Better Access initiative: launched November 2006; GP gatekeeper model; Mental Health Treatment Plan (MHTP) required
+- Key MBS items: 80010 (clinical psychologist, psychological therapy, ≥50 min) = $145.25 rebate from 1 July 2025; 80110 (general psychologist, focused psychological strategies, ≥50 min) = $98.95 rebate
+- APS recommended fee 2025–26: $318 for standard 46–60 min consultation
+- Gap fees: clinical psychologist ~$172 per session; general psychologist ~$219 per session (using APS fee)
+- Session cap history: 10 individual + 10 group per calendar year (original); temporarily raised to 20 individual (COVID, 2020–22); reverted to 10 from 1 January 2023 (Labor/Butler decision)
+- 2022 University of Melbourne independent evaluation: 16 recommendations; only rejected recommendation was to maintain 20 sessions permanently
+- 2025 election: Coalition proposed restoring 20 sessions; academic critics argued needs-based access preferable to arbitrary cap; most patients used <10 sessions even during COVID
+- Better Access scale: ~1.3 million Australians annually; >$1.6 billion per year in Medicare MBS benefits (2024–25)
+- Psychologists account for 48% of national mental health MBS spending; psychiatrists 30%
+- Bulk billing collapse for psychology: rebate too low to sustain viable practice without OOP; no BBPIP equivalent for allied health
+- Out-of-pocket costs: median $81.41 (2022) → $92.04 (2023); 74.5% of Better Access services involve co-payments; at 10 sessions = ~$920/year in OOP
+- Equity failures (2022 evaluation): wealthier, metropolitan, educated Australians over-represented; low-income and rural Australians underrepresented despite higher distress rates; 32% who ceased treatment did so for cost/access reasons
+- November 2025 Better Access changes: GP-specific MHTP review and mental health consultation MBS items removed; GPs use general attendance items instead; MHTP linked to MyMedicare practice or usual GP; telehealth MHTP restricted to patient's MyMedicare GP
+- Psychology workforce shortage (April 2026 compendium): 10,269.9 FTE undersupply in 2025 (57.3%); projected 24,115.5 FTE (96.6%) by 2038; ageing workforce; rural shortage most acute
+- Training reform: integrated 5-year psychology program from 2026; national exam removed for domestic graduates; new 3-year "psychology assistant" exit point
+- "Missing middle": ~500,000 Australians with moderate-severe mental illness not qualifying for NDIS, not adequately served by Better Access
+- NDIS: designed for 64,000 with most severe psychosocial disability; Better Access calibrated for mild-to-moderate conditions
+- Productivity Commission report on Mental Health and Suicide Prevention Agreement: released 11 November 2025; 24 recommendations; psychosocial supports outside NDIS identified as urgent priority
