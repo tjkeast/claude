@@ -17,6 +17,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 009 | 2026-06-14 | [GP Practice Economics and the Bulk Billing Crisis: Why Australia Nearly Lost Its Free Doctor System — and Whether $8.5 Billion Can Fix It](009-2026-06-14-gp-practice-economics-bulk-billing-crisis.md) | Threads opened: MyMedicare and longitudinal care reform; rare disease LSDP (again deferred); Better Access mental health rebate cap; Medical Costs Finder Bill 2026; US trade pressure on PBS pricing |
 | 010 | 2026-06-15 | [MyMedicare and the Continuity of Care Imperative: Australia's Attempt to Shift Primary Care from Episodic to Longitudinal](010-2026-06-15-mymedicare-continuity-of-care-reform.md) | Threads opened: Better Access and the mental health 20-session cap; Medical Costs Finder Bill 2026 (overdue); MyMedicare and ACCHOs; rural/remote payment limits; US trade pressure on PBS |
 | 011 | 2026-06-16 | [Better Access and the Mental Health Rebate: Australia's Subsidised Psychology System — Costs, Caps, and the Equity Crisis](011-2026-06-16-better-access-mental-health-session-cap.md) | Threads opened: rural/remote healthcare payments and Modified Monash Model; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (third deferral); NDIS and psychosocial disability; US trade pressure on PBS |
+| 012 | 2026-06-18 | [Rural and Remote Healthcare Payments: The Modified Monash Model, Workforce Incentives, and the $8.35 Billion Funding Gap](012-2026-06-18-rural-remote-healthcare-payments-modified-monash.md) | Threads opened: Aboriginal and Torres Strait Islander health payments and ACCHOs; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (fourth deferral); NDIS in regional areas; US trade pressure on PBS |
 
 ---
 
@@ -250,3 +251,31 @@ A daily research series building a connected, deepening body of knowledge on how
 - "Missing middle": ~500,000 Australians with moderate-severe mental illness not qualifying for NDIS, not adequately served by Better Access
 - NDIS: designed for 64,000 with most severe psychosocial disability; Better Access calibrated for mild-to-moderate conditions
 - Productivity Commission report on Mental Health and Suicide Prevention Agreement: released 11 November 2025; 24 recommendations; psychosocial supports outside NDIS identified as urgent priority
+
+## Suggested next branches (from Report 012)
+1. Aboriginal and Torres Strait Islander health payments — ACCHOs, Closing the Gap framework, NDIS in remote communities, Indigenous health funding structures beyond mainstream MBS/PBS
+2. Headspace and youth mental health block grants — PHN-funded, not MBS fee-for-service; 12–25 age cohort; fourth deferral; rural Headspace centres and access gaps
+3. Medical Costs Finder Bill 2026 — specialist fee transparency legislation; fourth deferral; rural dimension: OOP + travel burden for rural patients seeing city specialists
+4. NDIS in regional and remote areas — NDIS provider thin markets; psychosocial support gap amplified outside metro; transport and support worker shortages
+5. US trade pressure on PBS and Medicare pricing — AUSFTA; pharmaceutical pricing as bilateral trade issue; implications for rural incentive programs and $8.35B rural funding gap
+
+## Covered topics (Report 012 additions)
+- Modified Monash Model (MMM): 7 categories MM1 (major city) to MM7 (very remote); adds population-size dimension to remoteness; MMM 2023 published March 2025
+- Population: ~7.7 million Australians (27–28%) live in regional, rural, or remote areas
+- Distribution Priority Area (DPA): identifies areas with GP service shortage relative to benchmark; IMGs must work in DPA to access Medicare; MM2-7 automatically DPA; updated March 2025
+- Rural mortality: very remote death rate 1.6x major cities (779 vs 499 per 100,000, 2021–23); diabetes PAD rate Very Remote 6.7x major cities (males), 12x (females)
+- NRHA Forgotten Health Spend Report (August 2025): $8.35 billion annual rural health funding gap; $1,090.47 per capita per year less than urban; up from $6.55B/$848/person in 2020–21
+- Public hospital funding: small rural towns receive ~70% less per capita than metro hospitals
+- No private hospitals in MMM 6 and 7 regions
+- BBPIP geographic scaling: MMM2 = ~150% of metro incentive; MMM7 = ~190% of metro incentive
+- WIP Doctor Stream: $0–$60,000/year based on MMM location and years of continuous service
+- WIP Rural Advanced Skills Stream: up to $21,000/year for MM3–7 GPs providing primary + emergency/procedural care; claimable up to 4 times 2023–2026
+- NSW Rural Health Workforce Incentive Scheme: up to $20,000 for relocating health workers (to June 2026)
+- Section 19AB: IMGs on Medicare access restrictions for 10 years unless rural/remote qualified; must work in DPA; perverse circularity risk when DPA status removed
+- Rural Generalist Medicine: recognized as medical specialty September 2025 (all Health Ministers); protected title; listed on national register
+- RGTS consolidated into AGPT from January 2026; John Flynn Program → Australian Primary Care Prevocational Program 1 January 2026
+- Additional 200 AGPT commencing places from 2026; 400 from 2028; ACRRM: up to 374 RG places in 2027 (largest intake)
+- Telehealth: 23 new MBS items from 1 July 2025 (18 video, 5 telephone); MyMedicare enrollees exempt from 12-month face-to-face rule from Nov 2025
+- Telehealth usage increases with remoteness; telepsychiatry expanded; 18/20 studies found telehealth cost-saving for rural maternal/child health
+- National Allied Health Workforce Strategy: under development, completion expected 2025; status pending publication
+- Allied health workforce grew 67% nationally 2013–2022; growth heavily concentrated in major cities; small rural towns severely underserved
