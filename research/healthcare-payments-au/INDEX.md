@@ -18,6 +18,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 010 | 2026-06-15 | [MyMedicare and the Continuity of Care Imperative: Australia's Attempt to Shift Primary Care from Episodic to Longitudinal](010-2026-06-15-mymedicare-continuity-of-care-reform.md) | Threads opened: Better Access and the mental health 20-session cap; Medical Costs Finder Bill 2026 (overdue); MyMedicare and ACCHOs; rural/remote payment limits; US trade pressure on PBS |
 | 011 | 2026-06-16 | [Better Access and the Mental Health Rebate: Australia's Subsidised Psychology System — Costs, Caps, and the Equity Crisis](011-2026-06-16-better-access-mental-health-session-cap.md) | Threads opened: rural/remote healthcare payments and Modified Monash Model; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (third deferral); NDIS and psychosocial disability; US trade pressure on PBS |
 | 012 | 2026-06-18 | [Rural and Remote Healthcare Payments: The Modified Monash Model, Workforce Incentives, and the $8.35 Billion Funding Gap](012-2026-06-18-rural-remote-healthcare-payments-modified-monash.md) | Threads opened: Aboriginal and Torres Strait Islander health payments and ACCHOs; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (fourth deferral); NDIS in regional areas; US trade pressure on PBS |
+| 013 | 2026-06-19 | [Aboriginal and Torres Strait Islander Health Payments: ACCHOs, the IAHP, and the $4.4 Billion Funding Gap](013-2026-06-19-aboriginal-torres-strait-islander-health-payments-accho.md) | Threads opened: Headspace and youth mental health block grants (fifth deferral); Medical Costs Finder Bill 2026 (fifth deferral); NDIS and psychosocial disability in remote areas; renal disease and dialysis funding; US trade pressure on PBS |
 
 ---
 
@@ -279,3 +280,27 @@ A daily research series building a connected, deepening body of knowledge on how
 - Telehealth usage increases with remoteness; telepsychiatry expanded; 18/20 studies found telehealth cost-saving for rural maternal/child health
 - National Allied Health Workforce Strategy: under development, completion expected 2025; status pending publication
 - Allied health workforce grew 67% nationally 2013–2022; growth heavily concentrated in major cities; small rural towns severely underserved
+
+## Suggested next branches (from Report 013)
+1. Headspace and youth mental health block grants — PHN-funded, not MBS fee-for-service; 12–25 age cohort; fifth deferral; intersects with Better Access, rural access, and Indigenous mental health
+2. Medical Costs Finder Bill 2026 — specialist fee transparency legislation; fifth deferral; affects all rural, Indigenous, and low-income populations with gap fees
+3. NDIS and psychosocial disability in regional and remote areas — "missing middle" amplified in remote communities; thin provider markets; overlap with ACCHO service delivery
+4. Renal disease and dialysis funding — major driver of Aboriginal health expenditure; paradigm case for remote-area funding complexity; among the most expensive per-patient Commonwealth health commitments
+5. US trade pressure on PBS and Medicare pricing — deferred from Reports 007–012; structural tension between trade negotiation and health equity goals
+
+## Covered topics (Report 013 additions)
+- NACCHO: peak body for Aboriginal Community Controlled Health Organisations; 148 member ACCHOs; 550+ locations; 3.6 million episodes of care annually; 410,000 patients; 7,000 employees (3,500 First Nations)
+- ACCHO mixed funding model: IAHP Commonwealth grants + MBS revenue + state/territory contributions + targeted program grants
+- $4.4 billion annual funding gap: Equity Economics report commissioned by NACCHO; $5,042 per-capita shortfall (total governments + private); $2.6B Commonwealth component alone
+- Disease burden: First Nations burden of disease 2.3x non-Indigenous Australians; life expectancy gap 8.8 years (males), 8.1 years (females) — 2020–22 ABS data
+- First Nations per-capita health expenditure: $12,146/person (2022–23); up from $9,447 (2016–17), 4.3% per annum real growth — insufficient relative to need
+- IAHP Comprehensive Primary Health Care funding: up to $2.697B over 4 years from 2024–25; new activity-based model from 1 July 2024; 50% client numbers + 50% episodes of care (via OSR)
+- MBS Item 715 (Annual Aboriginal Health Assessment): free; once per 9 months; comprehensive lifespan assessment; triggers up to 10 allied health referrals per year; major ACCHO revenue source; NACCHO submitted review May 2025
+- National Agreement on Closing the Gap (2020): 19 targets; joint party with Coalition of Peaks; Productivity Commission data compilation July 2025: only 4/19 on track; suicide rates (Target 14), incarceration, child development, out-of-home care worsening
+- Commonwealth Closing the Gap 2025 Annual Report (tabled February 2026): $250M Commonwealth + $200M states for health and hospital reform; $144.1M for ACCHO health infrastructure
+- Budget 2026–27: $1.2B total First Nations spending; NACCHO verdict "Helpful, yes. Transformational, no."; missing: Culture Care Connect continuation
+- Culture Care Connect: NACCHO-led; 31 regional sites; $53M program; largest Indigenous-led mental health/suicide prevention initiative; $53M not continued in Budget 2026–27
+- Birthing on Country: $44.4M extension in Budget 2026–27; ~1,100 women/year; Waminda trial: 50% reduction in preterm births; 75.6% exclusive breastfeeding at discharge; first 24/7 ACCHO midwifery practice launched 2024
+- Rheumatic heart disease (RHD): 472 ARF diagnoses in 2024 (93% First Nations); 11,794 on registers (81% First Nations); RHD endgame strategy targets elimination by 2031; Aboriginal children 55x more likely to die from RHD
+- First Nations Health Worker Traineeship Program (FNHWTP): $54.3M; target 500 trainees by 2027; 300+ enrolled by mid-2024; NACCHO goal of 8,000+ additional First Nations health workers across sector
+- Budget 2026–27 FNHWTP: $2.7M over 3 years for additional cohort from January 2026
