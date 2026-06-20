@@ -19,6 +19,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 011 | 2026-06-16 | [Better Access and the Mental Health Rebate: Australia's Subsidised Psychology System — Costs, Caps, and the Equity Crisis](011-2026-06-16-better-access-mental-health-session-cap.md) | Threads opened: rural/remote healthcare payments and Modified Monash Model; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (third deferral); NDIS and psychosocial disability; US trade pressure on PBS |
 | 012 | 2026-06-18 | [Rural and Remote Healthcare Payments: The Modified Monash Model, Workforce Incentives, and the $8.35 Billion Funding Gap](012-2026-06-18-rural-remote-healthcare-payments-modified-monash.md) | Threads opened: Aboriginal and Torres Strait Islander health payments and ACCHOs; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (fourth deferral); NDIS in regional areas; US trade pressure on PBS |
 | 013 | 2026-06-19 | [Aboriginal and Torres Strait Islander Health Payments: ACCHOs, the IAHP, and the $4.4 Billion Funding Gap](013-2026-06-19-aboriginal-torres-strait-islander-health-payments-accho.md) | Threads opened: Headspace and youth mental health block grants (fifth deferral); Medical Costs Finder Bill 2026 (fifth deferral); NDIS and psychosocial disability in remote areas; renal disease and dialysis funding; US trade pressure on PBS |
+| 014 | 2026-06-20 | [Renal Disease and Dialysis Funding in Australia: The $8.3 Billion Crisis, Remote Access, and the Transplant Equity Gap](014-2026-06-20-renal-disease-dialysis-funding-indigenous.md) | Threads opened: Headspace and youth mental health block grants (sixth deferral); Medical Costs Finder Bill 2026 (sixth deferral); NDIS in regional/remote areas; US trade pressure on PBS; specialist OOP costs and nephrology referral barriers |
 
 ---
 
@@ -304,3 +305,36 @@ A daily research series building a connected, deepening body of knowledge on how
 - Rheumatic heart disease (RHD): 472 ARF diagnoses in 2024 (93% First Nations); 11,794 on registers (81% First Nations); RHD endgame strategy targets elimination by 2031; Aboriginal children 55x more likely to die from RHD
 - First Nations Health Worker Traineeship Program (FNHWTP): $54.3M; target 500 trainees by 2027; 300+ enrolled by mid-2024; NACCHO goal of 8,000+ additional First Nations health workers across sector
 - Budget 2026–27 FNHWTP: $2.7M over 3 years for additional cohort from January 2026
+
+## Suggested next branches (from Report 014)
+1. Headspace and youth mental health block grants — PHN-funded, not MBS fee-for-service; 12–25 age cohort; sixth deferral; intersects with Better Access, rural access, Indigenous mental health
+2. Medical Costs Finder Bill 2026 — specialist fee transparency legislation; sixth deferral; OOP cost barriers to nephrology referral are a direct link from this report
+3. NDIS and psychosocial disability in regional and remote areas — "missing middle" amplified in communities already carrying dialysis transport burdens
+4. US trade pressure on PBS pricing — deferred from Reports 007–013; post-transplant immunosuppressant medicines represent a large PBS subcategory relevant here
+5. Specialist OOP costs and access to nephrology — early CKD management requires specialist referral; gap fees may delay diagnosis and transplant pathway entry
+
+## Covered topics (Report 014 additions)
+- Chronic kidney disease (CKD): affects ~1.7 million Australians; primary drivers type 2 diabetes and hypertension; 5 stages; Stage 5 = ESKD requiring renal replacement therapy
+- Total CKD cost: $8.3 billion (2019, in 2023 AUD); BMC Health Services Research 2024 study — bottom-up methodology
+- Cost by CKD stage: Stage 1 $3,367/year; Stage 3b $6,572/year; Stage 5 non-dialysis $62,558/year; Stage 5 on dialysis ~$85,000/year
+- AIHW CKD hospital expenditure: $1.9 billion (2020-21) — widely considered undercount
+- National dialysis patients: 15,518; 76% in-centre haemodialysis, 24% home dialysis (peritoneal or home HD)
+- Estimated dialysis annual system cost: ~$1.32 billion (15,518 patients × $85K)
+- First Nations ESKD age-standardised rate: 605 per million (ANZDATA 2018-22); 6–8x non-Indigenous rate
+- NT Aboriginal ESKD incidence: 5.26 per 1,000 vs 0.36 per 1,000 non-Aboriginal NT; prevalence 17.97 vs 1.07 per 1,000 (up to 15x difference)
+- First Nations kidney replacement therapy: 2,568 patients (Dec 2021); 85% on dialysis, 15% transplant; non-Indigenous: 49% transplant rate
+- Transplant waitlisting: 2% of First Nations patients (47 of 2,046) vs 8% non-Indigenous (Dec 2020)
+- Dialysis hospitalisation remoteness gradient: 137 per 1,000 major cities → 681 per 1,000 remote/very remote
+- Dialysis funding architecture: in-centre funded through state hospital budgets via NHRA; remote areas via IAHP program grants and MBS items 13104/13105
+- MBS Item 13105: haemodialysis management in MM7 by nurse/AHW/health practitioner; ~$590/session; introduced November 2018; transformative for Purple House revenue model
+- Purple House (Western Desert NWPT Aboriginal Corporation): 20 remote communities; NT, WA, SA; mobile Purple Truck; all-Yanangu board; only provider of fully remote community dialysis in Australia; founded from Papunya Tula Artists auction ($1M+, 2000)
+- Better Renal Services for First Nations Peoples: $73.2M total; up to 30 satellite dialysis units over 4 years; includes workforce accommodation
+  - Round 1: 6 sites — Coober Pedy, Yalata (SA); Balgo (WA); Atitjere/Harts Range, Borroloola, Ti-Tree (NT)
+  - Round 2: $10.35M — Badu Island/QLD, Tom Price/WA, Wiluna/WA
+  - Round 3: $18.58M — Alekarenge/Ali Curung, Galiwin'ku, Maningrida, Yuendumu (NT); Jigalong, Warburton (WA); Normanton (QLD)
+- Better Renal Services Steering Committee: advises Health Minister on site selection, workforce, accommodation, sustainability
+- "Dialysis on Country" evidence: SA Mobile Dialysis Bus qualitative study — improved social and emotional wellbeing, treatment adherence, quality of life; cultural dislocation associated with poorer health outcomes
+- National Indigenous Kidney Transplantation Taskforce (NIKTT): established 2019; $2.3M Commonwealth seed funding; 36 recommendations from TSANZ Expert Panel; 2025 Gathering at SAHMRI February 2025; focus on data dashboard, Indigenous Reference Groups at transplant units, culturally safe evaluation
+- Home dialysis rate: 24% nationally; substantially lower in remote Indigenous communities due to housing/infrastructure barriers; peritoneal dialysis growth fastest modality
+- MJA 2025 reform call: "Dialysis care in Australia: a call for reform and innovation" — modality incentive reform, infrastructure investment for home dialysis in remote communities
+- State–Commonwealth funding split: penalises high-burden jurisdictions (especially NT); NHRA hospital funding baseline does not adequately weight ESKD burden
