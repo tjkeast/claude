@@ -20,6 +20,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 012 | 2026-06-18 | [Rural and Remote Healthcare Payments: The Modified Monash Model, Workforce Incentives, and the $8.35 Billion Funding Gap](012-2026-06-18-rural-remote-healthcare-payments-modified-monash.md) | Threads opened: Aboriginal and Torres Strait Islander health payments and ACCHOs; Headspace and youth mental health block grants; Medical Costs Finder Bill 2026 (fourth deferral); NDIS in regional areas; US trade pressure on PBS |
 | 013 | 2026-06-19 | [Aboriginal and Torres Strait Islander Health Payments: ACCHOs, the IAHP, and the $4.4 Billion Funding Gap](013-2026-06-19-aboriginal-torres-strait-islander-health-payments-accho.md) | Threads opened: Headspace and youth mental health block grants (fifth deferral); Medical Costs Finder Bill 2026 (fifth deferral); NDIS and psychosocial disability in remote areas; renal disease and dialysis funding; US trade pressure on PBS |
 | 014 | 2026-06-20 | [Renal Disease and Dialysis Funding in Australia: The $8.3 Billion Crisis, Remote Access, and the Transplant Equity Gap](014-2026-06-20-renal-disease-dialysis-funding-indigenous.md) | Threads opened: Headspace and youth mental health block grants (sixth deferral); Medical Costs Finder Bill 2026 (sixth deferral); NDIS in regional/remote areas; US trade pressure on PBS; specialist OOP costs and nephrology referral barriers |
+| 015 | 2026-06-21 | [Headspace and the PHN Block Grant Model: How Australia Funds Youth Mental Health Outside the MBS](015-2026-06-21-headspace-youth-mental-health-block-grants.md) | Opened: Medical Costs Finder Bill 2026 (seventh deferral, must be next); NDIS and psychosocial disability/missing middle; Medicare Mental Health Centres model vs headspace overlap; US trade pressure on PBS (eighth deferral); CAMHS (Child and Adolescent MHS) state funding |
 
 ---
 
@@ -338,3 +339,27 @@ A daily research series building a connected, deepening body of knowledge on how
 - Home dialysis rate: 24% nationally; substantially lower in remote Indigenous communities due to housing/infrastructure barriers; peritoneal dialysis growth fastest modality
 - MJA 2025 reform call: "Dialysis care in Australia: a call for reform and innovation" — modality incentive reform, infrastructure investment for home dialysis in remote communities
 - State–Commonwealth funding split: penalises high-burden jurisdictions (especially NT); NHRA hospital funding baseline does not adequately weight ESKD burden
+
+## Suggested next branches (from Report 015)
+1. Medical Costs Finder Bill 2026 — specialist fee transparency legislation; seventh deferral; must now be covered
+2. NDIS and psychosocial disability — "missing middle" for young people too unwell for headspace and not qualifying for NDIS; Productivity Commission November 2025 recommendations
+3. Medicare Mental Health Centres (MMHCs) — Albanese Government's free walk-in mental health model; overlaps with headspace territory; structural comparison warranted
+4. US trade pressure on PBS pricing — deferred from Reports 007–014; now eighth deferral
+5. CAMHS (Child and Adolescent Mental Health Services) — state-funded; highest-severity end of youth mental health; referral endpoint for headspace; data-sparse nationally
+
+## Covered topics (Report 015 additions)
+- headspace National Youth Mental Health Foundation (NYMHF): established 2006; age range 12–25; free at point of care; multidisciplinary one-stop-shop
+- headspace network: ~164 physical centres nationally by 2023–24 [needs verification]; eheadspace (online/phone, 9am–1am AEST, 7 days); School Support program; Early Psychosis program
+- Three-layer architecture: Commonwealth → PHN block grants → local lead agencies operating centres under headspace brand/quality framework
+- headspace National (NYMHF): holds brand, sets clinical standards, provides training, manages data/research; funded directly by Commonwealth
+- PHN commissioning (from ~2015–17): PHNs sub-commission centre operation from lead agencies (NGOs, community health orgs); PHN discretion over allocation within mental health block grants
+- Annual clients served: approximately 100,000–120,000 young Australians/year through centres [needs verification from AIHW]
+- System cost estimate: ~$300–$500 million/year when PHN-attributable funding + headspace National grant aggregated [needs verification; flows obscured by PHN block structure]
+- Cost per client estimate: ~$2,500–$4,000/year [derived, needs verification]; not directly comparable to Better Access (~$1,000 in Medicare rebates for 10 sessions)
+- Structural strengths: free access (no gap fee); holistic co-location; youth-specific environment; flexible staff mix; no externally mandated hard session cap per client
+- Structural weaknesses: PHN discretion → geographic variation; outcome measurement gap (no per-episode billing/claims data); clinical governance variability across 164 centres/lead agencies; rural/remote coverage gap; severity ceiling (not designed for severe illness)
+- headspace vs Better Access overlap for 12–25s: headspace free/holistic; Better Access gap fees ($92/session 2023)/10-session cap/MBS data trail; policy case for integration unresolved
+- "Missing middle": young people with moderate-to-severe illness falling between headspace (too complex), Better Access cap (insufficient sessions), CAMHS (long waits), and NDIS (too high a threshold for psychosocial disability)
+- Clinical workforce shortage impact on headspace: psychology undersupply (57.3% FTE gap, 2025) flows into centre staffing; broader staff mix provides partial buffer
+- Indigenous youth and headspace: cultural adaptation variable; ACCHO model (Report 013) may be more appropriate in some communities; rural centre gaps amplify Indigenous access inequity
+- Rickwood et al. (2019): foundational academic description of headspace centre model — Early Intervention in Psychiatry, 13(1), 159–166
