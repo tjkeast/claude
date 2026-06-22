@@ -21,6 +21,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 013 | 2026-06-19 | [Aboriginal and Torres Strait Islander Health Payments: ACCHOs, the IAHP, and the $4.4 Billion Funding Gap](013-2026-06-19-aboriginal-torres-strait-islander-health-payments-accho.md) | Threads opened: Headspace and youth mental health block grants (fifth deferral); Medical Costs Finder Bill 2026 (fifth deferral); NDIS and psychosocial disability in remote areas; renal disease and dialysis funding; US trade pressure on PBS |
 | 014 | 2026-06-20 | [Renal Disease and Dialysis Funding in Australia: The $8.3 Billion Crisis, Remote Access, and the Transplant Equity Gap](014-2026-06-20-renal-disease-dialysis-funding-indigenous.md) | Threads opened: Headspace and youth mental health block grants (sixth deferral); Medical Costs Finder Bill 2026 (sixth deferral); NDIS in regional/remote areas; US trade pressure on PBS; specialist OOP costs and nephrology referral barriers |
 | 015 | 2026-06-21 | [Headspace and the PHN Block Grant Model: How Australia Funds Youth Mental Health Outside the MBS](015-2026-06-21-headspace-youth-mental-health-block-grants.md) | Opened: Medical Costs Finder Bill 2026 (seventh deferral, must be next); NDIS and psychosocial disability/missing middle; Medicare Mental Health Centres model vs headspace overlap; US trade pressure on PBS (eighth deferral); CAMHS (Child and Adolescent MHS) state funding |
+| 016 | 2026-06-22 | [The Medical Costs Finder Bill 2026: Mandatory Specialist Fee Disclosure and Australia's Unregulated Gap Fee Crisis](016-2026-06-22-medical-costs-finder-bill-specialist-fee-transparency.md) | Opened: NDIS and psychosocial disability (missing middle; tenth deferral); US trade pressure on PBS (ninth deferral); specialist supply constraints and training pipeline; CAMHS; Medicare Mental Health Centres |
 
 ---
 
@@ -363,3 +364,31 @@ A daily research series building a connected, deepening body of knowledge on how
 - Clinical workforce shortage impact on headspace: psychology undersupply (57.3% FTE gap, 2025) flows into centre staffing; broader staff mix provides partial buffer
 - Indigenous youth and headspace: cultural adaptation variable; ACCHO model (Report 013) may be more appropriate in some communities; rural centre gaps amplify Indigenous access inequity
 - Rickwood et al. (2019): foundational academic description of headspace centre model — Early Intervention in Psychiatry, 13(1), 159–166
+
+## Suggested next branches (from Report 016)
+1. NDIS and psychosocial disability — "missing middle"; Productivity Commission November 2025 recommendations; how NDIS psychosocial disability funding is structured; now ninth deferral
+2. US trade pressure on PBS pricing — AUSFTA; PHARMAC and PBS as "unfair trade barriers"; Trump administration international reference pricing executive order; now nine deferrals
+3. Specialist supply constraints and training pipeline — college training number controls; ophthalmology/ENT/psychiatry shortages; Health Ministers' negotiations; how supply limits reinforce fee power
+4. CAMHS (Child and Adolescent Mental Health Services) — state-funded; highest-severity end of youth mental health; data-sparse; long waitlists
+5. Medicare Mental Health Centres (MMHCs) — Albanese Government's free walk-in mental health model; overlap/duplication with headspace
+
+## Covered topics (Report 016 additions)
+- Medical Costs Finder (MCF) original website: Morrison Government, ~2019; ~$24.2 million total cost; voluntary specialist disclosure; 11 non-GP specialty groups; ~6,300–11,000 eligible specialists
+- MCF voluntary disclosure failure: 6–7 doctors participated by end 2022; ~88–101 total by mid-2025 (well under 2% participation rate)
+- Health Legislation Amendment (Improving Choice and Transparency for Private Health Consumers) Bill 2026: introduced 12 February 2026 by Minister Butler; passed House; Senate Community Affairs Committee recommended passage April 2026; Coalition warned "not ready"
+- Bill Schedule 1: authorises DoH&DA to publish Medicare, hospital, insurer billing data on MCF without voluntary consent; data includes name, specialty, qualifications, languages, fees by MBS item, bulk billing rate, gap cover arrangements, location
+- Government commitment: additional $7 million to analyse annual Medicare/hospital/insurer data for every common medical service
+- PHI product phoenixing ban (included in same bill): insurers prohibited from closing/relaunching products to raise prices; Ministerial approval required for new product premiums and benefit-reducing changes
+- Specialist gap fee statistics (2023–24): average specialist attendance gap rose from $49.56 (2010–11) to $117.18 (2023–24) = 136% increase vs 40% CPI
+- OOP spending: rising 6.2% per year; 17% of total Australian health spending (among highest OECD)
+- Access impact: 8.6% of Australians (800,000+) delayed/missed specialist care due to cost in 2024–25
+- Median in-hospital specialist gap fee: up 22% since 2022
+- APRA PHI hospital OOP: average $266.50 where applicable; orthopaedic average gap $707.78 (Sep 2024)
+- PHI no-gap rate: 87.1% of PHI hospital services at no-gap (2024–25); down 0.6pp YoY; down 2.8pp over 5 years
+- Fee by specialty (approximate): dermatology Item 104 ~$280 average ($199 OOP); obs/gynae ~$255 ($174 OOP); ENT 2–3x schedule fees; psychiatry $500–$1,000 upfront first appointment common
+- AMA position: supports intent; "fundamental flaw" — no mechanism to correct published data; single average fee is misleading; no consultation on methodology; recommends transparent review process for practitioners to correct errors
+- Grattan Institute "Special Treatment" report (15 June 2025): specialist fees up 73% real terms since 2010; 10% of patients pay ~$600/year; recommend $500M/year for public specialist expansion (1M extra services/year); de-list Medicare for specialists >3x MBS rebate; publish names of excessive chargers; $60M to modernise public clinics
+- Australia: specialist fees entirely unregulated (no legal cap); outlier among comparable OECD countries
+- Market failure features limiting transparency impact: constrained provider choice; information asymmetry (price ≠ quality); emergency/inpatient contexts eliminate choice; thin geographic markets in rural areas
+- Extended Medicare Safety Net (EMSN): backstops worst-case OOP but creates perverse incentive insulating high-fee specialists from market pressure
+- Informed financial consent law: already exists in Health Insurance Act; 38% of patients still receiving unexpected bills; enforcement gap
