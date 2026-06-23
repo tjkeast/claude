@@ -22,6 +22,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 014 | 2026-06-20 | [Renal Disease and Dialysis Funding in Australia: The $8.3 Billion Crisis, Remote Access, and the Transplant Equity Gap](014-2026-06-20-renal-disease-dialysis-funding-indigenous.md) | Threads opened: Headspace and youth mental health block grants (sixth deferral); Medical Costs Finder Bill 2026 (sixth deferral); NDIS in regional/remote areas; US trade pressure on PBS; specialist OOP costs and nephrology referral barriers |
 | 015 | 2026-06-21 | [Headspace and the PHN Block Grant Model: How Australia Funds Youth Mental Health Outside the MBS](015-2026-06-21-headspace-youth-mental-health-block-grants.md) | Opened: Medical Costs Finder Bill 2026 (seventh deferral, must be next); NDIS and psychosocial disability/missing middle; Medicare Mental Health Centres model vs headspace overlap; US trade pressure on PBS (eighth deferral); CAMHS (Child and Adolescent MHS) state funding |
 | 016 | 2026-06-22 | [The Medical Costs Finder Bill 2026: Mandatory Specialist Fee Disclosure and Australia's Unregulated Gap Fee Crisis](016-2026-06-22-medical-costs-finder-bill-specialist-fee-transparency.md) | Opened: NDIS and psychosocial disability (missing middle; tenth deferral); US trade pressure on PBS (ninth deferral); specialist supply constraints and training pipeline; CAMHS; Medicare Mental Health Centres |
+| 017 | 2026-06-23 | [NDIS and Psychosocial Disability: The "Missing Middle", the $86,600 Average Plan, and the Race Against Time to Build Foundational Supports](017-2026-06-23-ndis-psychosocial-disability-missing-middle.md) | Opened: US trade pressure on PBS (now ten deferrals; most urgent remaining thread); CAMHS state funding; Medicare Mental Health Centres; NDIS fraud/quality failures; aged care–NDIS transition |
 
 ---
 
@@ -392,3 +393,32 @@ A daily research series building a connected, deepening body of knowledge on how
 - Market failure features limiting transparency impact: constrained provider choice; information asymmetry (price ≠ quality); emergency/inpatient contexts eliminate choice; thin geographic markets in rural areas
 - Extended Medicare Safety Net (EMSN): backstops worst-case OOP but creates perverse incentive insulating high-fee specialists from market pressure
 - Informed financial consent law: already exists in Health Insurance Act; 38% of patients still receiving unexpected bills; enforcement gap
+
+## Suggested next branches (from Report 017)
+1. US trade pressure on PBS and Medicare pricing — AUSFTA pharmaceutical pricing provisions; Trump administration international reference pricing executive order; Australia's PBS as "unfair trade barrier" (PhRMA); implications for $19.1B PBS and $53.8B NDIS budgets; TEN deferrals — must be next
+2. CAMHS (Child and Adolescent Mental Health Services) — state-funded; highest-severity youth mental health; referral endpoint from headspace and NDIS; national wait-time data sparse
+3. Medicare Mental Health Centres (MMHCs) — Albanese Government's free walk-in mental health model; explicitly positioned as clinical-tier counterpart to Foundational Supports; comparison with headspace warranted
+4. NDIS fraud and quality failures — four-pillar reform package includes fraud prevention; NDIS Inspector-General identified hundreds of millions in fraudulent billing; payment architecture vulnerabilities
+5. Aged care and the NDIS interface — participants must exit NDIS at 65; psychosocial disability in older adults substantially underserved; transition is a documented point of service collapse
+
+## Covered topics (Report 017 additions)
+- NDIS participants (total): 739,414 at 30 June 2025; 761,442 at 31 December 2025
+- NDIS total cost: $38.0B (2023–24); $41.4B (2024–25); $53.8B forecast (2025–26)
+- NDIS psychosocial disability participants: 65,272 active (30 June 2025); 9% of all participants; ~64,516 with primary psychosocial disability (Dec 2024)
+- Average annual plan budget (psychosocial): $86,600 (Dec 2024); above scheme average (~$70,600)
+- Total NDIS psychosocial spending: ~$4.25 billion (2022–23); estimated ~$5.6 billion by 2025 (65,272 × $86,600)
+- NDIS eligibility (psychosocial): must demonstrate permanent or likely permanent impairment substantially reducing functional capacity; episodic conditions can qualify but evidence burden is high
+- Psychosocial NDIS supports: psychosocial recovery coaching (new role 2020); support workers for daily tasks; community participation; support coordination; SIL (supported independent living)
+- "Missing middle" unmet need: 230,500 people aged 12–64 unable to access psychosocial supports (2022–23 analysis, released August 2024); broader estimate 500,000 with moderate-to-severe mental illness not NDIS-eligible
+- Commonwealth Psychosocial Support Program (CPSP): ~25,000 people; $272.1 million extended 2 years to 30 June 2027 (MYEFO 2024–25); ~$136M/year; ~$5,440/person/year
+- Funding intensity ratio: NDIS psychosocial $86,600/year vs CPSP $5,440/year = 16:1
+- Pre-NDIS context: states/territories provided psychosocial block grants; progressively defunded when NDIS launched; non-NDIS services decimated
+- Productivity Commission Mental Health and Suicide Prevention Agreement Review: final report tabled 11 November 2025; 24 recommendations; National Agreement "not fit for purpose"; must be rewritten
+- PC key recommendation: states/territories should "immediately prioritise" addressing psychosocial support gap; national plan to "fully meet this need by 2030"
+- NDIS Amendment (Securing the NDIS for Future Generations) Bill 2026: introduced 14 May 2026; 2% annual growth cap to 2030; $37.8B savings vs forecast over 4 years
+- Participation support budget cuts: from 1 October 2026; social/community participation budgets ~$33,000 → ~$26,000/participant (reset to "2023 levels")
+- Functional capacity assessments: standardised assessments to determine eligibility do NOT commence until January 2028
+- Foundational Supports: $3B Commonwealth over 5 years (+ state matching = ~$6B); $2B Thriving Kids; $200M Inclusive Communities Fund
+- Critical sequencing gap: cuts begin October 2026; Foundational Supports undesigned, unfunded at service delivery level, not yet operational as at June 2026
+- People most at risk from cuts: psychosocial disability (episodic/fluctuating conditions); those without strong advocacy/informal supports
+- Mental Health Coordinating Council warning: "will take time to rebuild support services that were closed in NSW to fund the NDIS"
