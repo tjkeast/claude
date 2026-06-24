@@ -23,6 +23,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 015 | 2026-06-21 | [Headspace and the PHN Block Grant Model: How Australia Funds Youth Mental Health Outside the MBS](015-2026-06-21-headspace-youth-mental-health-block-grants.md) | Opened: Medical Costs Finder Bill 2026 (seventh deferral, must be next); NDIS and psychosocial disability/missing middle; Medicare Mental Health Centres model vs headspace overlap; US trade pressure on PBS (eighth deferral); CAMHS (Child and Adolescent MHS) state funding |
 | 016 | 2026-06-22 | [The Medical Costs Finder Bill 2026: Mandatory Specialist Fee Disclosure and Australia's Unregulated Gap Fee Crisis](016-2026-06-22-medical-costs-finder-bill-specialist-fee-transparency.md) | Opened: NDIS and psychosocial disability (missing middle; tenth deferral); US trade pressure on PBS (ninth deferral); specialist supply constraints and training pipeline; CAMHS; Medicare Mental Health Centres |
 | 017 | 2026-06-23 | [NDIS and Psychosocial Disability: The "Missing Middle", the $86,600 Average Plan, and the Race Against Time to Build Foundational Supports](017-2026-06-23-ndis-psychosocial-disability-missing-middle.md) | Opened: US trade pressure on PBS (now ten deferrals; most urgent remaining thread); CAMHS state funding; Medicare Mental Health Centres; NDIS fraud/quality failures; aged care–NDIS transition |
+| 018 | 2026-06-24 | [US Trade Pressure on Australia's PBS: MFN Drug Pricing, Pharmaceutical Tariffs, and the Question of Healthcare Sovereignty](018-2026-06-24-us-trade-pressure-pbs-mfn-pricing-tariffs.md) | Opened: CAMHS state funding; Medicare Mental Health Centres; HTA reform and Budget 2026-27 failure; NDIS fraud and quality failures; aged care–NDIS transition |
 
 ---
 
@@ -422,3 +423,27 @@ A daily research series building a connected, deepening body of knowledge on how
 - Critical sequencing gap: cuts begin October 2026; Foundational Supports undesigned, unfunded at service delivery level, not yet operational as at June 2026
 - People most at risk from cuts: psychosocial disability (episodic/fluctuating conditions); those without strong advocacy/informal supports
 - Mental Health Coordinating Council warning: "will take time to rebuild support services that were closed in NSW to fund the NDIS"
+
+## Suggested next branches (from Report 018)
+1. CAMHS (Child and Adolescent Mental Health Services) — state-funded; highest-severity youth mental health; referral endpoint from headspace and NDIS; national wait-time data almost entirely absent; inflows will be affected by NDIS reform
+2. Medicare Mental Health Centres (MMHCs) — Albanese Government's free walk-in mental health model; funded in Budget 2023-24; rollout status largely unreported; compare with headspace structure
+3. HTA Reform and the 2026-27 Budget failure — HTA IAG recommendations unfunded despite Medicines Australia and Rare Cancers Australia calls; compounds MFN launch delay risk; links to Reports 003-006
+4. NDIS fraud and quality failures — NDIS Inspector-General; payment architecture vulnerabilities; four-pillar reform package fraud prevention pillar; link to psychosocial disability provider market
+5. Aged care and the NDIS interface — NDIS exit at age 65; psychosocial disability in older adults; transition collapse; aged care system funding (Report 001 thread still uncovered)
+
+## Covered topics (Report 018 additions)
+- AUSFTA Annex 2-C (2004-2005): innovation recognition language; transparency requirements; PBAC independent review right; joint pharmaceutical review committee; lobbying niche created for US pharma industry
+- PhRMA 2025 NTE submission complaints: patent holder notification inadequacy; PBS listing delays (33-month average from global first launch); delays "contrary to Annex 2-C Article 2(a)"; compulsory licensing concerns
+- PhRMA 2026 NTE submission: continued complaints on patent notification and PBS delays; structural "unfair trade practice" characterisation
+- Trump May 2025 MFN Executive Order ("Delivering Most-Favored-Nation Prescription Drug Pricing to American Patients"): companies must charge US patients no more than lowest price in "comparably developed nations"; Australia's PBS prices among lowest OECD
+- MFN perverse incentive: companies avoid PBS listing to avoid creating a low reference price that becomes US MFN benchmark
+- MFN market impact: European new medicine launches fell 43% in 10 months following MFN implementation vs prior 10 months
+- 17 MFN pricing deals by April 2026: covers ~86% of branded drug market; UK, EU, Japan in bilateral negotiations with US
+- Trump April 2026 pharmaceutical tariff order: 100% tariff from 29 September 2026 for non-compliant patented pharma; 0% for MFN deal + US onshoring; 0% for generics; 0% for blood plasma (CSL-relevant); 20% with manufacturing plan
+- Australian pharmaceutical exports to US: AU$1.9B (year to Dec 2024); 58.7% of all pharma exports; ~87% blood plasma products (CSL)
+- CSL: large US manufacturing presence; blood plasma exempt; expected to qualify for 0% tariff rate
+- Australian Government position: PM Albanese "PBS not for sale"; Treasurer Chalmers "very concerning" but "won't trade away PBS"; Health Minister Butler "no negotiation"; Trade Minister Farrell "disappointed, pushing for removal"
+- PBS general co-payment: reduced to $25.00 from 1 January 2026 (election commitment)
+- PBS concessional co-payment: $7.70, frozen to 2030
+- Medicines Australia Budget 2026-27 verdict: "ignores life-changing new and future medicines despite global challenges"; HTA IAG reform unfunded
+- Real risk: not forced PBS price increases but manufacturer market de-prioritisation of Australia due to MFN pricing chilling effect; HTA reform backlog compounds access delays
