@@ -24,6 +24,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 016 | 2026-06-22 | [The Medical Costs Finder Bill 2026: Mandatory Specialist Fee Disclosure and Australia's Unregulated Gap Fee Crisis](016-2026-06-22-medical-costs-finder-bill-specialist-fee-transparency.md) | Opened: NDIS and psychosocial disability (missing middle; tenth deferral); US trade pressure on PBS (ninth deferral); specialist supply constraints and training pipeline; CAMHS; Medicare Mental Health Centres |
 | 017 | 2026-06-23 | [NDIS and Psychosocial Disability: The "Missing Middle", the $86,600 Average Plan, and the Race Against Time to Build Foundational Supports](017-2026-06-23-ndis-psychosocial-disability-missing-middle.md) | Opened: US trade pressure on PBS (now ten deferrals; most urgent remaining thread); CAMHS state funding; Medicare Mental Health Centres; NDIS fraud/quality failures; aged care–NDIS transition |
 | 018 | 2026-06-24 | [US Trade Pressure on Australia's PBS: MFN Drug Pricing, Pharmaceutical Tariffs, and the Question of Healthcare Sovereignty](018-2026-06-24-us-trade-pressure-pbs-mfn-pricing-tariffs.md) | Opened: CAMHS state funding; Medicare Mental Health Centres; HTA reform and Budget 2026-27 failure; NDIS fraud and quality failures; aged care–NDIS transition |
+| 019 | 2026-06-25 | [Child and Adolescent Mental Health Services (CAMHS): Australia's Invisible Crisis in Specialist Youth Mental Health](019-2026-06-25-camhs-child-adolescent-mental-health-state-funding-gap.md) | Opened: Medicare Mental Health Centres (MMHCs) — the direct lower-tier response to CAMHS pressure; HTA reform failure; aged care and NDIS interface (long-deferred); NDIS fraud; specialist training pipeline |
 
 ---
 
@@ -447,3 +448,39 @@ A daily research series building a connected, deepening body of knowledge on how
 - PBS concessional co-payment: $7.70, frozen to 2030
 - Medicines Australia Budget 2026-27 verdict: "ignores life-changing new and future medicines despite global challenges"; HTA IAG reform unfunded
 - Real risk: not forced PBS price increases but manufacturer market de-prioritisation of Australia due to MFN pricing chilling effect; HTA reform backlog compounds access delays
+
+## Suggested next branches (from Report 019)
+1. Medicare Mental Health Centres (MMHCs) — free walk-in mental health model; directly positioned to absorb CAMHS overflow at lower severity; rollout status largely unreported; funded Budget 2023-24
+2. HTA Reform and 2026-27 Budget failure — HTA IAG recommendations unfunded; compounds PBS access delays for innovative medicines; links to Reports 003-006
+3. Aged care and the NDIS interface — NDIS exit at 65; psychosocial disability in older adults; transition is a documented service collapse point; aged care funding (AN-ACC, My Aged Care) is the only Report 001 thread entirely uncovered
+4. NDIS fraud and quality failures — Inspector-General findings; payment architecture vulnerabilities; provider market in psychosocial disability
+5. Specialist training pipeline — medical college training controls across psychiatry and child psychiatry; how supply restrictions perpetuate the 56% demand-meet and compound CAMHS workforce shortage
+
+## Covered topics (Report 019 additions)
+- CAMHS definition: state-funded specialist tier for children and adolescents with severe/acute mental illness; distinct from headspace (mild-moderate, PHN/Commonwealth), Better Access (MBS fee-for-service), and NDIS (disability)
+- CAMHS services: multidisciplinary community teams, outpatient clinics, inpatient units, eating disorders programs, early psychosis, ED liaison, crisis response
+- Funding split: states/territories fund CAMHS; Commonwealth funds Medicare (private psychiatry), NDIS, PHN block grants; no single accountable national body
+- Mental disorder prevalence: 16-24 year olds rose 50% from 26% (2007) to 39% (2021)
+- Female adolescents 15-17: 27% reported serious mental illness (2021)
+- Female 15-19 self-harm hospitalisation rate: 405 per 100,000 (2023-24); males 114 per 100,000
+- Self-harm hospitalisations in 15-19 year olds: +43% in decade to 2019; NSW per capita 10-19 year olds doubled same period
+- ED mental health presentations NSW 10-19 year olds: +27% per year 2010-2014
+- Young adults 18-34: 45% experiencing psychological distress symptoms in 2025 (up from 40% in 2023)
+- Mean wait time: 99.6 days across all providers; 100.1 days psychologists; 127.5 days psychiatrists (adolescents, study of 375 young people aged 13-17, April-June 2022)
+- 85.2% of waiting adolescents felt waits "too long"; most received no support during wait; associated with increased distress and maladaptive coping
+- Practitioner dissatisfaction: ~70% dissatisfied (30.4% very dissatisfied; 39.2% somewhat) — survey of 206 practitioners, Australian Journal of Psychology, June 2025
+- ~50% of services have a waitlist; ~50% of practitioners find it difficult to navigate the referral system
+- CAMHS coverage: less than 1% of under-18 year olds (substantially below comparable OECD countries)
+- CAMHS inpatient beds nationally (2019-20): 312 total (272 acute, 40 non-acute)
+- Per capita CAMHS beds: 5.5 per 100,000 vs 31.9 for adults vs 22.1 for older persons
+- Victoria: ~60 adolescent short-term inpatient beds for 6-7 million people
+- Tasmania: no dedicated CAMHS inpatient beds
+- CAMHS admission indicators: higher cost per patient day, shorter length of stay, higher 14-day readmission rate, lower significant improvement rates vs adult services (Brazel et al. 2023)
+- Acute CAMHS expenditure: +4.5%/year 2015-20; non-acute CAMHS: -4.9%/year — concentrating investment in emergency while step-down capacity shrinks
+- CAMHS national data: no national waiting-time reporting standard (unlike UK/Scotland which publish quarterly)
+- Psychiatry workforce: meets 56% of national demand; 93% of psychiatrists say shortages harm patient care; 20.7% projected undersupply by 2048; 43% intending to retire in next decade
+- Child and adolescent psychiatry: among most acute shortage subspecialties nationally
+- Rural psychiatrists: 14% of workforce in rural areas vs 29% of population rural
+- WA CAMHS audit (17 June 2026): WA Auditor General Caroline Spencer — 1 of 32 recommendations implemented after 3 years of nine-year reform; MHC had no credible plan; January 2023 plan failed to address 12 recommendations; January 2026 plan still incomplete; no plans addressing funding, workforce, infrastructure
+- 2026-27 Federal Budget CAMHS-relevant measures: $277.5M National Mental Health and Suicide Prevention Agreement extension; $3.1M school mental health Years 7-9; $2B Thriving Kids (autism/developmental, under-8 — not CAMHS cohort); $19.5M WA CAMHS Crisis Connect
+- National Child and Adolescent Mental Health and Wellbeing Study ("Young Minds: Our Future"): fieldwork commenced November 2025; results expected 2027; $8.1M; first national prevalence update in over a decade
