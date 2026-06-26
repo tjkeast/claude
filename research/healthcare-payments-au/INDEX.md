@@ -25,6 +25,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 017 | 2026-06-23 | [NDIS and Psychosocial Disability: The "Missing Middle", the $86,600 Average Plan, and the Race Against Time to Build Foundational Supports](017-2026-06-23-ndis-psychosocial-disability-missing-middle.md) | Opened: US trade pressure on PBS (now ten deferrals; most urgent remaining thread); CAMHS state funding; Medicare Mental Health Centres; NDIS fraud/quality failures; aged care–NDIS transition |
 | 018 | 2026-06-24 | [US Trade Pressure on Australia's PBS: MFN Drug Pricing, Pharmaceutical Tariffs, and the Question of Healthcare Sovereignty](018-2026-06-24-us-trade-pressure-pbs-mfn-pricing-tariffs.md) | Opened: CAMHS state funding; Medicare Mental Health Centres; HTA reform and Budget 2026-27 failure; NDIS fraud and quality failures; aged care–NDIS transition |
 | 019 | 2026-06-25 | [Child and Adolescent Mental Health Services (CAMHS): Australia's Invisible Crisis in Specialist Youth Mental Health](019-2026-06-25-camhs-child-adolescent-mental-health-state-funding-gap.md) | Opened: Medicare Mental Health Centres (MMHCs) — the direct lower-tier response to CAMHS pressure; HTA reform failure; aged care and NDIS interface (long-deferred); NDIS fraud; specialist training pipeline |
+| 020 | 2026-06-26 | [Medicare Mental Health Centres: Australia's Free Walk-In Mental Health Model — Block Grants, the Missing Middle, and the 92-Centre Ambition](020-2026-06-26-medicare-mental-health-centres-mmhc.md) | Opened: Medicare Mental Health Kids Hubs (17 hubs, CAMHS adjacent); HTA reform and 2026-27 Budget failure (long-deferred); aged care and NDIS interface; Youth Specialist Care Centres ($500M); Medicare Mental Health Check In (low-intensity CBT MBS item) |
 
 ---
 
@@ -455,6 +456,32 @@ A daily research series building a connected, deepening body of knowledge on how
 3. Aged care and the NDIS interface — NDIS exit at 65; psychosocial disability in older adults; transition is a documented service collapse point; aged care funding (AN-ACC, My Aged Care) is the only Report 001 thread entirely uncovered
 4. NDIS fraud and quality failures — Inspector-General findings; payment architecture vulnerabilities; provider market in psychosocial disability
 5. Specialist training pipeline — medical college training controls across psychiatry and child psychiatry; how supply restrictions perpetuate the 56% demand-meet and compound CAMHS workforce shortage
+
+## Suggested next branches (from Report 020)
+1. Medicare Mental Health Kids Hubs — 17 operational by mid-2026; CAMHS-adjacent; RANZCP recommends $6M/year for embedded child psychiatrists; model and outcomes largely unreported
+2. HTA Reform and 2026-27 Budget failure — HTA IAG recommendations unfunded; compounds PBS access delays; links to gene therapy and rare disease gaps of Reports 003-006; repeatedly deferred
+3. Aged care and the NDIS interface — NDIS exit at 65; psychosocial disability in older adults; My Aged Care, AN-ACC funding, residential vs home care; only major Report 001 thread still uncovered
+4. Youth Specialist Care Centres (YSCCs) — $500M arm of $1B mental health commitment; 20 centres planned; sub-acute/early psychosis tier above MMHC; rollout status unclear
+5. Medicare Mental Health Check In — new MBS item for brief CBT by GPs/nurses; UNSW April 2026 evaluation; different mechanism to MMHC but same Strengthening Medicare suite
+
+## Covered topics (Report 020 additions)
+- Medicare Mental Health Centres (MMHCs): rebranded from "Head to Health" effective 31 March 2025; block-grant funded (not MBS); free at point of care; no referral needed; no gap fee; no session cap; no Medicare card required
+- 61 MMHCs operational by 30 June 2026; government target 92 by 2027; long-term aspiration 4 in 5 Australians within 20 minutes of a service
+- 17 Medicare Mental Health Kids Hubs operational mid-2026 (separate service model, children-focused)
+- Budget 2023-24: $586.9M mental health package (includes MMHC expansion); Budget 2024-25: $361M (4 years) including $29.9M on-call psychiatry/psychology; Budget 2026-27: $78M continuity only
+- $1B election commitment: $225M for 31 new/upgraded MMHCs; $500M for 20 Youth Specialist Care Centres; $200M+ for 58 headspace services; $90M for 1,200+ training places
+- Clinical model: salaried multidisciplinary teams (psychologists, social workers, peer workers, integrated mental health workers); on-call psychiatry via telehealth; integrated vocational support at 2 pilot centres only
+- Target population: "missing middle" — personality disorders, eating disorders, early psychosis; complex needs above Better Access cap but below inpatient/acute threshold
+- 57% female clients; no age restriction for adult MMHCs
+- MMHC vs Better Access: MMHC free, walk-in, no referral, block-grant; Better Access ~$92/session gap fee, 10-session cap, MBS-based, GP MHTP required
+- MMHC vs headspace: both block-grant, both free; headspace 12-25 only; MMHC broader age range and more complex cohort
+- Key gap: no published clinical outcome data; Black Dog Institute called for embedded evaluation framework and national standard of care (June 2026)
+- RANZCP: recommends $6M/year to embed child psychiatrists in Medicare Mental Health Kids Hubs; current model relies on on-call telehealth
+- National Mental Health Commission: budget provides continuity but sector needs "clearer pathway for long-term reform" (David McGrath CEO, June 2026)
+- Only 2 of 61 centres deliver integrated employment support (Midland WA, Darwin NT); extension of that model unclear
+- Rebranding confusion: Head to Health → Medicare Mental Health transition in March 2025 created referral pathway disruption without clinical model change
+- Accountability gap: no national MBS claims trail for MMHCs (unlike Better Access); makes systematic national evaluation difficult
+- Missing middle scale: ~500,000 Australians with moderate-severe mental illness not NDIS-eligible and inadequately served by Better Access; MMHC network (61 centres) cannot absorb this at current scale
 
 ## Covered topics (Report 019 additions)
 - CAMHS definition: state-funded specialist tier for children and adolescents with severe/acute mental illness; distinct from headspace (mild-moderate, PHN/Commonwealth), Better Access (MBS fee-for-service), and NDIS (disability)
