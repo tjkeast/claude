@@ -26,6 +26,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 018 | 2026-06-24 | [US Trade Pressure on Australia's PBS: MFN Drug Pricing, Pharmaceutical Tariffs, and the Question of Healthcare Sovereignty](018-2026-06-24-us-trade-pressure-pbs-mfn-pricing-tariffs.md) | Opened: CAMHS state funding; Medicare Mental Health Centres; HTA reform and Budget 2026-27 failure; NDIS fraud and quality failures; aged care–NDIS transition |
 | 019 | 2026-06-25 | [Child and Adolescent Mental Health Services (CAMHS): Australia's Invisible Crisis in Specialist Youth Mental Health](019-2026-06-25-camhs-child-adolescent-mental-health-state-funding-gap.md) | Opened: Medicare Mental Health Centres (MMHCs) — the direct lower-tier response to CAMHS pressure; HTA reform failure; aged care and NDIS interface (long-deferred); NDIS fraud; specialist training pipeline |
 | 020 | 2026-06-26 | [Medicare Mental Health Centres: Australia's Free Walk-In Mental Health Model — Block Grants, the Missing Middle, and the 92-Centre Ambition](020-2026-06-26-medicare-mental-health-centres-mmhc.md) | Opened: Medicare Mental Health Kids Hubs (17 hubs, CAMHS adjacent); HTA reform and 2026-27 Budget failure (long-deferred); aged care and NDIS interface; Youth Specialist Care Centres ($500M); Medicare Mental Health Check In (low-intensity CBT MBS item) |
+| 021 | 2026-06-27 | [Aged Care and the NDIS Interface: Australia's $36 Billion System at a Turning Point — the Aged Care Act 2024, Support at Home, and the Age-65 Cliff](021-2026-06-27-aged-care-ndis-interface-support-at-home.md) | Opened: HTA Reform and 2026-27 Budget failure (long-deferred, now most urgent); aged care workforce pipeline (care minutes mandate vs thin rural markets); dementia and hospital-to-aged-care boundary ($224.3M Budget 2026-27); residential aged care market structure (for-profit shift, RAD retention); Medicare Safety Nets and OOP for older Australians |
 
 ---
 
@@ -463,6 +464,36 @@ A daily research series building a connected, deepening body of knowledge on how
 3. Aged care and the NDIS interface — NDIS exit at 65; psychosocial disability in older adults; My Aged Care, AN-ACC funding, residential vs home care; only major Report 001 thread still uncovered
 4. Youth Specialist Care Centres (YSCCs) — $500M arm of $1B mental health commitment; 20 centres planned; sub-acute/early psychosis tier above MMHC; rollout status unclear
 5. Medicare Mental Health Check In — new MBS item for brief CBT by GPs/nurses; UNSW April 2026 evaluation; different mechanism to MMHC but same Strengthening Medicare suite
+
+## Suggested next branches (from Report 021)
+1. HTA Reform and 2026-27 Budget failure — HTA IAG recommendations unfunded despite Medicines Australia/Rare Cancers Australia advocacy; most persistently deferred thread in the series; compounds PBS access delays and MFN market chilling effects
+2. Aged care workforce pipeline — Fair Work wage decisions (+15% in 2023, +28% in 2024) vs AN-ACC pricing; care minutes mandate compliance in rural/remote thin markets; 110,000 worker shortage projection to 2036
+3. Dementia and hospital-to-aged-care boundary — leading driver of residential aged care demand; $224.3M Budget 2026-27 for Hospital to Aged Care Dementia Support expansion; overlaps with hospital avoidance and sub-acute care
+4. Residential aged care market structure — for-profit provider majority post-ACFI; RAD retention rule (2%/year from Nov 2025); Budget bed construction incentive ($1.7B); whether supply will reach underserved areas
+5. Medicare Safety Nets and aged care OOP — older Australians with multi-morbid conditions face GP specialist OOP, PBS co-payments, AND aged care co-contributions simultaneously; compounding financial burden inadequately studied
+
+## Covered topics (Report 021 additions)
+- Total government aged care expenditure: $36.4 billion (2023-24), up 64% from $22.1B in 2017-18
+- Residential care government spend: $22.6 billion (2023-24); residents contributed $6.1 billion (25% of total residential revenue)
+- Aged Care Act 2024: passed 25 November 2024; in force from 1 November 2025; rights-based, person-centred; replaced Aged Care Act 1997
+- Support at Home (SaH): replaced Home Care Packages (HCP) and STRC from 1 November 2025; 8 classification levels (up from 4); annual funding $11,795–$78,106 (up from $10,931–$63,440)
+- SaH clinical care: free for all from launch (nursing, allied health); personal care (showering, dressing, continence) to become free October 2026
+- SaH budget structure: quarterly budgets in 3 categories — clinical care, independence, everyday living; 10% of quarterly budget for care management
+- SaH lifetime co-contribution cap: $135,318.69 (from 1 November 2025)
+- CHSP extended to 30 June 2027; transition to Support at Home not before 1 July 2027
+- AN-ACC: 13 care classes; price $295.64/day (from 1 Oct 2025, up from $282.44); hotelling supplement $22.15/day (from Sep 2025, up from $15.60)
+- Care minutes mandate: 215 min/resident/day sector-average (including 44 min RN); 24/7 RN on-site required; care minutes funding linkage from April 2026
+- RAD retention (from 1 Nov 2025): 2%/year of RAD balance, max 5 years (up to 10% total); maximum RAD $750,000 (indexed to CPI from July 2025)
+- My Aged Care: single entry point; from 1 Nov 2025 requires being aged 65+, or Indigenous 50+, or homeless
+- NDIS-aged care age-65 boundary: cannot enter NDIS at or after 65; can remain on NDIS after 65 but must exit if permanently entering residential aged care or permanent home care
+- NDIS participants over 65: 37,000+ (March 2025) = 5% of scheme, $3.7B cost; projected 7.6% by 2034 (78,151 people)
+- YPIRAC (Younger People in Residential Aged Care): reduced from 6,000 (2017-18) to 880 (June 2025); Aged Care Act 2024 prevents under-65s entering residential aged care except in limited circumstances
+- Psychosocial NDIS eligibility: fell to 23% in Q3 2024-25; new planning rules from 1 July 2026 for psychosocial participants
+- Budget 2026-27 aged care: $3.7B total; $1.7B residential bed construction (5,000/year target); $1.1B accommodation supplement restructuring; $1.0B personal care reclassification; $389.8M SaH acceleration; $565.1M quality/safety/viability; $224.3M dementia care
+- 88,000 Australians waiting for approved home care level (March 2025); median wait ~9 months
+- Aged care workforce shortage: 35,000 annual shortfall; 110,000 by 2036; 400,000 by 2050; 17,551 FTE nurse shortage in aged care by 2035
+- Baby boomer demographic pressure: first boomers turned 80 in 2026; Australians 80+ to increase 60% to 2M+ by 2035
+- Inspector-General of Aged Care 2025 Progress Report (September 2025): transformation "not yet achieved"; reforms "disparate and disconnected"; co-payment risk of pushing people prematurely into residential care; concern about decline in Aboriginal community-controlled aged care services
 
 ## Covered topics (Report 020 additions)
 - Medicare Mental Health Centres (MMHCs): rebranded from "Head to Health" effective 31 March 2025; block-grant funded (not MBS); free at point of care; no referral needed; no gap fee; no session cap; no Medicare card required
