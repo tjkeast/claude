@@ -27,6 +27,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 019 | 2026-06-25 | [Child and Adolescent Mental Health Services (CAMHS): Australia's Invisible Crisis in Specialist Youth Mental Health](019-2026-06-25-camhs-child-adolescent-mental-health-state-funding-gap.md) | Opened: Medicare Mental Health Centres (MMHCs) — the direct lower-tier response to CAMHS pressure; HTA reform failure; aged care and NDIS interface (long-deferred); NDIS fraud; specialist training pipeline |
 | 020 | 2026-06-26 | [Medicare Mental Health Centres: Australia's Free Walk-In Mental Health Model — Block Grants, the Missing Middle, and the 92-Centre Ambition](020-2026-06-26-medicare-mental-health-centres-mmhc.md) | Opened: Medicare Mental Health Kids Hubs (17 hubs, CAMHS adjacent); HTA reform and 2026-27 Budget failure (long-deferred); aged care and NDIS interface; Youth Specialist Care Centres ($500M); Medicare Mental Health Check In (low-intensity CBT MBS item) |
 | 021 | 2026-06-27 | [Aged Care and the NDIS Interface: Australia's $36 Billion System at a Turning Point — the Aged Care Act 2024, Support at Home, and the Age-65 Cliff](021-2026-06-27-aged-care-ndis-interface-support-at-home.md) | Opened: HTA Reform and 2026-27 Budget failure (long-deferred, now most urgent); aged care workforce pipeline (care minutes mandate vs thin rural markets); dementia and hospital-to-aged-care boundary ($224.3M Budget 2026-27); residential aged care market structure (for-profit shift, RAD retention); Medicare Safety Nets and OOP for older Australians |
+| 022 | 2026-06-28 | [HTA Reform and Australia's Persistent Access Crisis: How a Five-Year Review Produced an Empty Budget](022-2026-06-28-hta-reform-budget-2026-27-access-failure.md) | Opened: aged care workforce pipeline; residential aged care market structure; dementia and hospital-to-aged-care boundary; specialist training pipeline controls; outcomes-based reimbursement/managed entry schemes for gene therapies |
 
 ---
 
@@ -542,3 +543,28 @@ A daily research series building a connected, deepening body of knowledge on how
 - WA CAMHS audit (17 June 2026): WA Auditor General Caroline Spencer — 1 of 32 recommendations implemented after 3 years of nine-year reform; MHC had no credible plan; January 2023 plan failed to address 12 recommendations; January 2026 plan still incomplete; no plans addressing funding, workforce, infrastructure
 - 2026-27 Federal Budget CAMHS-relevant measures: $277.5M National Mental Health and Suicide Prevention Agreement extension; $3.1M school mental health Years 7-9; $2B Thriving Kids (autism/developmental, under-8 — not CAMHS cohort); $19.5M WA CAMHS Crisis Connect
 - National Child and Adolescent Mental Health and Wellbeing Study ("Young Minds: Our Future"): fieldwork commenced November 2025; results expected 2027; $8.1M; first national prevalence update in over a decade
+
+## Suggested next branches (from Report 022)
+1. Aged care workforce pipeline — Fair Work wage decisions vs AN-ACC pricing; care minutes mandate in thin rural markets; 35,000 annual shortfall; 110,000 by 2036
+2. Residential aged care market structure — for-profit shift post-ACFI; RAD retention rule; Budget bed construction incentive ($1.7B); supply gaps in underserved areas
+3. Dementia and hospital-to-aged-care boundary — leading driver of residential aged care demand; $224.3M Budget 2026-27 Hospital to Aged Care Dementia Support; sub-acute care overlap
+4. Specialist training pipeline — college training number controls across oncology, haematology, psychiatry; supply restrictions interact with HTA reform (access to medicines but no prescribers)
+5. Outcomes-based reimbursement and managed entry — Australia's Managed Entry Scheme (since 2011) rarely used; HTA recommendations for outcomes-based payment models; annuity payments for gene therapies
+
+## Covered topics (Report 022 additions)
+- HTA Policy and Methods Review: concluded May 2024; final report published September 2024; 50 recommendations; first comprehensive review in 30 years
+- 2021 "New Frontiers" report: first flagged same problems; 5 years of acknowledged access delay without structural resolution
+- HTA Implementation Advisory Group (IAG): established November 2024; interim report released 3 September 2025; five focus areas: access/equity, transparency/engagement, modernised pathways, data/evidence, workforce
+- IAG final report: delivered to government January 2026; not publicly released as at mid-2026
+- PBAC discount rate: currently 5%; PBAC recommended reduction to 3.5%–4% (following consultation); international comparators NICE 3.5%, Canada 1.5%, France 2.5%, NZ 3.5%; 5% rate structurally disadvantages gene therapies and preventive vaccines
+- Bridging Fund (HTA Recommendation 20): temporary subsidised access at TGA registration for high added therapeutic value medicines; Expert Implementation Group co-designing criteria; not funded in Budget 2026-27
+- ATAGI-PBAC pathway: ATAGI adds ~31 weeks to 17-week PBAC cycle = ~48-week HTA pathway for vaccines; pilot streamlining programs proposed but not funded
+- HTA Reform was committed under Strategic Agreement with Medicines Australia (1 July 2022 – 30 June 2027); target implementation July 2024; missed; agreement expires 2027 creating re-negotiation deadline
+- Budget 2026-27 HTA outcome: no meaningful funded reform plan; $5.9B over 5 years for PBS listings is standard-cycle commitment not reform investment; PBS investment declining as % of GDP over forward estimates
+- Minister Butler: rolling review of PBAC guidelines announced; starting with comparator selection and discount rate; guidelines review ≠ funded systemic reform
+- Australia's access ranking: 16th among OECD countries (Medicines Australia "Access Denied" 2026 report); 3.6 year average wait for first-in-class medicines already available overseas; only ~1 in 4 (25%) new OECD medicines funded in Australia
+- Eli Lilly (and other companies): explicitly citing "ongoing challenges in reimbursement environment" as factor in PBS submission viability decisions
+- MFN compounding effect (Report 018): PBS low prices create reference price risk for US MFN; slow HTA pathway provides second independent motivation for market de-prioritisation
+- Rare Cancers Australia: advocating for pan-tumour PBS applications based on shared genomic markers; PBAC rejected streamlined pan-tumour approach October 2024
+- PBAC/MSAC boundary: CAR-T assessed as medical service by MSAC; Zolgensma as medicine by PBAC; inconsistent evaluation for similar products; reform recommended but not implemented
+- Pan-tumour assessment: HTA reform recommendation to allow biomarker-targeted medicine applications across multiple cancer types; Rare Cancers Australia primary advocacy priority
