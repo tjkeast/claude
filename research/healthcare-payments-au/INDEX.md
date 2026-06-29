@@ -28,6 +28,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 020 | 2026-06-26 | [Medicare Mental Health Centres: Australia's Free Walk-In Mental Health Model — Block Grants, the Missing Middle, and the 92-Centre Ambition](020-2026-06-26-medicare-mental-health-centres-mmhc.md) | Opened: Medicare Mental Health Kids Hubs (17 hubs, CAMHS adjacent); HTA reform and 2026-27 Budget failure (long-deferred); aged care and NDIS interface; Youth Specialist Care Centres ($500M); Medicare Mental Health Check In (low-intensity CBT MBS item) |
 | 021 | 2026-06-27 | [Aged Care and the NDIS Interface: Australia's $36 Billion System at a Turning Point — the Aged Care Act 2024, Support at Home, and the Age-65 Cliff](021-2026-06-27-aged-care-ndis-interface-support-at-home.md) | Opened: HTA Reform and 2026-27 Budget failure (long-deferred, now most urgent); aged care workforce pipeline (care minutes mandate vs thin rural markets); dementia and hospital-to-aged-care boundary ($224.3M Budget 2026-27); residential aged care market structure (for-profit shift, RAD retention); Medicare Safety Nets and OOP for older Australians |
 | 022 | 2026-06-28 | [HTA Reform and Australia's Persistent Access Crisis: How a Five-Year Review Produced an Empty Budget](022-2026-06-28-hta-reform-budget-2026-27-access-failure.md) | Opened: aged care workforce pipeline; residential aged care market structure; dementia and hospital-to-aged-care boundary; specialist training pipeline controls; outcomes-based reimbursement/managed entry schemes for gene therapies |
+| 023 | 2026-06-29 | [Aged Care Workforce Pipeline: Fair Work Wage Decisions, Care Minutes Compliance, and Australia's 110,000-Worker Gap](023-2026-06-29-aged-care-workforce-pipeline.md) | Opened: residential aged care market structure (for-profit vs not-for-profit compliance divergence); dementia and hospital-to-aged-care boundary; specialist training pipeline; aged care workforce innovation (technology, upskilling); outcomes-based reimbursement in aged care |
 
 ---
 
@@ -568,3 +569,39 @@ A daily research series building a connected, deepening body of knowledge on how
 - Rare Cancers Australia: advocating for pan-tumour PBS applications based on shared genomic markers; PBAC rejected streamlined pan-tumour approach October 2024
 - PBAC/MSAC boundary: CAR-T assessed as medical service by MSAC; Zolgensma as medicine by PBAC; inconsistent evaluation for similar products; reform recommended but not implemented
 - Pan-tumour assessment: HTA reform recommendation to allow biomarker-targeted medicine applications across multiple cancer types; Rare Cancers Australia primary advocacy priority
+
+## Suggested next branches (from Report 023)
+1. Residential aged care market structure — for-profit vs not-for-profit compliance divergence; RAD retention rule; Budget bed construction incentive ($1.7B); whether supply will reach underserved areas
+2. Dementia and the hospital-to-aged-care boundary — leading driver of residential aged care demand; $224.3M Budget 2026-27 Hospital to Aged Care Dementia Support; hospital avoidance and sub-acute care
+3. Specialist training pipeline — medical college training number controls; supply restrictions across psychiatry, oncology, haematology; link to HTA reform (medicines approved but no prescribers)
+4. Aged care workforce innovation — nursing assistant upskilling; international nurse training compacts; technology substitution (sensors, medication robots); Buurtzorg home care model
+5. Outcomes-based reimbursement in aged care — AN-ACC as classification-based model; outcomes-linked component proposals; international models (UK, Netherlands)
+
+## Covered topics (Report 023 additions)
+- Aged Care Work Value Case (ACWVC): largest sectoral work value case in Australian IR history; ~400,000 workers covered
+- Stage 1 (June 2023): 15% interim minimum wage increase for direct care workers; effective 30 June 2023
+- Stage 3 (late 2024): new benchmark rates; total increase (inc. Stage 1) 13.3%–28.5% by worker classification; 50% from 1 Jan 2025, 50% from 1 Oct 2025
+- 1 August 2026 increase: 4.75% Annual Wage Review + government leave entitlement grants (25% residential, 50% home care)
+- AN-ACC price (1 Oct 2025): $295.64/resident/day (up from $282.44); only $6.25 attributable to Stage 3 wage increase; actual funding increase ~1.7–2.9% vs material labour cost increase
+- Hotelling supplement: $22.15/resident/day (up from $15.60, Sep 2025)
+- StewartBrown December 2025: average operating deficit $1.04M per home for 6 months to Dec 2025; $9.80/bed/day operating loss; 61% of homes at a loss; direct care margin $6.15 vs $19.08 pbd prior year
+- Minimum required return: ~$20,000/bed/annum; sector average ~$4,582/bed/annum (~23% of requirement)
+- AN-ACC Transition Fund: extended 12 months for thin market providers
+- Sector capacity: ~94% nationally; some capital cities at full occupancy
+- Care minutes mandate: 215 min/resident/day total; 44 min RN (since 1 Oct 2024); funding linked to delivery from 1 April 2026
+- National compliance 2024-25: 45.9% meeting both targets (up from 34.0% in 2023-24)
+- For-profit MM1 compliance: only 18% vs 45% not-for-profit MM1; compliance higher in regional/remote areas
+- Funding penalty for non-compliance: up to $31.92/resident/day (MM1 homes)
+- Mandatory Care Minutes Performance Statement: from 2025-26 financial report; external audit required
+- Workforce shortage: 35,000 FTE current annual shortfall; 110,000 FTE by 2036 (CEDA); 400,000 by 2050
+- Annual recruitment required: 17,000+ additional direct care workers/year for a decade just to maintain standards
+- Nurse shortage: 17,551 FTE nurses in aged care by 2035 (DoH modelling); 79,473 total national nursing shortage by 2035
+- Rural/remote gap: 492,416 extra care hours/week (12,958 FTE) needed in remote communities; 95,342 FTE needed in rural areas for metro parity
+- Aged Care Industry Labour Agreement (ACILA): 142 agreements by June 2025 (up from 10); only 2,426 temporary migrants sponsored across entire sector
+- 90% of ACILA-sponsored visas went to workers already in Australia; 10% to new overseas entrants
+- ~70,000 personal care workers (~1 in 6) on temporary visas through informal pathways
+- Skills in Demand (SID) visa from 18 April 2026: replaces TSS/482; three streams (Specialist, Core, Essential); Essential Skills stream for aged care/disability workers
+- Essential Skills stream: first formal PR pathway for personal care workers earning below Core Skills threshold
+- SID improvements: 180 days to find new sponsor; work experience reduced to 1 year; Core Skills salary floor $76,515 ($79,499 from 1 July 2026)
+- Fee-Free TAFE: covers Certificate III in Individual Support (CHC33021); no tuition fees for eligible workers; 18-24 month training pipeline lag
+- Budget 2026-27 aged care (workforce-relevant): $2.5B over 5 years for aged care nurse wage costs; $1.7B bed construction incentive (5,000 beds/year); no linked workforce pipeline plan
