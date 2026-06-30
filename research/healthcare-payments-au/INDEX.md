@@ -29,6 +29,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 021 | 2026-06-27 | [Aged Care and the NDIS Interface: Australia's $36 Billion System at a Turning Point — the Aged Care Act 2024, Support at Home, and the Age-65 Cliff](021-2026-06-27-aged-care-ndis-interface-support-at-home.md) | Opened: HTA Reform and 2026-27 Budget failure (long-deferred, now most urgent); aged care workforce pipeline (care minutes mandate vs thin rural markets); dementia and hospital-to-aged-care boundary ($224.3M Budget 2026-27); residential aged care market structure (for-profit shift, RAD retention); Medicare Safety Nets and OOP for older Australians |
 | 022 | 2026-06-28 | [HTA Reform and Australia's Persistent Access Crisis: How a Five-Year Review Produced an Empty Budget](022-2026-06-28-hta-reform-budget-2026-27-access-failure.md) | Opened: aged care workforce pipeline; residential aged care market structure; dementia and hospital-to-aged-care boundary; specialist training pipeline controls; outcomes-based reimbursement/managed entry schemes for gene therapies |
 | 023 | 2026-06-29 | [Aged Care Workforce Pipeline: Fair Work Wage Decisions, Care Minutes Compliance, and Australia's 110,000-Worker Gap](023-2026-06-29-aged-care-workforce-pipeline.md) | Opened: residential aged care market structure (for-profit vs not-for-profit compliance divergence); dementia and hospital-to-aged-care boundary; specialist training pipeline; aged care workforce innovation (technology, upskilling); outcomes-based reimbursement in aged care |
+| 024 | 2026-06-30 | [Residential Aged Care Market Structure: For-Profit Growth, the RAD Capital Pool, and the Bed-Construction Gamble](024-2026-06-30-residential-aged-care-market-structure.md) | Opened: dementia and hospital-to-aged-care boundary ($224.3M program); specialist training pipeline controls; aged care quality and safety regulation (ACQSC under Aged Care Act 2024); outcomes-based reimbursement in aged care; aged care and Medicare Safety Net interface |
 
 ---
 
@@ -576,6 +577,33 @@ A daily research series building a connected, deepening body of knowledge on how
 3. Specialist training pipeline — medical college training number controls; supply restrictions across psychiatry, oncology, haematology; link to HTA reform (medicines approved but no prescribers)
 4. Aged care workforce innovation — nursing assistant upskilling; international nurse training compacts; technology substitution (sensors, medication robots); Buurtzorg home care model
 5. Outcomes-based reimbursement in aged care — AN-ACC as classification-based model; outcomes-linked component proposals; international models (UK, Netherlands)
+
+## Suggested next branches (from Report 024)
+1. Dementia and the hospital-to-aged-care boundary — leading driver of residential aged care demand; $224.3M Budget 2026-27 Hospital to Aged Care Dementia Support; Specialist Dementia Care Program; funding across hospital, residential, and community settings
+2. Specialist medical training pipeline — medical college training controls in geriatrics, oncology, psychiatry, haematology; supply restrictions and specialist fee power; link to dementia care access
+3. Aged care quality and safety regulation — ACQSC enforcement under Aged Care Act 2024; serious incident reporting; restrictive practice governance; how regulator oversees 636 providers with constrained resources
+4. Outcomes-based reimbursement in aged care — AN-ACC as classification-based model; linking funding to outcomes (hospitalisation avoidance, falls reduction); international models (UK personal budgets, Netherlands Buurtzorg)
+5. Aged care and the Medicare Safety Net interface — compounding OOP burden for older Australians (MBS co-payments, PBS co-payments, aged care co-contributions); inadequately studied financial toxicity
+
+## Covered topics (Report 024 additions)
+- Residential aged care market structure (30 June 2024): NFP 57% of services, 55.8% of places (~125,000); for-profit 35% of services, 40.5% of places (~90,700); government 8% of services (~8,300 places); total 224,000 places (up 11% from 201,000 in 2017)
+- Provider numbers: 636 residential aged care providers (June 2025); down 4.3% from FY21 reflecting consolidation
+- For-profit growth: private places up 14% (2017-24); NFP places up 12%; government declining; Victoria highest for-profit concentration (41% of services)
+- Market leaders for-profit: Opal HealthCare (142 homes, Quadrant PE); Estia Health (~90 homes, Bain Capital → Stonepeak/Axight $2.5B, 2026); Regis Healthcare (68 homes, ASX-listed)
+- Major transactions: Opal acquired BlueCross (31 Victorian homes, March 2024); Bain Capital selling Estia to Stonepeak/Axight consortium ~$2.5B (H2 2026); Bolton Clarke (NFP) acquired Allity (~$700M); Calvary acquired Japara ($380M)
+- RAD (Refundable Accommodation Deposit) system: interest-free lump sum paid by residents; provider holds it as operational capital; refunded on death/discharge; total pool ~$33.6B (June 2021, likely higher since); unique globally as aged care capital mechanism
+- Maximum RAD: $750,000 (indexed CPI from July 2025); above this requires Aged Care Pricing Commissioner approval (threshold ~$165.44/day equivalent)
+- MPIR (Maximum Permissible Interest Rate): used to convert between RAD and daily equivalent DAP; 7.06% as of Jan 2023
+- RAD retention (from 1 November 2025): 2%/year on RAD balance; max 5 years (max 10% total deduction); existing RAD holders fully protected under old rules; applies only to new residents from 1 Nov 2025
+- Accommodation Supplement (gov't payment for low-means residents): maximum $72.30/resident/day (1 April 2026, newly built/refurbished); fraction of market accommodation price
+- Budget 2026-27 accommodation supplement restructure: $1.1B provisioned; new payment for homes >60% low-means supported residents; $348.4M over 4 years for capital subsidies including $30/supported resident/day new payment and $15/day for expanding existing homes
+- Budget 2026-27 bed construction: $1.7B to incentivise 5,000 new beds/year from 1 July 2027; but sector needs ~10,000/year; $606.5M capital subsidies; 20 new Specialist Dementia Care units
+- Sector capacity: ~94% nationally; some capital cities at full occupancy
+- Care minutes compliance gap: for-profit MM1 18% vs NFP MM1 45% (2024-25) — 2.5x difference; funding-compliance link from April 2026 (penalty up to $31.92/resident/day)
+- Royal Commission (March 2021): identified marketisation concern; 148 recommendations; governance/regulatory reforms but no ownership restrictions
+- IBISWorld industry revenue: $38.7B (2026)
+- For-profit profitability: 80.8% of home care for-profit providers profitable vs 70.1% NFP (home care context)
+- Total government aged care expenditure: $39.2B (2024-25, up 9.6% YoY)
 
 ## Covered topics (Report 023 additions)
 - Aged Care Work Value Case (ACWVC): largest sectoral work value case in Australian IR history; ~400,000 workers covered
