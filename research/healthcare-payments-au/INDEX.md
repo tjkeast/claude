@@ -30,6 +30,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 022 | 2026-06-28 | [HTA Reform and Australia's Persistent Access Crisis: How a Five-Year Review Produced an Empty Budget](022-2026-06-28-hta-reform-budget-2026-27-access-failure.md) | Opened: aged care workforce pipeline; residential aged care market structure; dementia and hospital-to-aged-care boundary; specialist training pipeline controls; outcomes-based reimbursement/managed entry schemes for gene therapies |
 | 023 | 2026-06-29 | [Aged Care Workforce Pipeline: Fair Work Wage Decisions, Care Minutes Compliance, and Australia's 110,000-Worker Gap](023-2026-06-29-aged-care-workforce-pipeline.md) | Opened: residential aged care market structure (for-profit vs not-for-profit compliance divergence); dementia and hospital-to-aged-care boundary; specialist training pipeline; aged care workforce innovation (technology, upskilling); outcomes-based reimbursement in aged care |
 | 024 | 2026-06-30 | [Residential Aged Care Market Structure: For-Profit Growth, the RAD Capital Pool, and the Bed-Construction Gamble](024-2026-06-30-residential-aged-care-market-structure.md) | Opened: dementia and hospital-to-aged-care boundary ($224.3M program); specialist training pipeline controls; aged care quality and safety regulation (ACQSC under Aged Care Act 2024); outcomes-based reimbursement in aged care; aged care and Medicare Safety Net interface |
+| 025 | 2026-07-01 | [Dementia and the Hospital-to-Aged-Care Boundary: The $4.7 Billion System Failure and What the 2026-27 Budget Is — and Isn't — Fixing](025-2026-07-01-dementia-hospital-to-aged-care-boundary.md) | Opened: specialist medical training pipeline (geriatricians); aged care quality and safety regulation (ACQSC); aged care and Medicare Safety Net interface; dementia prevention and risk factor policy; palliative care and end-of-life funding for dementia |
 
 ---
 
@@ -604,6 +605,49 @@ A daily research series building a connected, deepening body of knowledge on how
 - IBISWorld industry revenue: $38.7B (2026)
 - For-profit profitability: 80.8% of home care for-profit providers profitable vs 70.1% NFP (home care context)
 - Total government aged care expenditure: $39.2B (2024-25, up 9.6% YoY)
+
+## Suggested next branches (from Report 025)
+1. Specialist medical training pipeline: geriatricians and gerontologists — ~600 geriatricians nationally; 12+ year training pathway; aging population demand; intersection with dementia care and SDCP staffing
+2. Aged care quality and safety regulation — ACQSC enforcement under Aged Care Act 2024; restrictive practice governance; psychotropic medication oversight; how regulator supervises 636 providers
+3. Aged care and the Medicare Safety Net interface — compounding OOP costs for older Australians with dementia (MBS, PBS, aged care co-contributions); inadequately studied financial toxicity
+4. Dementia prevention and risk factor policy — 43% of dementia burden from modifiable risk factors; physical inactivity, hypertension, hearing loss, social isolation; investment case for prevention vs acute care
+5. Palliative care and end-of-life funding for dementia — dementia is Australia's leading cause of death; majority die in residential aged care without formal palliative care plans; palliative care funding architecture
+
+## Covered topics (Report 025 additions)
+- Dementia prevalence 2026: 446,500 Australians (Dementia Australia estimate); 425,000 in 2024 (AIHW); 29,000 young onset dementia (under 65)
+- Projected growth: 1.1 million Australians with dementia by 2065 (2.5x increase)
+- Dementia: leading cause of death in Australia 2023 and 2024 (32,400 deaths; 9.4% of all deaths); leading cause of death for women (1 in 8 women)
+- Burden of disease: 2nd overall (behind coronary heart disease, 2024 AIHW); 4.5% of total disease burden; 262,000 DALYs; #1 for women
+- 43% of dementia burden attributable to 6 modifiable risk factors (AIHW Burden of Disease Study 2024)
+- Dementia direct health and aged care system cost: $4.7 billion (2022-23)
+  - Health care: $1.47 billion ($953M on public hospital admitted patient care = 65% of health care cost)
+  - Aged care: $3.2 billion ($2.0B on permanent residential aged care)
+- 54% of permanent residential aged care residents have dementia (2021-22 data; no update since AN-ACC replaced ACFI)
+- Annual dementia hospitalisations: >35,000 (2023-24)
+- Hospital bed-block crisis: ~3,300 older Australians in hospital awaiting discharge to aged care (December 2025)
+  - NSW: 776 waiting (March 2026), up 158.7% from 300 (Dec 2023); 44,487 total waiting days (2025), up from 11,943 (Dec 2023); 58,000 bed-days consumed past discharge date
+  - QLD: 1,072 waiting (February 2026) — highest nationally
+  - Tasmania: 94 waiting (March 2026)
+  - System cost: "well over $1 billion/year" for inappropriate hospital stay
+  - 8-10% of all public hospital bed days occupied by patients awaiting discharge
+- BPSD (Behavioural and Psychological Symptoms of Dementia): primary barrier to residential aged care placement; mainstream providers refuse high-acuity BPSD patients
+- State-Commonwealth structural misalignment: hospitals funded jointly (NHRA); residential aged care funded Commonwealth only; states have perverse incentive to delay; no delayed-transfer-of-care charge mechanism in 2026-2031 NHRA Addendum
+- Hospital to Aged Care Dementia Support Program (HACDSP): launched 16 Jan 2025; operated by HammondCare's Dementia Support Australia; $56.8M Budget 2024-25
+  - As of 31 March 2026: 1,108 referrals; 667 successful transitions; 148 in post-discharge support; <3% readmission rate
+  - Three objectives: in-hospital wellbeing, transition facilitation, 3-month post-discharge support
+  - Coverage: all 8 states/territories, 11 locations
+  - Budget 2026-27: expanding from 11 to 20 locations
+- Specialist Dementia Care Program (SDCP): high-acuity BPSD residential units; "cottage-like" domestic environments; multidisciplinary staffing; ~12 months intended duration
+  - Original target: 35 units (one per PHN region); ~15 operational mid-2026
+  - Budget 2026-27: 20 additional units funded (part of $224.3M package)
+  - Evidence: preliminary positive (decreased BPSD severity, reduced psychotropics, improved QoL); no RCT; limited long-term data (Atee et al. 2025, Australasian Journal on Ageing)
+  - Eligibility: formal Needs Based Assessment via Dementia Support Australia; "very severe" BPSD required; 370+ assessments in 2023-24
+- Budget 2026-27 dementia package: $224.3M over 4 years (+ $317.5M from 2030-31 to 2035-36) — HACDSP expansion + 20 SDCP units
+- Transition Care Program (TCP): 12 weeks post-hospital support; max 12 weeks bed-based and/or home-based; dementia predicts *worse* TCP outcomes and higher likelihood of permanent residential admission; TCP does not address severe BPSD barrier
+- National Dementia Action Plan 2024-2034: 8 action areas; aligned with WHO Global Action Plan; no major prevention investment in Budget 2026-27
+- Average time from symptom onset to diagnosis: 3 years (all dementia); 5 years (young onset)
+- Data gap: no single national data source for GP-level dementia diagnoses; AN-ACC tool does not capture clinical dementia diagnosis; no national hospital wait-time reporting standard for delayed discharge
+- NHRA 2026-2031 Addendum: $220.3B Commonwealth over 5 years for public hospitals; signed 27 February 2026, effective 1 July 2026
 
 ## Covered topics (Report 023 additions)
 - Aged Care Work Value Case (ACWVC): largest sectoral work value case in Australian IR history; ~400,000 workers covered
