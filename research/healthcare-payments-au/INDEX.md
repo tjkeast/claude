@@ -31,6 +31,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 023 | 2026-06-29 | [Aged Care Workforce Pipeline: Fair Work Wage Decisions, Care Minutes Compliance, and Australia's 110,000-Worker Gap](023-2026-06-29-aged-care-workforce-pipeline.md) | Opened: residential aged care market structure (for-profit vs not-for-profit compliance divergence); dementia and hospital-to-aged-care boundary; specialist training pipeline; aged care workforce innovation (technology, upskilling); outcomes-based reimbursement in aged care |
 | 024 | 2026-06-30 | [Residential Aged Care Market Structure: For-Profit Growth, the RAD Capital Pool, and the Bed-Construction Gamble](024-2026-06-30-residential-aged-care-market-structure.md) | Opened: dementia and hospital-to-aged-care boundary ($224.3M program); specialist training pipeline controls; aged care quality and safety regulation (ACQSC under Aged Care Act 2024); outcomes-based reimbursement in aged care; aged care and Medicare Safety Net interface |
 | 025 | 2026-07-01 | [Dementia and the Hospital-to-Aged-Care Boundary: The $4.7 Billion System Failure and What the 2026-27 Budget Is — and Isn't — Fixing](025-2026-07-01-dementia-hospital-to-aged-care-boundary.md) | Opened: specialist medical training pipeline (geriatricians); aged care quality and safety regulation (ACQSC); aged care and Medicare Safety Net interface; dementia prevention and risk factor policy; palliative care and end-of-life funding for dementia |
+| 026 | 2026-07-02 | [Palliative Care and End-of-Life Funding for Dementia: Australia's Late-Stage Failure and the Growing Hospital Bed Block Crisis](026-2026-07-02-palliative-care-end-of-life-funding-dementia.md) | Opened: specialist training pipeline (palliative medicine physicians doubling needed); ACQSC enforcement of palliative care rights under Aged Care Act 2024; voluntary assisted dying and the healthcare payment system; advance care planning as a payment mechanism; Medicare Safety Net interface for aged care residents |
 
 ---
 
@@ -677,3 +678,36 @@ A daily research series building a connected, deepening body of knowledge on how
 - SID improvements: 180 days to find new sponsor; work experience reduced to 1 year; Core Skills salary floor $76,515 ($79,499 from 1 July 2026)
 - Fee-Free TAFE: covers Certificate III in Individual Support (CHC33021); no tuition fees for eligible workers; 18-24 month training pipeline lag
 - Budget 2026-27 aged care (workforce-relevant): $2.5B over 5 years for aged care nurse wage costs; $1.7B bed construction incentive (5,000 beds/year); no linked workforce pipeline plan
+
+## Suggested next branches (from Report 026)
+1. Specialist medical training pipeline: palliative medicine physicians and geriatricians — 358 palliative medicine physicians nationally (<1 per 100,000; needs doubling); 12+ year training pipeline; medical college training controls; intersection with dementia and aged care
+2. ACQSC enforcement of Aged Care Act 2024 palliative care rights — new enforceable right to palliative and end-of-life care for aged care recipients; restrictive practice governance; psychotropic medication oversight in dementia settings; how regulator supervises 636 providers
+3. Voluntary assisted dying (VAD) and the healthcare payment system — all Australian states/ACT now have VAD laws; MBS assessment items, PBS subsidy for the substance, GP/specialist access pathways; interaction with palliative care funding architecture
+4. Advance care planning as a healthcare payment mechanism — completed ACPs associated with reduced hospital admissions and lower acute care costs in final year of life; investment case for ACP as cost-reduction measure; MBS funding for ACP development; links to dementia diagnosis gap
+5. Aged care and the Medicare Safety Net interface — compounding OOP burden for older Australians with dementia (MBS co-payments for geriatric assessments, PBS co-payments for donepezil/memantine/palliative meds, aged care co-contributions); inadequately studied financial toxicity
+
+## Covered topics (Report 026 additions)
+- Palliative care-related hospitalisations: 107,500 in 2023-24; up 46% since 2015-16; growing at 4.9%/year vs 2.3% all hospitalisations; children's palliative hosptialisations growing at 10%/year
+- Hospital palliative care cost (2023-24): $666.7M admitted patient care (313 of 772 public hospitals reporting = 16% of all subacute care costs); $218.9M non-admitted patient palliative care; combined ~$885M (reporting hospitals only)
+- Average length of stay: palliative care hospitalisations ~11 days vs 5.6 days all hospitalisations
+- 55% of palliative care hospitalisations end in death in hospital
+- Specialist palliative medicine workforce: 358 palliative medicine physicians nationally (<1 per 100,000; benchmark requires doubling); ~3,900 palliative care nurses nationally
+- Specialist palliative care access gap: >3 in 5 Australians receive NO specialist palliative care at any stage; those who do first access it average 15 days before death
+- Medicare MBS palliative medicine (2024-25): ~15,900 patients received Medicare-subsidised palliative medicine attendances/case conferences; 78,000+ services; $6.8M total MBS benefits (up 16% from $5.9M in 2023-24, after 7.0%/year real decline over prior 5 years)
+- PBS Palliative Care Schedule: $40.4M government spend (2024-25); average $83/patient for palliative medications (opioids, anti-emetics, anxiolytics, symptom management)
+- Place of death: Non-SPC population: 43% die in residential aged care, 31% other community, 20% inpatient; SPC population: 67% die as admitted hospital patients (perverse inversion — those with identified terminal illness more likely to die in hospital)
+- AN-ACC Class 1 (palliative care classification): allows RACF entry without full assessment for residents with <3 months life expectancy and approved palliative care plan; daily funding rate $295.64/day (national efficient price, from 1 Oct 2025)
+- Class 1 design mismatch with dementia: prognosis-based eligibility (<3 months) poorly suited to dementia's slow, unpredictable decline; most dementia patients cannot be certified until end-stage crisis
+- Advance care planning coverage in RACFs: formal ACDs in 37.7% of RACF residents; ACPs at ~60%; quality variable (73% of ACDs include all required elements); 35.8% completed by health professional
+- Psychotropic medication in RACFs: >60% of residents on regular psychotropic medications; antipsychotics 22%, benzodiazepines 22%, antidepressants 41%; BPSD managed pharmacologically rather than through palliative/non-pharmacological approaches; April 2023 clinical guidelines recommend non-pharmacological first
+- Comprehensive Palliative Care in Aged Care (CPCiAC) measure: Commonwealth-state matched funding; $57.2M federal 2018-24; $24.9M extension 2024-26; EXPIRES 30 JUNE 2026 — no successor announced as of July 2026; PCA Budget 2026-27 submission called for continuation; request not funded
+- CPCiAC objectives: specialist palliative care integration into RACFs; state-specific innovative models; coordination training; modest workforce expansion
+- Support at Home End-of-Life Pathway (from 1 November 2025): $25,000 budget per participant; available within 72 hours of approval; up to 12-16 weeks of support
+  - Eligibility: life expectancy ≤3 months; AKPS ≤40; age 65+ (50+ Aboriginal/Torres Strait Islander or homeless)
+  - Design flaw 1: prognosis-based not needs-based — excludes people with dementia whose terminal trajectory doesn't fit 3-month window
+  - Design flaw 2: 16-week time limit — funding expires even if participant still alive; PCA calls for removal of time limit
+  - Both PCA requests unaddressed in Budget 2026-27
+- Aged Care Act 2024 (from 1 November 2025): establishes enforceable RIGHT to palliative and end-of-life care for all aged care recipients; ACQSC must enforce against 636 providers with constrained inspection capacity
+- Budget 2026-27 palliative care: no major new investment; incremental continuity spending only; CPCiAC expiry unaddressed; primary palliative care practice payment (PCA recommendation) not funded
+- Palliative Care Australia position: strategic investment in palliative care would simultaneously ease hospital bed block crisis and improve patient experience; hospital-based late-stage intervention is most expensive and least preferred model
+- Dementia-specific palliative care: dementia is definitionally incompatible with prognosis-based eligibility criteria throughout the current system architecture; symptom management (BPSD, pain, dysphagia, contractures) requires specialised palliative approach; majority of RACF residents with dementia (54%) die without accessing AN-ACC Class 1 or formal palliative care pathway
