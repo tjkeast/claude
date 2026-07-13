@@ -42,6 +42,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 034 | 2026-07-10 | [Health Workforce Australia: The $200 Million Planning Body Australia Abolished — and the Cost of Ten Years Without One](034-2026-07-10-health-workforce-australia-reconstitution.md) | Opened: aged care Star Ratings and quality measures in depth (workforce shortage as confounder); PHI at end of life in residential aged care; Active Script List and ePrescribing ecosystem; aged care financial governance and the RAD capital pool; international medical graduate dependency and structural vulnerability |
 | 035 | 2026-07-11 | [Aged Care Star Ratings and the Quality Measures Problem: Australia's Accountability System Under Scrutiny](035-2026-07-11-aged-care-star-ratings-quality-measures.md) | Opened: PHI at end of life and in residential aged care; aged care financial governance and the RAD capital pool; Active Script List and ePrescribing ecosystem; international medical graduate dependency; CareTrack Aged and clinical guideline adherence in aged care |
 | 036 | 2026-07-12 | [Private Health Insurance at End of Life and in Residential Aged Care: What PHI Covers, What It Doesn't, and Why the Gap Matters](036-2026-07-12-phi-aged-care-end-of-life-coverage.md) | Opened: aged care financial governance and the RAD capital pool; ePrescribing/Active Script List ecosystem; international medical graduate dependency; long-term care insurance feasibility for Australia; CareTrack Aged and clinical guideline adherence |
+| 037 | 2026-07-13 | [The RAD Capital Pool: Australia's $48 Billion Quasi-Financial System Inside Aged Care](037-2026-07-13-rad-capital-pool-aged-care-financial-governance.md) | Opened: Active Script List and ePrescribing; international medical graduate dependency; long-term care insurance feasibility; aged care accommodation supplement equity; provider market exits and consolidation |
 
 ---
 
@@ -980,3 +981,32 @@ A daily research series building a connected, deepening body of knowledge on how
 3. International medical graduate dependency and structural vulnerability — IMGs fill 42% of projected Australian medical workforce growth to 2048; Section 19AB rural bonding creates geographic distribution side effects; global competition intensifying as European and North American aged populations increase demand; whether Australia's reliance is a managed strategy or an unmanaged structural risk
 4. Long-term care insurance: is an Australian market feasible? — deep dive into CEPAR modelling (2024/26); German/Japanese social LTCI models; the aged care levy proposal from the Royal Commission; why a private market has not developed; tax and regulatory changes required
 5. CareTrack Aged: clinical guideline adherence in residential aged care — landmark study measuring whether residents receive care recommended by clinical guidelines; connects to quality indicators (Report 035) from the opposite angle; measuring what should happen versus what does
+
+## Covered topics (Report 037 additions)
+- RAD (Refundable Accommodation Deposit): lump-sum paid by resident to provider at entry; fully refundable on exit (pre-Nov 2025 residents) or with 2% retention per annum (new residents from Nov 2025); provider holds funds as interest-free operating capital
+- DAP (Daily Accommodation Payment): daily alternative to RAD; calculated as RAD × MPIR / 365; MPIR 7.96% (Q2 2026); $750,000 RAD equivalent = $163.56/day DAP = ~$59,700/year
+- RAD pool total: AU$33.6B (June 2021) → AU$42.2B (June 2024) → AU$48.4B (June 2025)
+- Average full RAD received: $494,106 (FY24) → $516,770 (FY25); 4.6% increase (Stewart Brown FY25 survey)
+- Maximum RAD without IHACPA approval: $750,000 (from January 2025) → $758,627 (from July 2025, indexed CPI)
+- RAD retention (new residents from 1 November 2025): 2% per annum, max 5 years (maximum 10% total); existing residents fully protected under old rules
+- Accommodation Payment Guarantee Scheme: unlimited Commonwealth guarantee on all RAD refunds; covers full $48.4B pool; stronger than bank deposit guarantee ($250K cap); APRA-equivalent supervision gap remains
+- Financial and Prudential Standards (from 1 November 2025): Liquidity Standard requires 35% of annualised cash expenses + 10% of RAD liabilities in liquid assets; Solvency Standard (positive net assets); Investment Standard (limits high-risk RAD investment)
+- Stewart Brown FY25: Operating EBITDA $6,817/bed/year vs $20,000–22,000 required for investment; EBITDA margin 4.4% (FY24 3.5%)
+- Stewart Brown FY25: aggregate sector "unspent funds" (RAD balances minus liabilities) >$4.3B; per-client average $15,171 (FY24 $14,517)
+- KPMG 2026: government investment $39.2B in FY25 (up 9.6%); accommodation services still running at loss; period of market consolidation expected
+- New bed construction costs: ~$645,000/bed average (early 2026); up from $500,000 in 2024; up to $1M/bed for premium facilities
+- New beds added 2025: ~800 (Colliers analysis) vs ~10,600/year required; approvals up 23% to 285 in 2024-25 (highest in 5 years)
+- 2,500 hospital patients medically ready for discharge but no aged care bed available (late 2025)
+- Budget 2026-27 construction incentives: $1.7B to target 5,000 new beds/year from 1 July 2027; $606.5M capital subsidies
+- Aged Care Taskforce (March 2024): recommended conditional phase-out of RADs by 2035
+- Government response: independent review of sector readiness in 2029-30; if conditions met (improved financial sustainability, diversified capital, affordability), phase out RADs by 2035 → daily-fee-only (rental) model
+- RAD phase-out conditions deliberately require demonstrated alternative capital access before proceeding; sector argues conditions unlikely to be met without AN-ACC pricing reform
+- MPIR formula: 90-day bank bill rate + 2.27 percentage points (set quarterly)
+- IHACPA role: approves RAD prices above $758,627; 4-year approval period; indexed annually by CPI; assesses value to residents against quality, features, location
+
+## Suggested next branches (from Report 037)
+1. Active Script List and ePrescribing ecosystem — digital medication management infrastructure for aged care: ASL, S8 monitoring (state DORA/SONDA), ePrescribing legislation, December 2026 eNRMC deadline; links to polypharmacy QI indicators (Reports 031, 035) and medication safety governance
+2. International medical graduate dependency and structural vulnerability — IMGs fill 42% projected medical workforce growth to 2048; Section 19AB rural bonding side effects; global competition intensifying; whether Australia's reliance is managed or unmanaged structural risk; deferred from Reports 034–037
+3. Long-term care insurance: is an Australian market feasible? — CEPAR 2024/2026 papers; German/Japanese social LTCI models; aged care levy from Royal Commission 2021; why no private LTCI market; tax and regulatory changes required; direct RAD alternative
+4. Aged care accommodation supplement and thin-market equity — government supplement for low-means residents unable to pay DAP/RAD; supplement adequacy under Aged Care Act 2024; rural/remote thin-market calibration; equity dimension of capital-holder-designed system
+5. Provider market exits and consolidation — KPMG/StewartBrown project smaller provider exits; Aged Care Act 2024 provider registration handling of exits; resident continuity when facilities close; precedent cases (Bupa enforcement 2022-24); financial vulnerability of RAD-dependent small providers
