@@ -46,6 +46,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 038 | 2026-07-14 | [Australia's ePrescribing Ecosystem: The Active Script List, eNRMC, and the Race to Digital Medication Safety](038-2026-07-14-eprescribing-active-script-list-enrmc.md) | Opened: international medical graduate dependency (most persistently deferred); long-term care insurance feasibility; accommodation supplement equity; provider market exits; pharmacist scope of practice expansion |
 | 039 | 2026-07-15 | [International Medical Graduate Dependency: How Australia Built a Healthcare System That Cannot Function Without Foreign Doctors](039-2026-07-15-international-medical-graduate-dependency.md) | Opened: pharmacist scope of practice expansion; long-term care insurance feasibility; accommodation supplement equity; aged care provider market exits; rural mental health FIFO psychiatry model |
 | 040 | 2026-07-16 | [Pharmacist Scope of Practice Expansion: Australia's Largest Primary Care Reform and the Payment System Scrambling to Keep Up](040-2026-07-16-pharmacist-scope-of-practice-expansion.md) | Opened: long-term care insurance feasibility (persistently deferred); nurse practitioner workforce and MBS access; accommodation supplement equity; aged care provider market exits; rural mental health FIFO psychiatry model |
+| 041 | 2026-07-17 | [Nurse Practitioner Workforce and MBS Access: Australia's Established Prescribing Model Navigating Reform and Competition](041-2026-07-17-nurse-practitioner-workforce-mbs-access.md) | Opened: long-term care insurance feasibility (persistently deferred); rural mental health and FIFO psychiatry model; Medicare Safety Net reform and NP gap fees; aged care provider market exits; accommodation supplement equity |
 
 ---
 
@@ -1036,3 +1037,85 @@ A daily research series building a connected, deepening body of knowledge on how
 3. Accommodation supplement and thin-market equity — government supplement for low-means RACF residents; supplement adequacy under Aged Care Act 2024; rural/remote calibration
 4. Aged care provider market exits and consolidation — Aged Care Act 2024 registration handling of exits; resident continuity; Bupa enforcement precedents; financial vulnerability of RAD-dependent small providers
 5. Pharmacist scope of practice expansion and PBS prescribing — state-by-state pharmacist prescribing rights (UTI, contraception); PBS prescribing authority framework; whether pharmacist prescribing relieves GP pressure or creates quality risk
+
+## Covered topics (Report 039 additions)
+- IMG dependency: 42% of projected Australian medical workforce growth 2024–2048 from IMGs (DoH Workforce Modelling 2024)
+- Section 19AB restriction: IMGs on temporary and provisional visas must work in Distribution Priority Areas (DPA) for 10 years before gaining unrestricted Medicare access; DPA automatically includes MM2–7 areas
+- IMG categories: International Medical Graduate (any OS-trained doctor); Overseas-Trained Specialist (OTS, seeking college recognition); Foreign Graduate of an Accredited Medical School (FGAMS, granted limited recognition)
+- AMC pathways: AMC Examination (Part 1 MCQ + Part 2 clinical); or Competent Authority Pathway (from UK GMC, Irish Medical Council, US, Canada, NZ — equivalent regulators)
+- Medical workforce projections: total medical workforce needs to grow from ~107,000 FTE (2024) to ~162,000 FTE (2048) — a 55,000 FTE increase; domestic medical graduates fill ~58%, IMGs 42%
+- Global competition: UK, Canada, Ireland all running large-scale IMG recruitment campaigns simultaneously; OECD reports Australia competes with same source countries (India, UK, South Africa, Philippines, Nepal, Sri Lanka)
+- Source country vulnerability: top 3 IMG source countries (India, UK, South Africa) each experiencing domestic health workforce shortages; India underserviced at ~0.7 doctors per 1,000 population vs WHO threshold 1.0
+- IMG push factors: UK NHS crisis (long ED waits, stagnant pay, morale); South Africa public hospital underfunding; India limited specialist training places relative to graduate output
+- Section 19AB perverse effect: DPA rural bonding works when IMG stays in rural area; rural DPA removed when enough IMGs arrive (improving the area's doctor supply) — which can then trigger loss of Medicare access for the original IMG
+- Rural Generalist pathway: recognized September 2025 as specialty; RG training includes rural/remote placements that partially buffer IMG distribution issues; ~374 ACRRM RG places 2027
+- DPA reform 2025: updated March 2025; new MMM 2023 criteria; broader application of Distribution Priority Area; 2,500 additional DPA-classified areas vs prior model
+- IMG prescribing: IMGs with full Medicare access prescribe identically to domestic graduates; Section 19AB restriction limits where they can practice, not what they can prescribe
+- Mental health IMGs: psychiatry is 20.7% undersupplied nationally (2048 projection); international psychiatry graduates are recruited to urban public hospitals; rural psychiatry is served primarily by FIFO models or telehealth
+- National Medical Workforce Strategy 2021–2031: Action 1 (national health workforce planning body) not implemented; Action 6 (IMG dependency reduction through domestic training expansion) partially addressed by 2026 GP training intake record
+
+## Suggested next branches (from Report 039)
+1. Pharmacist scope of practice expansion — pharmacist prescribing as an alternative to IMG dependency in DPA areas; state-by-state implementation; PBS prescribing authority
+2. Long-term care insurance feasibility — CEPAR actuarial modelling; German/Japanese social LTCI models; aged care levy proposal; persistently deferred
+3. Accommodation supplement equity — government supplement for low-means RACF residents; rural thin-market calibration; deferred across multiple reports
+4. Aged care provider market exits and consolidation — Aged Care Act 2024 exit governance; financial vulnerability of RAD-dependent small providers
+5. Rural mental health FIFO psychiatry model — telehealth-enabled and fly-in-fly-out specialist model; PHN-commissioned rural mental health programs; how IMG psychiatrists serve rural communities
+
+## Covered topics (Report 040 additions)
+- Community pharmacy network: approximately 5,900 PBS-approved community pharmacies (FY2023); approximately 40,000 registered pharmacists (Pharmacy Board of Australia, May 2025)
+- Eighth Community Pharmacy Agreement (8CPA): commenced 1 July 2024; runs to 30 June 2029; AU$26.44 billion over 5 years (22% increase on 7CPA's $18.35B); dispensing remuneration $22.5B; signatories: Commonwealth + Pharmacy Guild; PSA not a co-signatory (separate Strategic Agreement)
+- Extended Practice Authority (EPA) — Pharmacists: national framework from 1 July 2025 (PSA, version 8); covers UTI, hormonal contraception (resupply + new initiation), selected skin conditions, acute respiratory, vaccines, some chronic conditions
+- QLD permanent scope (from 1 July 2025): 17+ acute conditions + hormonal contraception; >135 pharmacists in pilots; >1,700 services before permanence; state EPA framework governs
+- VIC Community Pharmacist Program: $18M state funding; $20 per consultation; permanent from 1 July 2025; 22 acute and chronic conditions from December 2025
+- NT EPA: 21 common conditions; MBS-independent state EPA
+- NSW: UTI permanent from May 2024; OCP resupply permanent from September 2024; vaginal ring + DMPA injection added March 2026
+- ACT: UTI + OCP from February 2025; musculoskeletal, reflux, rhinitis, acne, nausea added October 2025
+- SA: Graduate Certificate in Pharmacist Prescribing from Semester 1 2026; $5,000 training reimbursement via Guild SA
+- TAS: $5M state funding; scholarships; services expected within 2 years
+- WA: planned trial of QLD pilot conditions from 2026
+- Home Medicines Review (MBS Item 900): GP reimbursed for coordination; pharmacist clinical work funded through 8CPA programs; from 1 July 2027 HMR requires GP chronic condition management plan prerequisite
+- NIP vaccination expansion: $114.1M over 4 years from January 2024 for pharmacist-administered NIP vaccines to age 5+ — the closest federal analogue to direct pharmacist payment
+- Payment gap: Victoria $20/consultation; no MBS items for pharmacist prescribing consultations; no PBS subsidies for pharmacist-prescribed medicines (PBS subsidy tied to prescriptions from medical practitioners or authorised NPs)
+- Pharmacy Guild modelling (2026): pharmacist prescribing could generate $1B/year system savings; free >10M GP appointments; prevent 30,000 hospitalisations
+- SAX Institute Report (6 July 2026): commissioned by RACGP; safety outcomes not formally evaluated in robust clinical trials; bulk of evidence measures activity not safety
+- Safety coalition (June 2026): RACGP + AMA + ACNP + Council of Presidents of Medical Colleges + Choice Chemist; raised concerns re prescriber/dispenser conflict, continuity of care, inadequate evidence base
+- UK Pharmacy First (31 January 2024): £215M; pharmacists prescribe prescription-only medicines for 7 conditions; up to 12M consultations/year; all graduating UK pharmacists qualified as independent prescribers from 2026
+- Canada Alberta model: independent pharmacist prescribing since 2006; three-tier competency model; APA (Additional Prescribing Authorization) allows prescribing of almost any medicine except narcotics; publicly funded
+- New Zealand: 307% increase in pharmacist prescribers March 2024–March 2025 (73 → 297); Medicines Amendment Act 2025 expanded rights including unapproved medicines and 12-month prescriptions
+- Grattan Institute: location regulation (ACPA) limits pharmacy competition; entry deregulation could drive innovation; scope expansion risks obscuring underlying market structure problem
+- ACNP co-signature on June 2026 safety coalition: NP master's degree vs pharmacist graduate certificate training hierarchy; prescriber/dispenser separation principle
+
+## Suggested next branches (from Report 040)
+1. Long-term care insurance feasibility — CEPAR actuarial modelling; German/Japanese LTCI models; aged care levy; persistently deferred across Reports 036–040
+2. Aged care accommodation supplement equity — government supplement for low-means RACF residents; supplement adequacy under Aged Care Act 2024; rural thin-market calibration; deferred across multiple reports
+3. Nurse practitioner workforce and MBS access — NP prescribing model; MBS items 82200–82216; NP employment in primary care, aged care, and mental health; training pipeline; relevant to pharmacist prescribing debate
+4. Aged care provider market exits and consolidation — KPMG/StewartBrown projections; Aged Care Act 2024 exit governance; Bupa enforcement experience; deferred across multiple reports
+5. Rural mental health FIFO psychiatry model — telehealth-enabled and fly-in-fly-out specialist model; pharmacist mental health prescribing overlap; PHN-commissioned rural mental health programs
+
+## Covered topics (Report 041 additions)
+- NP endorsement requirements: NMBA Endorsement for Scheduled Medicines; Master's degree (NMBA-approved) + 5,000 hours advanced clinical practice within prior 6 years (≈3 years full-time); ~7–8 year total training timeline from nursing degree commencement; 13 universities offer NP Master's programs
+- NP workforce size: approximately 9,800 endorsed NPs (May 2023 NP Workforce Plan baseline); ~10,000–10,500 by mid-2025 (NMBA quarterly data trend); 2.2–2.3% of total nursing and midwifery registrant pool (~450,000)
+- NP-specific workforce gap: 296 FTE projected by 2035 (Nursing Supply and Demand Study 2023–2035); modest relative to total nursing shortage (70,707 FTE by 2035)
+- NP employment: aged care and chronic disease management; primary healthcare/GP settings (including rural and remote as GP substitutes); emergency and specialist hospital settings; mental health (psychiatric-mental health NPs)
+- MBS items for NPs (Category 8): 82200 (obvious problem, limited exam); 82205 (6–20 min); 82210 (≥20 min); 82215 (≥40 min); 82216 (≥60 min, from March 2025); telehealth equivalents 91178–91193
+- MBS rebates (Nov 2025 QRG, 85% of schedule fee): Item 82205 = $27.05; Item 82210 = $51.25; Item 82215 = $75.60; Item 82200 = $12.40
+- GP comparison: Item 23 (6–20 min) schedule fee $43.90; rebate $37.32 — NP Item 82205 rebate ($27.05) is 27% lower for equivalent consultation duration
+- 30% MBS fee increase: 1 July 2024; attendance items and telehealth items; Budget 2024–25 funding ~$135.1M over 4 years
+- New long-attendance items: from 1 March 2025; Item 82216 (≥60 min face-to-face) and equivalent telehealth item; reflects complex multimorbid NP care requiring longer consultations
+- Telehealth established clinical relationship requirement: from 1 November 2025; minimum one face-to-face consult within prior 12 months; mirrors GP telehealth change
+- Collaborative Arrangement removal: Health Legislation Amendment (Removal of Requirement for Collaborative Arrangement) Bill 2024; effective 1 November 2024; MBS and PBS access no longer conditional on formal written arrangement with named GP; ACNP described as "most transformative structural change to NP practice since 2010"
+- PBS prescribing expansion (2024–25): ~70 medicines identified and assessed at March 2025 PBAC meeting; most recommended for NP prescribing in accordance with existing PBS restrictions or continuing-therapy-only; implemented 1 October 2025. Prior expansion: sacubitril/valsartan, fingolimod, ofatumumab, siponimod, inclisiran (implemented 1 March 2025). Oncology/haematology: PBAC July 2025; implemented 1 February 2026. Endorsed midwives: combined oral contraceptives added 1 June 2025
+- Designated Registered Nurse Prescriber (new category): NMBA registration standard commenced 30 September 2025; requirements: 3 years full-time post-registration experience (5,000 hours within 6 years); NMBA-approved prescribing course (graduate certificate level); 6-month post-endorsement clinical mentorship; must prescribe under specific prescribing agreement with authorised health practitioner; limited formulary only
+- RN PBS prescribing legislation: Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill 2025; passed Parliament July 2026; amends National Health Act 1953; PBS administrative system changes ready 1 October 2026; RN prescribers subject to Professional Services Review
+- ACNP position on RN prescribers: "RN Prescribers are not Nurse Practitioners"; formulary must be tightly bounded; concern about salary-grade arbitrage undermining NP pipeline investment
+- BBPIP gap: BBPIP (from 1 November 2025) applies to general practices bulk billing all patients; NP-led practices not eligible; NP bulk billing Item 82205 yields $27.05 vs GP Item 23 with BBPIP loading ~$41.98 — structural disadvantage ~36%
+- APNA 2024 Workforce Survey: 31% of PHC nurses unable to work to full scope of practice most of the time; 34% of aged care nurses not utilised most of the time; only 21% of requests for more complex duties approved; 35% would consider self-employment if government funding available
+- NP underutilisation structural drivers: MBS architected for GP-led care; BBPIP exclusion; Home Medicines Review (Item 900) routes through GP coordination model despite NP clinical work
+- ACNP co-signature on June 2026 pharmacist safety coalition: training hierarchy argument (NP Master's degree vs pharmacist graduate certificate); prescriber/dispenser separation principle; risk of scope creep into chronic disease management (NP territory)
+
+## Suggested next branches (from Report 041)
+1. Long-term care insurance feasibility — CEPAR actuarial modelling of Australia's uncovered long-term care cost; German/Japanese social LTCI models; aged care levy proposal from Royal Commission 2021; persistently deferred across Reports 036–041
+2. Aged care provider market exits and consolidation — KPMG/StewartBrown projections; Aged Care Act 2024 registration and exit governance; Bupa enforcement experience; deferred across multiple reports
+3. Rural mental health and the FIFO psychiatry model — telehealth-enabled and fly-in-fly-out specialist model; psychiatric-mental health NP as primary alternative; PHN-commissioned rural mental health programs; relevant to IMG (Report 039) and NP (Report 041) themes
+4. Medicare Safety Net reform — NP gap fees and the OMSN/EMSN thresholds; NP OOP costs for patients without bulk billing access; broader safety net architecture as it applies to non-GP providers
+5. Aged care accommodation supplement equity — government supplement for low-means RACF residents; supplement adequacy under Aged Care Act 2024; rural thin-market calibration; deferred across Reports 036–041
