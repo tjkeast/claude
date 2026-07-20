@@ -49,6 +49,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 041 | 2026-07-17 | [Nurse Practitioner Workforce and MBS Access: Australia's Established Prescribing Model Navigating Reform and Competition](041-2026-07-17-nurse-practitioner-workforce-mbs-access.md) | Opened: long-term care insurance feasibility (persistently deferred); rural mental health and FIFO psychiatry model; Medicare Safety Net reform and NP gap fees; aged care provider market exits; accommodation supplement equity |
 | 042 | 2026-07-18 | [Long-Term Care Insurance for Australia: The Funding Question the Government Won't Answer](042-2026-07-18-long-term-care-insurance-feasibility.md) | Opened: aged care provider market exits/consolidation; superannuation as LTCI pre-funding; home equity release for care financing; rural mental health and FIFO psychiatry (persistently deferred); accommodation supplement equity |
 | 043 | 2026-07-19 | [Superannuation and Aged Care Pre-Funding: Australia's $4.4 Trillion Missed Opportunity](043-2026-07-19-superannuation-aged-care-pre-funding.md) | Opened: home equity release for aged care financing (HEAS reform, $3T housing pool); aged care provider market exits; APRA longevity product capital changes (July 2026) market impact; super-aged care gender equity gap; accommodation supplement equity |
+| 044 | 2026-07-20 | [Home Equity Release for Aged Care Financing: Australia's $3 Trillion Housing Pool and the Scheme Nobody Uses](044-2026-07-20-home-equity-release-aged-care-financing-heas-reform.md) | Opened: aged care provider market exits; rural mental health and FIFO psychiatry (persistently deferred); accommodation supplement equity; gender equity dimension of housing wealth in care; deferred RAD and accommodation pricing reform |
 
 ---
 
@@ -1121,3 +1122,69 @@ A daily research series building a connected, deepening body of knowledge on how
 3. Rural mental health and the FIFO psychiatry model — telehealth-enabled and fly-in-fly-out specialist model; psychiatric-mental health NP as primary alternative; PHN-commissioned rural mental health programs; relevant to IMG (Report 039) and NP (Report 041) themes
 4. Medicare Safety Net reform — NP gap fees and the OMSN/EMSN thresholds; NP OOP costs for patients without bulk billing access; broader safety net architecture as it applies to non-GP providers
 5. Aged care accommodation supplement equity — government supplement for low-means RACF residents; supplement adequacy under Aged Care Act 2024; rural thin-market calibration; deferred across Reports 036–041
+
+## Suggested next branches (from Report 042)
+1. Aged care provider market exits and consolidation — KPMG/StewartBrown sector financial viability data; Aged Care Act 2024 exit governance; Bupa enforcement experience; for-profit/not-for-profit compliance divergence
+2. Superannuation as aged care pre-funding — APRA Retirement Income Covenant; APRA longevity product capital changes July 2026; Division 296 revenue not earmarked for aged care; $326B stranded balances
+3. Home equity release for aged care financing — HEAS design failure; $3T housing pool; commercial reverse mortgage growth at 12.4% CAGR; family home means test perverse incentive
+4. Rural mental health and the FIFO psychiatry model — telehealth-enabled and fly-in-fly-out specialist model; psychiatric-mental health NP alternative; PHN-commissioned rural mental health programs; persistently deferred
+5. Aged care accommodation supplement equity — government supplement for low-means RACF residents; deferred across Reports 036–042
+
+## Covered topics (Report 042 additions)
+- OECD LTCI systems: Germany social LTCI (mandatory, 1995); Japan LTCI (mandatory, 2000); South Korea (2008); Netherlands (AWBZ, universal); risk pooling vs means-tested income-support approaches
+- Royal Commission into Aged Care Quality and Safety (2021): explicitly recommended government examine LTCI feasibility; government response did not commit to LTCI; Aged Care Act 2024 does not establish LTCI
+- Productivity Commission Caring for Older Australians (2011): recommended individual contribution to aged care via co-payments, means testing, and home equity; not an LTCI structure
+- Aged care means testing: from 1 November 2025, annual co-contribution cap and lifetime cap apply; lifetime cap (non-clinical) $135,318.69; annual cap ~$32,718.57; cap provides de facto LTCI backstop for long-stay residents
+- Support at Home co-contribution rates: clinical = 0%; independence 5–50%; everyday living 17.5–80% depending on pension status
+- NDIS comparison: NDIS funded at $41.4B in 2024–25; aged care funded at $36.4B; neither system is an LTCI — both are demand-driven entitlements
+- Actuarial profile of long-term care need: 50% of Australians entering residential aged care stay <2 years; 20% stay 5+ years; top 10% of care consumption accounts for ~40% of total cost
+- Productivity Commission 2024 review of National Care and Support Economy: recommended government develop national LTCI policy position; no action taken as at mid-2026
+- Regional LTCI comparison: Germany LTCI contribution rate 3.4% of income (2024); Japan ~1% income-based contribution; neither earmarked to individual accounts; both administered as social insurance pools
+
+## Suggested next branches (from Report 043)
+1. Home equity release for aged care financing — HEAS design failure ($13,832 annual lump sum cap vs $575K median RAD); $3T housing pool; commercial reverse mortgage market at $5.5B outstanding; means test perverse incentive
+2. Aged care provider market exits and consolidation — financial viability data; KPMG/StewartBrown sector projections; exit governance under Aged Care Act 2024
+3. APRA longevity product capital changes (July 2026) market impact — AILP factor; Challenger market response; whether annuity supply actually increases
+4. Super and aged care gender equity — women retire with 24% lower super than men; higher life expectancy; higher probability of residential care; no policy addressing this as care-financing problem
+5. Aged care accommodation supplement equity — government supplement for means-tested residents; adequacy by region; RAD retention interaction
+
+## Covered topics (Report 043 additions)
+- Superannuation guarantee: reached 12% of ordinary-time earnings from 1 July 2025 (final legislated step); world's fourth-largest mandatory defined-contribution system
+- Total APRA-regulated superannuation assets: $4.5T (December 2025); $4.4T (March 2026, after market movements); $3.1T in APRA-regulated funds
+- Annual contributions: $226.1B (year to March 2026), up 11.3% YoY; annual benefit payments $143.5B ($79.7B lump sums, $63.8B pension)
+- Retirement Income Covenant (from 1 July 2022): requires trustees to formulate retirement income strategy maximising expected income, managing longevity/sequencing/inflation/market risk; APRA 2025 Pulse Check found widespread minimal compliance
+- Retirement phase asset allocation: 3.5% annuities/lifetime income products; 84% account-based pensions subject to minimum drawdown rates
+- Minimum drawdown rate age 75: 6% pa; for a 75-year-old with $573K RAD needed, ABP is materially depleted by typical residential care entry age
+- $326B stranded balances problem: 1.5M+ Australians aged 65+ in APRA-regulated funds; balances not connected to structured retirement income product or aged care strategy; averaging >$210K/person
+- Treasury best practice principles (23 February 2026): non-binding guidance for trustees; explicitly noted ABPs "likely to be depleted by the time residential aged care is needed"; DLA as possible solution; first Treasury acknowledgment of aged care capital gap in super policy
+- APRA AILP (Advanced Illiquidity Premium): finalised April 2026, effective 1 July 2026; reduces capital cost for life insurers issuing longevity products; enables cheaper annuity pricing; market impact yet to emerge
+- Division 296: additional 15% tax on super earnings attributable to $3M–$10M balances; additional 25% for >$10M; effective 1 July 2026; affects ~90,000 Australians; revenue flows to consolidated revenue, not aged care
+- Home Equity Access Scheme (HEAS): 18,691 participants (December 2025); 3.95% pa interest rate (unchanged since January 2022); government reverse mortgage on own real estate; reaches <0.5% of eligible homeowning retirees
+- Commercial reverse mortgage market: $3.98B (early 2025, up ~90% in 12 months); Heartland Bank portfolio $1.98B (June 2025); driven partly by RAD financing need
+- Housing equity pool: ~$3T for Australians 60+; $600B potentially accessible; ~1% currently flowing into equity release products
+- Gender gap: women retire with average superannuation balance ~24% lower than men; higher life expectancy; higher probability of residential aged care entry; no policy specifically addresses this as aged care financing gap
+
+## Suggested next branches (from Report 044)
+1. Aged care provider market exits and consolidation — KPMG/StewartBrown sector financial viability data; APRA-style registration and exit governance under Aged Care Act 2024; Bupa enforcement experience; for-profit vs not-for-profit divergence in RAD capital accumulation
+2. Rural mental health and FIFO psychiatry — the longest-persistently-deferred thread; fly-in fly-out specialist psychiatry in thin markets; psychiatric-mental health NPs as primary alternative; PHN-commissioned rural mental health programs; MBS telehealth item adequacy
+3. Aged care accommodation supplement equity — government supplement for low-means RACF residents who cannot fund a RAD or pay DAP; adequacy variations by region; interaction with RAD retention 2%/year; rural calibration
+4. Gender equity dimension of housing wealth in aged care — widows with high housing equity but low super facing full HEAS lump sum cap; gender-differentiated case for HEAS reform; survivor benefit structures and carer superannuation credits
+5. Deferred RAD and accommodation pricing reform — IHACPA's role in setting maximum accommodation prices; deferred RAD mechanisms allowing estate-based payment; how pricing reform could extend care access without requiring equity release architecture reform
+
+## Covered topics (Report 044 additions)
+- HEAS 2026 key parameters: interest rate 3.95% pa (unchanged since January 2022); eligibility age 67; max regular payment 150% of max Age Pension (~$1,723.50/fortnight for singles); max lump sum (12 months) ~$13,832 single / ~$20,852 per person couple; statutory no-negative-equity guarantee (since 2022)
+- HEAS participation: 18,691 participants (December 2025); <0.5% of eligible homeowning retirees
+- HEAS lump sum structural gap: max $13,832/year for singles vs national median RAD ~$575,000; HEAS lump sum covers ~2.4% of median RAD — structurally unable to bridge RAD capital requirement
+- HEAS vs commercial reverse mortgage rate: 3.95% vs 8.75–8.79% (Heartland, April 2026); HEAS saves ~$14,400/year in avoided interest on a $300,000 loan
+- Commercial reverse mortgage market: $5.5B outstanding across ~40,000 households (30 June 2025); IBISWorld market revenue $461.8M in 2026; CAGR 12.4% between 2021–2026; Heartland Bank Australia portfolio $2.17B (December 2025)
+- Deloitte 2026 Australian Reverse Mortgage Survey: $3T total equity held by Australians 60+; $600B potentially accessible; 1% currently tapped; 45% of borrowers use for home modifications; 10% for medical/healthcare costs
+- RAD costs 2026: national median ~$575,000; metro Sydney/Melbourne can exceed $1M; regional areas $300,000–$550,000; RAD is interest-free to resident (bond returned on exit)
+- DAP (Daily Accommodation Payment): rental equivalent to RAD; calculated at government-set interest rate 5.7% pa; on $575K room = ~$89.50/day (~$32,700/year)
+- RAD retention from 1 November 2025: 2% pa on RAD balance for new entrants; max 5 years (10% total); $575K RAD generates ~$11,500/year provider retention; changes calculus vs DAP option
+- Family home means test in aged care: if home retained, capped at $214,884 (from 20 March 2026) in aged care means assessment regardless of actual value; protected person exemption applies; selling home makes full net proceeds assessable
+- Age Pension home exemption: 2-year exemption after entering residential care; extended indefinitely if protected person in residence; home assessed at net market value after 2-year period for pension test
+- Perverse incentive: retaining family home is financially rational strategy for most asset profiles; selling triggers higher means-tested care fees; equity release via HEAS (income/lump sum) affects Age Pension income test
+- Retirement Income Review 2020: identified HEAS as effective but chronically underutilised; recommended greater housing equity drawdown for retirement and care costs; no reform action as at mid-2026
+- CEPAR research: stochastic lifecycle model finds HEAS materially improves welfare for asset-rich households with $200–$500K financial assets + $600K+ housing equity; proposed central home equity coordination unit to automate HEAS–aged care fee linkage
+- Support at Home co-contribution interaction with HEAS: HEAS regular payment (max ~$44,800/year for singles) could bridge everyday living co-contributions for pensioners; self-funded retirees above pension threshold have restricted HEAS access
+- No-negative-equity guarantee: since July 2012 for commercial products (National Credit Code); since 2022 for HEAS; borrower can never owe more than property's sale value; government absorbs shortfall
