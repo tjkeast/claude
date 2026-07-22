@@ -51,6 +51,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 043 | 2026-07-19 | [Superannuation and Aged Care Pre-Funding: Australia's $4.4 Trillion Missed Opportunity](043-2026-07-19-superannuation-aged-care-pre-funding.md) | Opened: home equity release for aged care financing (HEAS reform, $3T housing pool); aged care provider market exits; APRA longevity product capital changes (July 2026) market impact; super-aged care gender equity gap; accommodation supplement equity |
 | 044 | 2026-07-20 | [Home Equity Release for Aged Care Financing: Australia's $3 Trillion Housing Pool and the Scheme Nobody Uses](044-2026-07-20-home-equity-release-aged-care-financing-heas-reform.md) | Opened: aged care provider market exits; rural mental health and FIFO psychiatry (persistently deferred); accommodation supplement equity; gender equity dimension of housing wealth in care; deferred RAD and accommodation pricing reform |
 | 045 | 2026-07-21 | [Rural Mental Health and FIFO Psychiatry: Australia's 7 Million People Without a Local Psychiatrist](045-2026-07-21-rural-mental-health-fifo-psychiatry.md) | Opened: aged care provider market exits/consolidation; accommodation supplement equity in aged care; psychiatric NPs in rural mental health; state vs Commonwealth mental health funding interface; ADHD diagnosis access bottleneck in rural Australia |
+| 046 | 2026-07-22 | [ADHD Diagnosis and Treatment Access in Rural Australia: The Psychiatry Bottleneck, Stimulant Prescribing Controls, and 600,000 Patients in an Underfunded System](046-2026-07-22-adhd-diagnosis-treatment-access-rural-australia.md) | Opened: state-funded community mental health services and Commonwealth-state interface; NDIS and neurodevelopmental disability (ADHD/ASD); aged care provider market exits; accommodation supplement equity; Disability Royal Commission response and NDIS Amendment 2026 interaction |
 
 ---
 
@@ -1189,3 +1190,60 @@ A daily research series building a connected, deepening body of knowledge on how
 - CEPAR research: stochastic lifecycle model finds HEAS materially improves welfare for asset-rich households with $200–$500K financial assets + $600K+ housing equity; proposed central home equity coordination unit to automate HEAS–aged care fee linkage
 - Support at Home co-contribution interaction with HEAS: HEAS regular payment (max ~$44,800/year for singles) could bridge everyday living co-contributions for pensioners; self-funded retirees above pension threshold have restricted HEAS access
 - No-negative-equity guarantee: since July 2012 for commercial products (National Credit Code); since 2022 for HEAS; borrower can never owe more than property's sale value; government absorbs shortfall
+
+## Suggested next branches (from Report 045)
+1. Aged care provider market exits and consolidation — KPMG/StewartBrown sector financial viability data; Aged Care Act 2024 exit governance; Bupa enforcement experience; for-profit vs not-for-profit divergence in rural thin markets
+2. Accommodation supplement equity in aged care — government means-tested accommodation supplement for RACF residents who cannot fund a RAD or pay DAP; adequacy by region; rural pricing dynamics under Aged Care Act 2024
+3. Psychiatric nurse practitioners in rural mental health — NP prescribing authority for mental health; current numbers; geographic distribution; how far NPs can substitute for psychiatrists in FIFO-only or telehealth-only communities
+4. State-funded community mental health services and Commonwealth-state interface — community mental health teams, CAT teams, and community mental health nursing sit outside MBS; how state allocation shapes rural access in ways invisible to Medicare data
+5. ADHD diagnosis access bottleneck in rural Australia — stimulant prescribing requires psychiatrist initiation in most states; ADHD as proxy measure of the rural psychiatry shortage's practical consequences; fastest-growing diagnostic category
+
+## Covered topics (Report 045 additions)
+- Total psychiatry workforce (2023): 4,272 psychiatrists; 3,812.6 FTE; 85.0% in metropolitan areas; 1.8% in rural and remote areas
+- Geographic maldistribution: 14% of psychiatrists work rurally; 29% of Australians (7 million) live in regional, rural, and remote areas
+- Projected FTE undersupply: ~600 (2024); ~1,900 (2028); ~6,100 (2048); 20.7% of modelled demand by 2048
+- National median wait: at least 258 days from GP referral to first psychiatrist appointment (University of Melbourne, 2024, MBS claims data 2011–2022)
+- Six private psychiatric hospitals closed in 2024, compressing inpatient capacity
+- FIFO psychiatry model: psychiatrists fly to remote communities monthly or quarterly; 30-40% of working week consumed by transit in very remote sites
+- FIFO limitations: no continuity of acute deterioration management; no local peer supervision; burnout at 74% reporting multiple symptoms; 33% considering leaving profession within 5 years
+- RFDS mental health: 2,600 mental health clinic visits; 40,000 remote telehealth consultations (2023-24); $1B Commonwealth commitment 2024-25 to 2031-32 (10 years); $74.8M expansion of primary care, mental health, dental in remote communities
+- MBS telehealth psychiatry: Item 92437 (video initial consultation); Item 294 (50% fee loading for bulk-billed telehealth psychiatry — designed to incentivise bulk billing for video)
+- Item 294 (50% fee loading) has not reversed declining bulk-billing trend in telepsychiatry
+- Woon et al. 2025 (13.5 million telepsychiatry consultations): average bulk-billing rate 50.9%; bulk-billing rates decreased over time as telehealth expanded; fee gaps increased across all modes
+- Inpatient telehealth psychiatry MBS items: from 1 November 2024 (initial 2-year period); allows hospital admission assessments via video
+- MyMedicare clinical relationship requirement (from 1 November 2025): extended to mental health telehealth — creates access friction for rural patients with high GP turnover or via FIFO services
+- RANZCP Rural Psychiatry Roadmap 2021–31: Rural Psychiatry Training Pathway; Psychiatry Workforce Program (PWP) rural loading $18,047–$30,938/post/year; Integrated Rural Training Pipeline (IRTP)
+- RANZCP 2026-27 pre-budget ask: $24.85M for 45 additional PWP posts; government's 2026-27 Budget response: "crucial funding missing" (fifth consecutive budget year with same assessment)
+- Stepped-care gap: Better Access psychology bulk-billing collapse means moderate-severity rural mental health falls through to under-resourced psychiatry; PHN stepped-care commissioning framework (July 2026) acknowledges model "cannot be fully implemented where the workforce does not exist"
+- Suicide rate: very remote Australia 20.5–24.6 per 100,000; major cities 9.9–10.9 per 100,000
+
+## Suggested next branches (from Report 046)
+1. State-funded community mental health services and the Commonwealth-state interface — community mental health teams, CAT teams, and community mental health nursing are state-funded and invisible in Medicare data; how state funding allocation shapes rural mental health access beyond what PHNs and MBS can address
+2. NDIS and neurodevelopmental disability (ADHD/ASD) — NDIS eligibility for ADHD when functional impairment is sufficient; overlap with autism (frequently comorbid); whether the "missing middle" documented for psychosocial disability also applies to neurodevelopmental conditions in adolescents
+3. Aged care provider market exits and consolidation — long-deferred thread; KPMG/StewartBrown financial viability data; Aged Care Act 2024 exit governance; for-profit vs not-for-profit divergence in rural thin markets
+4. Accommodation supplement equity in aged care — government means-tested supplement for RACF residents who cannot fund a RAD or pay DAP; adequacy by region; rural pricing dynamics
+5. Disability Royal Commission response and NDIS Amendment 2026 interaction — Royal Commission final report (September 2023) 222 recommendations; NDIS Amendment (Securing the NDIS) Bill 2026; how recommended inclusion and alternative support pathway reforms interact with cuts to participation support budgets
+
+## Covered topics (Report 046 additions)
+- Total ADHD patients on PBS (2023-24): ~600,000 Australians; 4.6 million prescriptions; average 8 prescriptions per patient per year
+- Population treatment rate: 22 per 1,000 Australians (2023-24); doubled from 11 per 1,000 in 2020-21; 11-fold from 2 per 1,000 in 2004-05
+- Adult proportion: 44.6% of PBS-subsidised ADHD patients were adults (18+) in 2022-23 — majority shift from historical paediatric focus
+- Adult ADHD medication prevalence: 2.36% of Australian adults taking ADHD medicines (2025, UNSW/NDARC); up from 0.35% in 2016-17 (nearly 7-fold increase)
+- Deloitte Access Economics (AADPA-commissioned): total ADHD cost $20.42B/year; financial costs $12.83B (81% productivity loss); wellbeing losses $7.59B; estimated 800,000+ Australians affected
+- PBS medicines: methylphenidate (IR and ER); dexamfetamine; lisdexamfetamine — all listed; co-payment $25.00 general / $7.70 concessional (from January 2026)
+- PBS listing expansion (1 February 2021): lisdexamfetamine extended to adults with ADHD persisting from childhood, even when diagnosed after age 18 — drove subsequent prescription surge
+- S8 prescribing architecture: ADHD stimulants are Schedule 8 controlled drugs; prescribing authority governed by state/territory Poisons legislation, not Commonwealth; historically required psychiatrist (adult) or paediatrician (child) to initiate
+- State prescribing reform wave 2025-26:
+  - Queensland (1 December 2025): FRACGP/FACRRM GPs can initiate, modify, continue adult ADHD stimulants without additional mandatory training — first state; particularly significant for rural FACRRM GPs
+  - NSW (September 2025 Stage 1 / mid-2026 Stage 2): Stage 1: trained GPs continue (not initiate) existing scripts; 749 GPs completed training by January 2026; Stage 2 (mid-2026): full GP initiation with mandatory ADHD training
+  - South Australia (February 2026): trained GPs assess patients 10+ and prescribe; ~65 GPs in first cohort
+  - Western Australia: $1.3M to train 65 specialist GPs; mandatory 6-month co-management period; first GPs operating independently from early 2026
+  - ACT (February 2026): removed CHO approval requirement for psychiatrists/paediatricians/neurologists within dose limits; not extended to GPs
+  - Victoria, Tasmania, NT: no GP-initiation reform as at mid-2026; permit system intact
+- Assessment costs: psychiatrist initial consultation $500-$800 (MBS rebate ~$455.60, OOP $266-$566); full assessment including psychology/neuropsychology $800-$2,500+
+- Wait times: 12-18 months for specialist in-person assessment (Senate inquiry 2023 finding); University of Wollongong 2026: "12-month wait and a $1,400 bill"
+- Commercial telehealth ADHD clinic model: 1-4 week wait; similar or higher costs; concerns from Senate inquiry about inadequate assessment and misdiagnosis; Australian College of Mental Health Nurses raised quality concerns
+- Senate Community Affairs References Committee inquiry (March-November 2023): 701 submissions; 3 public hearings; 15 recommendations including National ADHD Framework, MBS/PBS review, nationally consistent prescribing rules
+- Government response (January 2025): accepted 1 of 15 recommendations in full (uniform prescribing rules); remaining 14 noted, deferred, or declined; National ADHD Framework not funded
+- MJA 2025 (Bradlow et al.): commercial ADHD diagnosis model creates perverse incentives toward over-diagnosis; clinic volume incentives reduce structural resistance to self-referred diagnoses
+- Rural compound: FIFO psychiatry (quarterly visits) incompatible with stimulant titration requirements (regular adjustment over 3-6 months); state prescribing variation creates postcode lottery; non-reforming jurisdictions (VIC, TAS, NT) leave rural patients without GP-initiation option
