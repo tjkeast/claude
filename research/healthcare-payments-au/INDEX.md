@@ -52,6 +52,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 044 | 2026-07-20 | [Home Equity Release for Aged Care Financing: Australia's $3 Trillion Housing Pool and the Scheme Nobody Uses](044-2026-07-20-home-equity-release-aged-care-financing-heas-reform.md) | Opened: aged care provider market exits; rural mental health and FIFO psychiatry (persistently deferred); accommodation supplement equity; gender equity dimension of housing wealth in care; deferred RAD and accommodation pricing reform |
 | 045 | 2026-07-21 | [Rural Mental Health and FIFO Psychiatry: Australia's 7 Million People Without a Local Psychiatrist](045-2026-07-21-rural-mental-health-fifo-psychiatry.md) | Opened: aged care provider market exits/consolidation; accommodation supplement equity in aged care; psychiatric NPs in rural mental health; state vs Commonwealth mental health funding interface; ADHD diagnosis access bottleneck in rural Australia |
 | 046 | 2026-07-22 | [ADHD Diagnosis and Treatment Access in Rural Australia: The Psychiatry Bottleneck, Stimulant Prescribing Controls, and 600,000 Patients in an Underfunded System](046-2026-07-22-adhd-diagnosis-treatment-access-rural-australia.md) | Opened: state-funded community mental health services and Commonwealth-state interface; NDIS and neurodevelopmental disability (ADHD/ASD); aged care provider market exits; accommodation supplement equity; Disability Royal Commission response and NDIS Amendment 2026 interaction |
+| 047 | 2026-07-23 | [State-Funded Community Mental Health Services: Australia's Invisible System and the Commonwealth-State Funding Fault Line](047-2026-07-23-state-community-mental-health-funding-interface.md) | Opened: Victoria Mental Health Levy/Royal Commission implementation in depth; NGO/community-managed mental health block grant sector; accommodation supplement equity in aged care; aged care provider market exits; Fifth National Mental Health Plan implementation failure |
 
 ---
 
@@ -1247,3 +1248,31 @@ A daily research series building a connected, deepening body of knowledge on how
 - Government response (January 2025): accepted 1 of 15 recommendations in full (uniform prescribing rules); remaining 14 noted, deferred, or declined; National ADHD Framework not funded
 - MJA 2025 (Bradlow et al.): commercial ADHD diagnosis model creates perverse incentives toward over-diagnosis; clinic volume incentives reduce structural resistance to self-referred diagnoses
 - Rural compound: FIFO psychiatry (quarterly visits) incompatible with stimulant titration requirements (regular adjustment over 3-6 months); state prescribing variation creates postcode lottery; non-reforming jurisdictions (VIC, TAS, NT) leave rural patients without GP-initiation option
+
+## Suggested next branches (from Report 047)
+1. Victoria's Mental Health Levy and hypothecated health funding — Victoria's dedicated payroll levy for mental health (Royal Commission mandate) as novel health finance model; implementation progress; adequacy vs Royal Commission cost estimates; whether the model could be replicated nationally
+2. NGO/community-managed mental health organisations — ~600 mental health NGOs in Australia; state and Commonwealth block-grant funded; sector decimated when NDIS launched and states defunded non-NDIS services; current scale, funding conditions, workforce, and role in the psychosocial support gap
+3. Aged care provider market exits and consolidation — most persistently deferred thread; StewartBrown data showing 61% of homes operating at a loss (Dec 2025); exit governance under Aged Care Act 2024; thin rural markets most exposed
+4. Accommodation supplement equity in aged care — Commonwealth means-tested supplement for RACF residents who cannot pay a RAD or DAP; adequacy by region; whether Budget 2026-27 $1.1B restructure addresses regional building cost disparities
+5. Fifth National Mental Health and Suicide Prevention Plan (2021-2031) — plan endorsed 2017, implementation due 2022, declared "not fit for purpose" by PC 2025; what the next national architecture should look like; co-design process timeline
+
+## Covered topics (Report 047 additions)
+- Total mental health expenditure 2023-24: $13.8 billion; $537 per capita (up from $466 per capita in 2014-15)
+- Funding split: state/territory $9.0 billion (65.3%, includes Commonwealth NHRA contributions); Commonwealth $4.8 billion (34.7%)
+- State specialised mental health services breakdown: admitted inpatient $3.8B (41.3%); community ambulatory $3.5B (38.6%); residential and other ~20%
+- Community mental health service activity 2023-24: 9.8 million service contacts to 489,000 consumers; average 20 contacts/consumer/year
+- Average cost per community mental health treatment day: $410–$505 (inflation-adjusted, 2005-06 to present); vs $1,665/day inpatient psychiatric bed
+- Per-capita state specialised MH expenditure range (2022-23): NSW $276 (lowest) to WA $387 (highest) per capita
+- 1992 National Mental Health Policy: deinstitutionalisation mandate; bed closures executed (49% → 29% of resources in standalone institutions; 42% bed reduction); community infrastructure not fully built
+- Victoria deinstitutionalisation: 14 state psychiatric institutions closed 1994-1999; inpatient beds shifted to general hospital settings; community services undercapitalised relative to reform design
+- NSW community mental health gap (Priority Issues Paper, 2025): FTE per 100,000 declined 54.1 → 48.9 over decade; 29% capacity shortfall for severe/complex needs = 58,000 people missing out; 21% patient increase but only 13% funding increase; $24M per year below national average; psychiatrist shortage 74 FTE (2025), 124 FTE (2030)
+- Mental health ED presentations: ~3% of all Australian ED presentations in 2022-23 (~270,000 of 9.1M total); 3.6% confirmed by RACGP 2024; growing at 2.8% per annum 2016-17 to 2020-21; one study found 156% increase over 9 years vs 11.9% overall ED growth
+- ED urgency: 18% of NSW mental health ED presentations triaged at highest urgency levels; proportion of urgent/emergency triage increasing across all states/territories 2014-15 to 2023-24
+- National Mental Health and Suicide Prevention Agreement (NMHSPA): signed 2022; expired June 2026; covered Commonwealth-state joint responsibilities for MH workforce, promotion, prevention, suicide prevention
+- Productivity Commission NMHSPA review: final report publicly released 11 November 2025; 24 recommendations; declared Agreement "not fit for purpose"; most urgent: state/territories to immediately address 500,000-person psychosocial support gap
+- NMHSPA extension: $206.8M Budget 2026-27 to extend to 30 June 2027 (bridging arrangement); co-design of new policy architecture underway
+- Victoria Royal Commission: final report 2021; 65 + 9 interim recommendations; Community Mental Health Expansion Program $33.4M; Mental Health and Wellbeing Local services (renamed CMHTs); RANZCP (2025-26): rehabilitation, housing, trauma-informed care remain underfunded
+- 2026-27 Federal Budget mental health: $7.8 billion total; $1.1B election commitment for free mental health services (MMHC expansion etc.); $206.8M NMHSPA extension; no structural Commonwealth-state interface reform
+- NSW 2026 Budget mental health: $64.8M NMHSPA extension; $30.4M community mental health team expansion (~35 new positions); $112.3M broader mental health package
+- MHCC (NSW pre-budget 2026): 200,000+ people in NSW require psychosocial supports they cannot currently access
+- Academic consensus: 30 years of deinstitutionalisation reform produced "relative stasis in community mental health capacity" (Cornell et al., Australasian Psychiatry, 2025); "positive rhetoric and benevolent policy intent has often failed to translate into practical improvements"
