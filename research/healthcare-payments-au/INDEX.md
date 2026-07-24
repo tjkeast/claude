@@ -53,6 +53,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 045 | 2026-07-21 | [Rural Mental Health and FIFO Psychiatry: Australia's 7 Million People Without a Local Psychiatrist](045-2026-07-21-rural-mental-health-fifo-psychiatry.md) | Opened: aged care provider market exits/consolidation; accommodation supplement equity in aged care; psychiatric NPs in rural mental health; state vs Commonwealth mental health funding interface; ADHD diagnosis access bottleneck in rural Australia |
 | 046 | 2026-07-22 | [ADHD Diagnosis and Treatment Access in Rural Australia: The Psychiatry Bottleneck, Stimulant Prescribing Controls, and 600,000 Patients in an Underfunded System](046-2026-07-22-adhd-diagnosis-treatment-access-rural-australia.md) | Opened: state-funded community mental health services and Commonwealth-state interface; NDIS and neurodevelopmental disability (ADHD/ASD); aged care provider market exits; accommodation supplement equity; Disability Royal Commission response and NDIS Amendment 2026 interaction |
 | 047 | 2026-07-23 | [State-Funded Community Mental Health Services: Australia's Invisible System and the Commonwealth-State Funding Fault Line](047-2026-07-23-state-community-mental-health-funding-interface.md) | Opened: Victoria Mental Health Levy/Royal Commission implementation in depth; NGO/community-managed mental health block grant sector; accommodation supplement equity in aged care; aged care provider market exits; Fifth National Mental Health Plan implementation failure |
+| 048 | 2026-07-24 | [Victoria's Mental Health Levy and Hypothecated Health Funding: Australia's Experiment with Dedicated Mental Health Finance](048-2026-07-24-victoria-mental-health-levy-hypothecated-funding.md) | Opened: NGO/community-managed mental health block grant sector; aged care provider market exits; accommodation supplement equity in aged care; Medicare Levy and Commonwealth-level health hypothecation; Fifth National Mental Health Plan implementation failure |
 
 ---
 
@@ -1276,3 +1277,31 @@ A daily research series building a connected, deepening body of knowledge on how
 - NSW 2026 Budget mental health: $64.8M NMHSPA extension; $30.4M community mental health team expansion (~35 new positions); $112.3M broader mental health package
 - MHCC (NSW pre-budget 2026): 200,000+ people in NSW require psychosocial supports they cannot currently access
 - Academic consensus: 30 years of deinstitutionalisation reform produced "relative stasis in community mental health capacity" (Cornell et al., Australasian Psychiatry, 2025); "positive rhetoric and benevolent policy intent has often failed to translate into practical improvements"
+
+## Suggested next branches (from Report 048)
+1. NGO/community-managed mental health block grant sector — ~600 mental health NGOs in Australia receiving state and Commonwealth block-grant funding; sector disrupted when NDIS launched and states defunded non-NDIS services; current scale, funding conditions, and role in filling psychosocial support gap
+2. Aged care provider market exits and consolidation — most persistently deferred thread; StewartBrown data showing 61% of homes operating at a loss; exit governance under Aged Care Act 2024; thin rural markets most exposed
+3. Accommodation supplement equity in aged care — Commonwealth means-tested supplement for residents who cannot pay RAD/DAP; adequacy by region; whether Budget 2026-27 $1.1B restructure addresses regional building cost disparities
+4. Medicare Levy and Commonwealth-level health hypothecation — the Medicare Levy raises ~$25B/year from 2% of taxable income but revenue goes to Consolidated Fund; whether a genuine earmarked national mental health or aged care levy could replicate the Victorian model
+5. Fifth National Mental Health and Suicide Prevention Plan (2021-2031): implementation failure — national framework declared "not fit for purpose" by PC 2025; what the successor architecture should look like
+
+## Covered topics (Report 048 additions)
+- Victoria Mental Health and Wellbeing Levy: introduced 1 January 2022 as payroll tax surcharge; 0.5% on Victorian taxable wages for employers with national payroll >$10M; additional 0.5% for payroll >$100M; affects <5% of employers
+- Levy revenue: ~$600M year 1; ~$900M by 2023-24; >$1 billion from 2025-26
+- Hypothecation: 100% ringfenced by the Mental Health and Wellbeing Act 2022 — legislated prohibition on using revenue for non-mental health purposes
+- VicHealth precedent: Victoria introduced world's first sin-tax hypothecated for health in 1987 (tobacco levy funding VicHealth); 47% public support for tobacco tax → 84% when hypothecated for health
+- Royal Commission into Victoria's Mental Health System: final report March 2021; 65 final + 9 interim = 74 total recommendations; 10-year reform agenda; $3.8B immediate post-Commission budget commitment
+- Implementation 2026 (5-year midpoint): >85% of 74 recommendations with work underway; 22 Mental Health and Wellbeing Locals operational vs Royal Commission target of 60 by end-2026
+- Mental Health and Wellbeing Locals model: area-based, free, multidisciplinary, no referral required; renamed/reconstituted Community Mental Health Teams; first 6 opened late 2022; 9 more December 2023
+- 2025-26 budget mental health investments: $289M for 82 inpatient mental health beds + 29 AOD beds; $47M workforce pipeline; $12-30M Hospital in the Home beds
+- 2026-27 Victorian health budget: record $32 billion total
+- RANZCP warnings (stalling reform): no new funding for rehabilitation or supported housing; incomplete Locals rollout; no statewide clinical strategy; no community alternatives to ED; trauma-informed care underfunded
+- Mental Health and Wellbeing Commission (MHWC): independent statutory authority created by Mental Health and Wellbeing Act 2022; monitors system performance, tracks recommendation implementation, reports on restrictive interventions; publishes public accountability reports
+- Queensland mental health levy: introduced 1 January 2023; 0.25% on QLD taxable wages for national payroll >$10M; additional 0.50% for payroll >$100M (total 0.75% max)
+- Queensland Audit Office (QAO) report tabled May 2026 (*Managing funding from the mental health levy*): "not effectively managed as a whole"; no governance arrangements established at introduction; no shared understanding of what can be funded; no whole-of-levy planning, monitoring, or reporting
+- QAO contrast with Victoria: no independent oversight body equivalent to MHWC; no statutory hypothecation; no performance accountability framework for levy spending
+- Crisafulli Government (December 2025): $350M+ additional funding from QLD Mental Health Levy to new/expanded initiatives
+- Hypothecation evidence: public support premium real (~84% vs 47% when earmarked); additionality uncertain (Treasury offsetting likely over time); efficiency risks (spending rigidities, can encourage waste if ring-fence too tight)
+- International comparators: Italy (corporate value-added tax and regional income surcharges for health); Ghana (2.5% VAT for national health insurance); UK NI levy (2022) reversed within 18 months as non-statutory
+- Workforce constraint on implementation: Victoria projects 74 FTE psychiatrist shortage in 2025 → 124 FTE by 2030; money cannot create specialists faster than 12-year training pipeline; most workforce-intensive reform components (rehabilitation, housing) are the slowest to implement
+- Medicare Levy: national 2% income tax; ~$25B/year revenue; not separately tracked to health spending; goes to Consolidated Fund; not a true hypothecated health levy by definition
