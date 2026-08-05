@@ -1353,3 +1353,16 @@ A daily research series building a connected, deepening body of knowledge on how
 - GPCCMP allied health access: up to 5 visits/year under Items 965/967 — wholly inadequate for complex chronic pain
 - 40% of AOD treatment episodes for pharmaceutical opioids required treatment for opioid dependence (2024-25, approximately 5,200 episodes)
 - Prescription-to-heroin pipeline: tighter opioid supply causing some displacement to illicit markets; consistent with shift in death profile from pharmaceutical to heroin
+
+| 060 | 2026-08-05 | [Drug Checking as Public Health Surveillance: CanTEST, Synthetic Opioids, and Australia's Preparedness Gap](060-2026-08-05-drug-checking-synthetic-opioid-surveillance.md) | Threads: National Drug Strategy 2027; naloxone reform; First Nations synthetic opioid risk; Victoria's harm reduction infrastructure |
+
+## Covered topics (Report 060 additions)
+- CanTEST (ACT): Australia's only fixed-site drug checking service since July 2022; 6,000+ samples tested; >10% voluntary discard rate; funded by ACT Health to June 2027 ($1.8M extension)
+- N-pyrrolidino isotonitazene (NPI) detected at CanTEST in 2025 — first nitazene-class opioid confirmed at an Australian drug checking service
+- NSW: 12-month mobile festival drug checking trial commenced March 2025; no fixed site; funded by NSW Health
+- Queensland: First Australian state to ban drug checking by legislation (September 2025); CheQpoint closed April 2025 after LNP government declined to renew funding
+- ACIC NWDMP Report 25: Nitazenes detected in all Australian states and territories (6–16% detection frequency); xylazine detected in 26% of all samples
+- 33 confirmed nitazene deaths in Australia since 2021 (24 Victoria, 7 SA, 2 NSW); 47 AFP nitazene seizures since July 2023
+- Xylazine (animal sedative) not reversed by naloxone — systemic detection creates gap in standard overdose response
+- Harm reduction receives 1.6% (~$89M) of Australia's drug policy budget; no Commonwealth funding for drug checking; no MBS item
+- No national drug supply intelligence integration between wastewater program (ACIC/law enforcement) and drug checking services (health)
