@@ -1366,3 +1366,19 @@ A daily research series building a connected, deepening body of knowledge on how
 - Xylazine (animal sedative) not reversed by naloxone — systemic detection creates gap in standard overdose response
 - Harm reduction receives 1.6% (~$89M) of Australia's drug policy budget; no Commonwealth funding for drug checking; no MBS item
 - No national drug supply intelligence integration between wastewater program (ACIC/law enforcement) and drug checking services (health)
+
+| 061 | 2026-08-06 | [Naloxone Access and Distribution Reform: Australia's Life-Saving Drug and the Gaps That Still Kill People](061-2026-08-06-naloxone-access-distribution-reform.md) | Threads: National Drug Strategy 2027 successor; Victoria's harm reduction infrastructure; First Nations and synthetic opioid risk; supervised injecting centres; xylazine as regulatory challenge |
+
+## Covered topics (Report 061 additions)
+- Take-Home Naloxone (THN) Program: national launch 1 July 2022; $19.6M over 4 years; free, no prescription; 3,000 doses used in first year (~8/day)
+- Pharmacy stocking: 23% (2015) → 73% (2025); 27% of pharmacies still not stocking; rural/regional pharmacies less likely to stock
+- 2025 IDRS data: 86% of PWID heard of naloxone; 65% ever obtained; 55% obtained in past year; 32% used to resuscitate someone
+- Victoria: 20 naloxone vending machines (10 metro, 10 regional/rural), 24/7, part of $95.11M Statewide Action Plan; trial to June 2027
+- Postal naloxone: NSW (NUAA online postal pilot); WA (Peer Based Harm Reduction WA — statewide phone-guided postal service)
+- ANZCOR Guideline 9.5.2 (July 2025): all first aid courses in Australia/NZ now required to include intranasal naloxone administration
+- Overdose deaths: 2,272 in 2023 (Penington 2025); preliminary 2024 estimated at 2,596 — record high; 10th consecutive year above 2,000
+- Nitazenes: may require multiple naloxone doses (one NUAA case: 5 doses + CPR); standard 400mcg may be insufficient
+- Xylazine: detected in 26% of wastewater samples; NOT reversed by naloxone; bystander messaging has not caught up with detection reality
+- ACT cost-benefit analysis (March 2025): $24.6M harm reduction spend 2026–2030 averts 70 overdose deaths
+- Penington 2025 recommendations: naloxone in all first responder kits; in libraries, social services, home first aid kits; national overdose prevention strategy
+- No national overdose prevention strategy exists as of August 2026
