@@ -1382,3 +1382,21 @@ A daily research series building a connected, deepening body of knowledge on how
 - ACT cost-benefit analysis (March 2025): $24.6M harm reduction spend 2026–2030 averts 70 overdose deaths
 - Penington 2025 recommendations: naloxone in all first responder kits; in libraries, social services, home first aid kits; national overdose prevention strategy
 - No national overdose prevention strategy exists as of August 2026
+
+| 062 | 2026-08-07 | [Supervised Injecting Facilities: Australia's Two-Site Harm Reduction Model and the Expansion Stalemate](062-2026-08-07-supervised-injecting-centres-expansion-stalemate.md) | Opened: methamphetamine-specific harm reduction (stimulant shift at SIFs); National Drug Strategy 2027 successor; First Nations harm reduction gap; ACT as test case for expansion; drug consumption rooms beyond injecting |
+
+## Covered topics (Report 062 additions)
+- Sydney MSIC: operational since May 2001; 1.28M+ injections supervised; 11,205+ overdoses managed; zero on-site deaths; ~18,265 registered clients; ~70% never previously accessed health services; funded by NSW Health block grant
+- Melbourne MSIR: operational since July 2018; made permanent by VIC legislation 2023; 600,000+ visits; 11,000+ overdoses managed; 63 lives estimated saved; funded by Victorian Government block grant
+- Zero overdose deaths in any SIF anywhere in the world since 1986 (Berne, Switzerland first site)
+- Sydney MSIC ambulance call-out reduction: ~80% fall in ambulance call-outs to Kings Cross post-opening; only 1% of 7,000+ managed overdoses (2010–2020) required ambulance transfer
+- Bowring et al. (2026) Addiction 121(5):1272–1289: ACT cost-benefit analysis; $24.6M harm reduction package 2026–2030 averts 70 overdose deaths; SIFs cost-effective even in small ACT jurisdiction
+- PBO election costing (2025): Greens proposal for 11 national SIFs; $261.2M over forward estimates; ~$5.9M/facility/year
+- Payment architecture: both SIFs funded entirely by state block grants; no MBS item; no Commonwealth contribution; invisible to federal health data systems; no path to MBS integration under current drug policy settings
+- Legal architecture: each SIF requires specific state legislation for criminal exemption; cannot operate under standard pharmaceutical/medical exemptions; ACT has enabling legislation already passed but no facility
+- NSW Drug Summit 2024: recommended additional supervised injecting sites; NSW Government October 2025 response: "Noted" (effectively rejected)
+- Victoria April 2024: expert advice recommended second Melbourne MSIR; Allan Government rejected citing inability to find suitable location
+- ACT stalemate: enabling legislation passed; Burnet/ANU economic modelling positive (published January 2026); ACT Health review commissioned July 2024; no facility announced as of August 2026
+- Shifting drug profile: Bartlett et al. (2026) DAR — amphetamines now 50.1% of injections at Sydney MSIC (from 2–7% in 2002–2011); clinical protocols designed for heroin era
+- Yarra City Council December 2025: reversed long-standing support for North Richmond MSIR without warning
+- NIMBY dynamics: principal barrier to expansion is community opposition to any proposed site; no Australian government has adopted hospital co-location, government-owned sites, or legislated site protection solutions at scale
