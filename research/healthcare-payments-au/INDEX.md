@@ -1384,6 +1384,7 @@ A daily research series building a connected, deepening body of knowledge on how
 - No national overdose prevention strategy exists as of August 2026
 
 | 062 | 2026-08-07 | [Supervised Injecting Facilities: Australia's Two-Site Harm Reduction Model and the Expansion Stalemate](062-2026-08-07-supervised-injecting-centres-expansion-stalemate.md) | Opened: methamphetamine-specific harm reduction (stimulant shift at SIFs); National Drug Strategy 2027 successor; First Nations harm reduction gap; ACT as test case for expansion; drug consumption rooms beyond injecting |
+| 063 | 2026-08-08 | [Methamphetamine Harm Reduction: The Pharmacotherapy Vacuum, the Psychosis Pipeline, and Australia's Record 15,791 kg](063-2026-08-08-methamphetamine-harm-reduction-pharmacotherapy-gap.md) | Opened: National Drug Strategy 2027 successor; First Nations and methamphetamine harm reduction; GLP-1 agonists (semaglutide) as addiction pharmacotherapy; dual-diagnosis funding and AOD-mental health interface; DAP redesign 2027 as policy window |
 
 ## Covered topics (Report 062 additions)
 - Sydney MSIC: operational since May 2001; 1.28M+ injections supervised; 11,205+ overdoses managed; zero on-site deaths; ~18,265 registered clients; ~70% never previously accessed health services; funded by NSW Health block grant
