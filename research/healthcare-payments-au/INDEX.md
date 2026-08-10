@@ -1386,6 +1386,32 @@ A daily research series building a connected, deepening body of knowledge on how
 | 062 | 2026-08-07 | [Supervised Injecting Facilities: Australia's Two-Site Harm Reduction Model and the Expansion Stalemate](062-2026-08-07-supervised-injecting-centres-expansion-stalemate.md) | Opened: methamphetamine-specific harm reduction (stimulant shift at SIFs); National Drug Strategy 2027 successor; First Nations harm reduction gap; ACT as test case for expansion; drug consumption rooms beyond injecting |
 | 063 | 2026-08-08 | [Methamphetamine Harm Reduction: The Pharmacotherapy Vacuum, the Psychosis Pipeline, and Australia's Record 15,791 kg](063-2026-08-08-methamphetamine-harm-reduction-pharmacotherapy-gap.md) | Opened: National Drug Strategy 2027 successor; First Nations and methamphetamine harm reduction; GLP-1 agonists (semaglutide) as addiction pharmacotherapy; dual-diagnosis funding and AOD-mental health interface; DAP redesign 2027 as policy window |
 | 064 | 2026-08-09 | [GLP-1 Receptor Agonists and Addiction: When a Diabetes Drug Becomes the Most Promising Addiction Medicine in a Generation](064-2026-08-09-glp1-receptor-agonists-addiction-treatment-australia.md) | Opened: alcohol use disorder treatment and MBS gap; National Drug Strategy 2027 successor (GLP-1 commissioning pathway); First Nations access to GLP-1s for addiction; PBS cost-effectiveness case for treating addiction; tobacco cessation as fastest GLP-1 addiction pathway |
+| 065 | 2026-08-10 | [Alcohol Use Disorder: The PBS–MBS Funding Fault Line, and Why 97% of Australians with AUD Receive No Pharmacotherapy](065-2026-08-10-alcohol-use-disorder-pbs-mbs-treatment-gap.md) | Opened: GLP-1 agonists for AUD and PBS pathway; First Nations AOD and ACCHO pharmacotherapy access; National Drug Strategy 2027 successor; brief intervention MBS item case; fetal alcohol spectrum disorder prevention funding |
+
+## Covered topics (Report 065 additions)
+- AUD prevalence: ~4.4% of Australians aged 15+ = 800,000–1 million people; 31% (6.6 million) drink at risky levels (NDSHS 2022–23)
+- PBS naltrexone (8370M): oral 50mg, Streamlined authority (downgraded from written authority in May 2023); indication: alcohol dependence with abstinence goal; $7.70 concessional / $25.00 general co-payment; no injectable naltrexone (Vivitrol not TGA-approved in Australia)
+- PBS acamprosate (8357W): 333mg enteric tablet, Streamlined authority; same indication and co-payments; dispensing flat 2006–2023
+- Nalmefene (Selincro): TGA-approved for "as-needed" controlled drinking; NOT PBS listed; PBAC rejected November 2015 (controlled-drinking model inconsistent with PBS abstinence framework); no re-submission as at mid-2026
+- Disulfiram (Antabuse, ARTG 70468): TGA-registered but NOT PBS listed; market failure — off-patent, no sponsor incentive to apply to PBAC; ~$80–90/month private cost
+- PBS dispensing 2006–2023 (Morley et al. 2024, Alcohol and Alcoholism): 22,745 individuals, 117,548 prescriptions; dispensing rate 1,354 per 100,000; only 2.9% of AUD patients receive PBS pharmacotherapy; 5.1% received minimum 3-month treatment
+- ACCHO prescribing: only 3.4% of likely-dependent First Nations patients at 22 ACCHOs received naltrexone/acamprosate (Purcell-Khodr et al. 2023, Drug and Alcohol Review)
+- MBS: no dedicated AUD screening or brief intervention item; AUDIT-C not a separate billable item
+- MBS items usable for AUD: standard attendance (Items 3/23/36/44); Better Access MHTP + 10 psychology sessions (AUD ICD-10 eligible); GPCCMP Items 965/967 ($156.55 rebate each, AUD eligible as chronic condition, 5 allied health sessions/year); Item 715 Aboriginal Health Assessment (AUDIT-C as KPI, 10 allied health sessions)
+- Psychiatric MBS (Item 291): $365.75 rebate; private first appointment commonly $500–1,000 (gap fee $134–$634+)
+- Addiction medicine: no separate MBS specialty classification; invisible in claims data; billing pathway through GP or physician items depending on dual qualifications
+- AODTS 2024–25: 244,400 treatment episodes, ~127,800 people; alcohol = 41% of episodes (87,632); treatment access down 8.2% since 2019–20
+- Treatment gap (Ritter & O'Reilly 2025, Drug and Alcohol Review): 752,812–1,291,119 with substance use disorder; only 30–48% receiving treatment
+- Average delay to AUD treatment: 18 years (Palmer et al. 2026, Internal Medicine Journal)
+- Victoria: 5,122 people on AOD waitlist in May 2026 (VAADA 8th Survey); 115% increase from 2,385 in September 2020; 40% waiting to be assessed
+- Private residential rehab: $12,000–$60,000 for 28-day program
+- Commonwealth DAP: $727M over 3 years from 2026–27; $244.2M/year from 2029–30; PHN commissioning; grants extended to June 2027
+- Economic cost: $72.9B (2020–21); projected $74.9B (2022–23) — George Institute; healthcare cost component $2.8B (2017–18)
+- Hospitalisations 2023–24: 84,300 (58% of drug-related hospitalisations); 59% male; 60% aged 45+
+- AIHW Burden of Disease 2024: alcohol 6th highest risk factor; 4.1% total burden; 8.3 DALY/1,000 (age-standardised, down 13.5% from 2003); males 5.5% vs females 2.6%; leading risk factor males 15–44
+- NHMRC 2020 guidelines: ≤10 standard drinks/week, ≤4 in single day (tightened from 2009)
+- National Alcohol Strategy 2019–2028: 10% reduction by 2025 target missed; no mechanism to demonstrate progress
+- National Drug Strategy 2017–2026 expires end 2026; no successor strategy announced; final report due 2027
 
 ## Covered topics (Report 062 additions)
 - Sydney MSIC: operational since May 2001; 1.28M+ injections supervised; 11,205+ overdoses managed; zero on-site deaths; ~18,265 registered clients; ~70% never previously accessed health services; funded by NSW Health block grant
