@@ -1387,6 +1387,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 063 | 2026-08-08 | [Methamphetamine Harm Reduction: The Pharmacotherapy Vacuum, the Psychosis Pipeline, and Australia's Record 15,791 kg](063-2026-08-08-methamphetamine-harm-reduction-pharmacotherapy-gap.md) | Opened: National Drug Strategy 2027 successor; First Nations and methamphetamine harm reduction; GLP-1 agonists (semaglutide) as addiction pharmacotherapy; dual-diagnosis funding and AOD-mental health interface; DAP redesign 2027 as policy window |
 | 064 | 2026-08-09 | [GLP-1 Receptor Agonists and Addiction: When a Diabetes Drug Becomes the Most Promising Addiction Medicine in a Generation](064-2026-08-09-glp1-receptor-agonists-addiction-treatment-australia.md) | Opened: alcohol use disorder treatment and MBS gap; National Drug Strategy 2027 successor (GLP-1 commissioning pathway); First Nations access to GLP-1s for addiction; PBS cost-effectiveness case for treating addiction; tobacco cessation as fastest GLP-1 addiction pathway |
 | 065 | 2026-08-10 | [Alcohol Use Disorder: The PBS–MBS Funding Fault Line, and Why 97% of Australians with AUD Receive No Pharmacotherapy](065-2026-08-10-alcohol-use-disorder-pbs-mbs-treatment-gap.md) | Opened: GLP-1 agonists for AUD and PBS pathway; First Nations AOD and ACCHO pharmacotherapy access; National Drug Strategy 2027 successor; brief intervention MBS item case; fetal alcohol spectrum disorder prevention funding |
+| 066 | 2026-08-11 | [Fetal Alcohol Spectrum Disorder: Australia's $16 Billion Preventable Crisis and the Underfunded Response](066-2026-08-11-fasd-prevention-diagnosis-funding-gap.md) | Opened: GLP-1 agonists for AUD/PBS pathway (persistently deferred); First Nations AOD/ACCHO pharmacotherapy access (persistently deferred); National Drug Strategy 2027 successor; brief intervention MBS item case; NDIS Amendment Bill 2026 and neurodevelopmental disability |
 
 ## Covered topics (Report 065 additions)
 - AUD prevalence: ~4.4% of Australians aged 15+ = 800,000–1 million people; 31% (6.6 million) drink at risky levels (NDSHS 2022–23)
@@ -1428,3 +1429,21 @@ A daily research series building a connected, deepening body of knowledge on how
 - Shifting drug profile: Bartlett et al. (2026) DAR — amphetamines now 50.1% of injections at Sydney MSIC (from 2–7% in 2002–2011); clinical protocols designed for heroin era
 - Yarra City Council December 2025: reversed long-standing support for North Richmond MSIR without warning
 - NIMBY dynamics: principal barrier to expansion is community opposition to any proposed site; no Australian government has adopted hospital co-location, government-owned sites, or legislated site protection solutions at scale
+
+## Covered topics (Report 066 additions)
+- FASD prevalence: 3.64% general Australian population (Tsang et al. 2025, Drug and Alcohol Review); 1 in 28 Australians; ~900,000 people
+- Remote First Nations prevalence: 19.44% in Fitzroy Valley (Lililwan Project, case-ascertained); ~1 in 5 children
+- Youth detention prevalence: 36% at Banksia Hill Detention Centre WA (Bower et al. 2018); 89% with severe neurodevelopmental impairment
+- FASD: most common preventable cause of neurodevelopmental disability; 100% preventable; no safe level of prenatal alcohol exposure
+- Economic burden: ~$16 billion/year (NOFASD Australia, 2025); US lifetime cost per individual: ≥$2M USD
+- Prevention ROI: $14 saved for every $1 invested in preventive health programs
+- 2025 Australian Guidelines for Assessment and Diagnosis (released 13 May 2025, NHMRC approved): 40 good practice statements; MDT requirement; nine neurodevelopmental domains
+- MBS: FASD added as eligible disability for complex neurodevelopmental conditions MBS items from 1 March 2023; no dedicated FASD assessment item; out-of-pocket MDT assessment can cost $2,000–$5,000
+- NDIS: automatic eligibility under age 7; complex functional impairment evidence required over 7; NDIS Amendment Bill 2026 raises concerns for "invisible" presentations
+- Mandatory pregnancy warning labels: introduced July 2020; only 36% of RTD products displayed correct mandatory design (Sträuli et al. 2024); 11% design non-compliance in June 2025 study
+- FASD Hub Australia: funded by Dept of Health and Aged Care until July 2026; Strategic Plan 2026–30 published January 2026; next-phase funding status unclear as at mid-2026
+- Senate inquiry March 2021: "invisible epidemic"; 32 recommendations; government response released December 2024 (3.5-year delay)
+- Commonwealth FASD investment: $37.2M total program (2018–); $2.1M PATCHES diagnostic services in NSW youth justice (2021–22 onwards)
+- Strong Born campaign: NACCHO-led First Nations FASD prevention campaign (first of its kind nationally)
+- Prevention spending: <2% of total health budget; FASD programs receive fraction of this
+- Justice system as de facto FASD funder: FASD individuals up to 19× more likely to be incarcerated; cost of incarceration far exceeds specialist support costs
