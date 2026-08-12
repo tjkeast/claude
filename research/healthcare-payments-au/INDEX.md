@@ -1388,6 +1388,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 064 | 2026-08-09 | [GLP-1 Receptor Agonists and Addiction: When a Diabetes Drug Becomes the Most Promising Addiction Medicine in a Generation](064-2026-08-09-glp1-receptor-agonists-addiction-treatment-australia.md) | Opened: alcohol use disorder treatment and MBS gap; National Drug Strategy 2027 successor (GLP-1 commissioning pathway); First Nations access to GLP-1s for addiction; PBS cost-effectiveness case for treating addiction; tobacco cessation as fastest GLP-1 addiction pathway |
 | 065 | 2026-08-10 | [Alcohol Use Disorder: The PBS–MBS Funding Fault Line, and Why 97% of Australians with AUD Receive No Pharmacotherapy](065-2026-08-10-alcohol-use-disorder-pbs-mbs-treatment-gap.md) | Opened: GLP-1 agonists for AUD and PBS pathway; First Nations AOD and ACCHO pharmacotherapy access; National Drug Strategy 2027 successor; brief intervention MBS item case; fetal alcohol spectrum disorder prevention funding |
 | 066 | 2026-08-11 | [Fetal Alcohol Spectrum Disorder: Australia's $16 Billion Preventable Crisis and the Underfunded Response](066-2026-08-11-fasd-prevention-diagnosis-funding-gap.md) | Opened: GLP-1 agonists for AUD/PBS pathway (persistently deferred); First Nations AOD/ACCHO pharmacotherapy access (persistently deferred); National Drug Strategy 2027 successor; brief intervention MBS item case; NDIS Amendment Bill 2026 and neurodevelopmental disability |
+| 067 | 2026-08-12 | [Alcohol Screening and Brief Intervention in Australian Primary Care: The Missing MBS Item](067-2026-08-12-alcohol-brief-intervention-mbs-primary-care.md) | Opened: National Drug Strategy 2027 successor (how brief intervention fits the next framework); First Nations AOD/ACCHO pharmacotherapy access (persistently deferred); GLP-1 agonists for AUD/PBS pathway (persistently deferred); stepped care model across AOD tiers; alcohol and cancer — the PBS/MBS implications of a Group 1 carcinogen |
 
 ## Covered topics (Report 065 additions)
 - AUD prevalence: ~4.4% of Australians aged 15+ = 800,000–1 million people; 31% (6.6 million) drink at risky levels (NDSHS 2022–23)
@@ -1447,3 +1448,24 @@ A daily research series building a connected, deepening body of knowledge on how
 - Strong Born campaign: NACCHO-led First Nations FASD prevention campaign (first of its kind nationally)
 - Prevention spending: <2% of total health budget; FASD programs receive fraction of this
 - Justice system as de facto FASD funder: FASD individuals up to 19× more likely to be incarcerated; cost of incarceration far exceeds specialist support costs
+
+## Covered topics (Report 067 additions)
+- Alcohol brief intervention (SBI/ASBI): structured, time-limited GP screening + brief counselling to reduce hazardous drinking; 5–15 minutes
+- AUDIT (Alcohol Use Disorders Identification Test): 10-item WHO validated screen; AUDIT-C (3-item) in Australian GP software; RACGP recommends universal screening 15+ every 2–4 years
+- AUDIT Zone II (score 8–15): hazardous → brief advice; Zone III (16–19): harmful → brief counselling; Zone IV (20–40): probable dependence → specialist referral
+- Cochrane 2018 (Kaner et al.): 64 RCTs, 27,546 participants; brief interventions reduce alcohol 20g/week (~2 standard drinks) at 12-month follow-up; 5 minutes effective
+- Australia MBS gap: no dedicated item for AUDIT administration/scoring, brief intervention delivery, or referral coordination in the general adult population
+- Existing partial coverage: Item 715 (ATSI annual health assessment; includes AUDIT-C but restricted to First Nations); Item 16591 (antenatal psychosocial screen at 28 weeks; once per pregnancy only); general attendance items 3/23/36 can include alcohol discussion but not funded as distinct service
+- 5As framework (RACGP): Ask, Assess, Advise/Agree, Assist, Arrange — primary care alcohol intervention model
+- FRAMES model: Feedback, Responsibility, Advice, Menu of options, Empathy, Self-Efficacy — motivational interviewing approach
+- Implementation rate: only 56.2% of regular patients aged 15+ have any alcohol status recorded in GP electronic health record
+- Social and economic costs: NDRI 2021 — $66.8 billion/year; $25.9B lost years of life; $20.7B lost quality of life from dependence; $2.8B direct healthcare; $4.0B workplace; $3.1B crime
+- TAP model (Griffith University, 2024): alcohol will cause 25.9 million new disease/injury cases and $55B healthcare costs over 25 years; reducing to low-risk levels saves $49B and 4.4M years of healthy life
+- Prevention ROI: $14 saved per $1 invested in preventive health programs (National Preventive Health Agency 2025)
+- Palmer et al. 2026 (Internal Medicine Journal): AUD "under-recognised and rarely treated with evidence-based therapies"; 18-year average delay to treatment; alcohol disproportionately harms First Nations, rural, socioeconomically disadvantaged Australians
+- House Standing Committee Inquiry: re-referred August 2025 by Minister Butler; 200+ submissions; final hearings May 2026; report expected second half 2026; FARE, NDARC, Alcohol Change Australia all recommended dedicated MBS brief intervention item
+- Government response to Issues Paper: March 2026; no commitment to dedicated MBS brief alcohol intervention item as at date of report
+- National Alcohol Strategy 2019–2028: commits to "routine alcohol screening and brief intervention as standard practice in primary care" but no MBS funding mechanism
+- National Drug Strategy 2017–2026 expires end 2026; DAP grants extended to June 2027; successor framework consultation underway
+- International comparisons: UK NHS IBA (Identification and Brief Advice) program funded since 2008 via Quality and Outcomes Framework; US SBIRT program with CPT codes 99408/99409; Canada variable provincial funding; Australia outlier among OECD peers
+- Political economy barriers: alcohol industry lobbying power; low clinical status of addiction medicine; systemic prevention underfunding (<2% of health budget)
