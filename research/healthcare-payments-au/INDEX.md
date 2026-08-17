@@ -77,6 +77,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 069 | 2026-08-14 | [ACT Drug Decriminalisation: Nearly Three Years of Real-World Evidence](069-2026-08-14-act-drug-decriminalisation-outcomes.md) | Opened: PHNs as AOD service commissioners; National Tobacco Strategy and vaping; supervised injecting facilities architecture; Oregon Measure 110 failure; First Nations healing and AOD |
 | 070 | 2026-08-15 | [Australia's Tobacco and Nicotine Payment System: Excise Collapse, Vaping Disruption, and the Cessation Access Gap](070-2026-08-15-tobacco-vaping-excise-cessation-payment-system.md) | Opened: First Nations tobacco and the 27% by 2030 target; illicit tobacco economy and organised crime; UK NHS vaping model vs Australia's prescription approach; tobacco-related disease healthcare cost burden; PHNs and tobacco cessation commissioning |
 | 071 | 2026-08-16 | [First Nations Tobacco: The 27% by 2030 Target, the Remote Stall, and the Payment System That Wasn't Built for This Problem](071-2026-08-16-first-nations-tobacco-27-percent-target-2030.md) | Opened: illicit tobacco economy and enforcement (from 070); UK NHS vaping vs Australia's prescription approach; tobacco-related disease burden and healthcare costs; First Nations youth vaping; SISTAQUIT/iSISTAQUIT antenatal cessation national scaling |
+| 072 | 2026-08-17 | [The Illicit Tobacco Economy: Australia's Black Market Crisis and the Collapse of Price-Based Tobacco Control](072-2026-08-17-illicit-tobacco-economy-organised-crime-enforcement.md) | Opened: e-cigarette regulatory collapse and vaping market (95.7% illicit); tobacco-related disease burden and hospital cost; First Nations youth vaping as new initiation pathway; domestic illicit tobacco production; healthcare cost of smoke-related disease |
 
 ---
 
@@ -1507,3 +1508,25 @@ A daily research series building a connected, deepening body of knowledge on how
 - House Standing Committee Inquiry: final hearings May 28–29, 2026; report expected late 2026; will carry recommendations for the successor NDS
 - Key structural tensions: 64% supply reduction vs 1.6% harm reduction (no binding pillar funding floors); MBS disconnection from grant-funded AOD sector; 50–78% comorbidity with mental health (separate funding systems); synthetic opioid risk not in current NDS design; First Nations needs-based funding methodology challenge
 - No formal successor NDS document announced as of August 2026; de facto successor architecture = DAP 2027 redesign + parliamentary committee report late 2026 + 2027 formal NDS final progress report
+
+## Covered topics (Report 072 additions)
+- Illicit tobacco market share: ITEC Commissioner 2024–25 — approximately 50% of all cigarettes sold are now illicit; FTI Consulting 50%; ABS wastewater model 80% of all nicotine consumed from illicit sources (2025)
+- NDSHS 2025: 34% of current smokers report recent illicit tobacco use, up from 16.7% in 2022–23 and 8.8% in 2016
+- Tobacco excise rate (March 2025): AUD $28.06 per 20-pack ($1.40/stick); tax = >80% of retail price; legal pack = approximately $50–$60
+- Tobacco excise revenue: fell from ~$16B (2019) to ~$7.4B (2025), a $8.5B fall, despite ~50% rate increase — classic Laffer curve outcome
+- 5-year Budget downgrade: $6.9B over 5 years to 2028–29; Canberra Times: $22.3B total downgrade ($44.9B → $22.6B forecast)
+- ITEC Commissioner: Illicit Tobacco and E-cigarette Commissioner established as coordination role; Commissioner Amber Shuhyta; inaugural report December 2025
+- ITEC Commissioner finding: 95.7% of the entire e-cigarette market operates outside health and regulatory safeguards
+- ITEC Commissioner: excise evaded 2024–25 = AUD $7.7B to $11.8B — similar in magnitude to total excise paid on all legal tobacco imports in same year
+- ITEC Commissioner: seizures in 2024–25 = record 2,244 tonnes, including 2.66 billion cigarettes; = 56% of legal imports in same year
+- Operation PRINTWALL (ABF): launched December 2025; by mid-2026 exceeded 1 kilotonne of illicit tobacco seized; record single week = 87 tonnes (April 2026); total evaded duty detected = $3.5B+
+- Melbourne tobacco wars: 200+ attacks (arson, firebombing, extortion, shootings) by early 2026; Gang Crime Squad = 350+ raids, 212+ arrests, $50M+ seized
+- Syndicate structure: most diversified criminal businesses; OMCG links; transnational networks (China, SE Asia, Middle East, Eastern Europe); domestic manufacturing a growing concern
+- Combatting Illicit Tobacco Bill 2026: up to 15 years imprisonment for serious offences; expanded proceeds of crime tools; telephone intercept powers for serious tobacco offences
+- Price differential: illicit $10–$20/pack vs legal $50–$60/pack (60–80% discount); Laffer curve in action
+- Public health consequence: price mechanism neutralised; 34% of smokers using illicit product; illicit products lack plain packaging, health warnings on sticks, additive bans
+- Borland et al. (Addiction, 2025): heavy, dependent, and disadvantaged smokers disproportionately use illicit tobacco — people least equipped to quit face cheapest alternative
+- Enforcement spending: $156.7M in 2025–26 Budget for additional compliance; fraction of revenue loss
+- e61 Institute paper: "Chop, chop: Time to cut tobacco excise rates?" — argued tax has crossed Laffer threshold; strongly resisted by public health community
+- ABS wastewater epidemiology: experimental methodology tracking nicotine metabolites in wastewater; provides independent non-self-report measure of total nicotine consumption
+- Remote First Nations risk: price sensitivity confirmed (5.8–8.2% sales decline following price rises in remote stores); illicit supply penetration would negate this signal precisely where hardest to reach
