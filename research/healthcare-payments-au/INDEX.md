@@ -1530,3 +1530,23 @@ A daily research series building a connected, deepening body of knowledge on how
 - e61 Institute paper: "Chop, chop: Time to cut tobacco excise rates?" — argued tax has crossed Laffer threshold; strongly resisted by public health community
 - ABS wastewater epidemiology: experimental methodology tracking nicotine metabolites in wastewater; provides independent non-self-report measure of total nicotine consumption
 - Remote First Nations risk: price sensitivity confirmed (5.8–8.2% sales decline following price rises in remote stores); illicit supply penetration would negate this signal precisely where hardest to reach
+
+## Report 073 — 2026-08-18
+**File:** `073-2026-08-18-ecigarette-prescription-model-illicit-vaping-reform.md`
+**Topic:** Australia's E-Cigarette Regulatory Collapse: The Pharmacy-Only Model, the 95.7% Illicit Market, and What Reform Looks Like
+**Thread opened:** Australia's vaping framework — prescription-only (pre-2024) → pharmacy-only (October 2024 onward) — has produced a paradox: daily smoking at a historic low of 5.8% and youth vaping declining, yet the ITEC Commissioner estimates 95.7% of all vapes sold are illicit (market value ~$1.6B), and the pharmacy model lacks Medicare funding for the consultation, creating access friction that sustains the black market; opens threads into tobacco disease burden, PBS/MBS cessation pathway, online pharmacy supply reform, First Nations youth vaping, and EVALI risk.
+
+## Covered topics (Report 073 additions)
+- Therapeutic Goods and Other Legislation Amendment (Vaping Reforms) Act 2024: commenced 1 July 2024; reclassified all vapes as therapeutic goods; prohibited supply through tobacconists, vape shops, convenience stores; imposed national advertising ban
+- Stage 1B (1 October 2024): Schedule 3 (pharmacist-only) access without prescription for adults 18+; ≤20 mg/mL nicotine; pharmacist consultation required; 1 month maximum supply
+- TGO 110 (July 2025): strengthened product standards; three permitted flavours only (mint, menthol, tobacco); maximum 20 mg/mL (S3) or 50 mg/mL (S4/Rx); child-resistant packaging; child-attractive names banned
+- ITEC Commissioner finding: 95.7% of all vapes sold in Australia are illicit (March 2025 consumer survey of 4,000 nicotine users); illicit vaping market value ~AUD $1.6B
+- ABF vaping seizures: 6 million illicit vapes seized in FY2024–25; 3 million in Q3 2025 alone (single quarter record); ~120 border detections per day
+- NDSHS 2025 (published July 2026): daily smoking at historic low 5.8% (18+) and 5.6% (14+); 500,000 fewer daily smokers than 3 years prior; youth smoking 1.2% (14–17 year olds); daily vaping stabilised at 3.6% for first time; current vaping down from 7% to 6%; ~40,000 fewer young people vaping; 18–24 daily vaping 8.3% (down from 9.8%); 1 in 4 young people still using some nicotine product
+- Australia vs NZ (Mendelsohn et al., Addiction 2025): NZ smoking rate fell at twice Australia's pace 2016–2023 (10% vs 5% annual decline); NZ low-SES communities fell 3× faster (12% vs 4%); Māori vs Aboriginal decline 16% vs 6%/year; NZ adopted consumer retail model (2020); no significant illicit vaping market in NZ
+- Cessation evidence: vaping 3× more effective than NRT for disadvantaged smokers (28.4% vs 9.6% continuous abstinence, MJA InSight+ 2026, Mendelsohn)
+- No Medicare rebate for pharmacist vaping consultation; pharmacist reimbursed through product margin only; MBS item 4605 covers GP-led cessation; PBS funds varenicline and NRT but not vaping
+- Online supply gap: social media ordering, postal delivery of illicit vapes not effectively intercepted; TGA online pharmacy supply framework unresolved as of mid-2026
+- Harm reduction vs. abstentionist debate: Cancer Council/AMA vs. Mendelsohn/Harm Reduction Australia; contested evidence on whether liberal regulation or restrictive regulation reduces smoking faster
+- South Australia study (University of Adelaide, 2025): early reform signals driven mainly by youth who never smoked; adult smoking cessation benefit not yet demonstrated from the reform
+- EVALI risk: 95.7% unregulated market = unknown ingredient quality, heavy metals, vitamin E acetate risk; prospective healthcare cost not yet measured in Australia
