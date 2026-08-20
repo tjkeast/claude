@@ -1567,3 +1567,20 @@ A daily research series building a connected, deepening body of knowledge on how
 - Cessation economics: varenicline $103/full PBS course (concessional); bupropion $7,900/DALY averted; NRT $17,000/DALY averted; quitting adds 1–7.6 life years; vaping 3× more effective than NRT but not PBS-listed and pharmacist consultation not MBS-funded
 - National Tobacco Strategy 2023–2030: target <5% prevalence by 2030; $93M launched ($63M communications, $30M cessation); equity targets for First Nations, socioeconomic disadvantage, mental illness
 - Equity tensions: tobacco concentrated in disadvantage/First Nations/mental illness; illicit tobacco (Report 072) undercuts price signal for price-sensitive smokers; NLCSP equity design requires reaching rural, remote, Indigenous populations under-resourced for CT scanning
+
+## Report 075 — 2026-08-20
+**File:** `075-2026-08-20-national-lung-cancer-screening-program-implementation-cost-equity.md`
+**Topic:** Australia's National Lung Cancer Screening Program: Implementation, Cost Model, and Equity Design in Year One
+**Thread opened:** Examines NLCSP payment mechanics (MBS items 57410/57413, mandatory bulk-billing for radiology but not GP consultations), eligible population (~930,500 in year one), early results (37,000 scans, 426 high-risk nodules in first 5 months), mobile CT delivery via Heart of Australia, NACCHO co-design for First Nations equity, and structural tensions including the GP consultation funding gap, radiology workforce capacity, uptake shortfall, and stigma as a barrier to participation.
+
+## Covered topics (Report 075 additions)
+- NLCSP launch 1 July 2025: $263.8M over 4 years; MSAC ICER ~$65,663/QALY (original); updated Chen et al. Lancet Regional Health ICER AU$39,250/QALY accounting for immunotherapy era
+- Eligibility: 50–70 years; ≥30 pack-years; current smoker or quit within 10 years; asymptomatic; estimated eligible population 930,500 in year one
+- MBS items: 57410 (biennial screening LDCT, $338.75 fee, mandatory bulk billing) and 57413 (interval follow-up, mandatory bulk billing); no dedicated GP consultation MBS item — GPs use standard attendance items, not mandatorily bulk-billed
+- Early results: ~37,000 scans in first 5 months; 426 high-risk/very-high-risk nodules referred; consistent with international prevalence-round detection rates
+- Rural access: Heart of Australia operating 5 mobile CT trucks from November 2025 — Kimberley/Pilbara (WA), Northern Territory initially
+- First Nations equity: NACCHO co-design with ACCHO sector; proxy eligibility assessment tool published June 2025 for patients without documented smoking history; MJA qualitative study on First Nations voices
+- CALD barriers: cancer stigma, language barriers, financial barriers at GP access point (PMC 12813417)
+- Stigma: 21% of Australians believe lung cancer patients "their own worst enemy"; 14% say patients "only have themselves to blame" — suppresses participation in highest-risk eligible population
+- Structural tensions: no call-recall system (unlike BreastScreen/bowel screening); GP consultation gap fee risk; radiology workforce capacity; PBS saving from stage-shift not returned to NLCSP budget
+- Radiologist workforce: RANZCR/ANZSTR working group; 60+ radiologists recruited; AI-assisted nodule detection tools (TGA-registered) available but not formally integrated in NLCSP protocol
