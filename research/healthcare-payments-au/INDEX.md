@@ -1584,3 +1584,8 @@ A daily research series building a connected, deepening body of knowledge on how
 - Stigma: 21% of Australians believe lung cancer patients "their own worst enemy"; 14% say patients "only have themselves to blame" — suppresses participation in highest-risk eligible population
 - Structural tensions: no call-recall system (unlike BreastScreen/bowel screening); GP consultation gap fee risk; radiology workforce capacity; PBS saving from stage-shift not returned to NLCSP budget
 - Radiologist workforce: RANZCR/ANZSTR working group; 60+ radiologists recruited; AI-assisted nodule detection tools (TGA-registered) available but not formally integrated in NLCSP protocol
+
+## Report 076 — 2026-08-21
+**File:** `076-2026-08-21-four-national-cancer-screening-programs-compared.md`
+**Topic:** Australia's Four National Cancer Screening Programs: Equity Design, Funding, and Participation Compared
+**Thread opened:** Comparative analysis of BreastScreen (mammography, 52% participation), NBCSP (bowel iFOBT, 42%), NCSP (cervical HPV, 74.6%), and NLCSP (lung CT, ~4-5% in year one); finds call-recall mechanism is the single strongest predictor of participation, exceeding disease severity and test acceptability; surfaces the BCNA/government $1.3M vs $2B BreastScreen reform gap, the NBCSP's 25% colonoscopy follow-up non-completion rate, the NCSP's self-collection-driven participation surge (from <1% to 46% of all tests since 2022), and the NLCSP's structural GP-referral bottleneck; opens threads into BreastScreen dense-breast reform, NBCSP colonoscopy capacity, cervical cancer elimination timelines for Aboriginal and Torres Strait Islander women, and AI in cancer screening.
