@@ -85,6 +85,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 077 | 2026-08-22 | [NBCSP's Unfinished Architecture: The Colonoscopy Follow-Up Gap](077-2026-08-22-nbcsp-colonoscopy-follow-up-gap.md) | Opened: 14–16% no-follow-up rate; 62-day median wait; 4× city vs remote disparity; DAC nurse model |
 | 078 | 2026-08-23 | [Early-Onset Colorectal Cancer: Rising Rates, the Birth Cohort Effect, and Australia's NBCSP Age Expansion](078-2026-08-23-early-onset-colorectal-cancer-nbcsp-age-expansion.md) | Opened: EOCRC doubled since 2000; opt-in 45–49 expansion; First Nations 2.6× odds; UPF-adenoma link |
 | 079 | 2026-08-24 | [Colorectal Cancer Treatment Costs and the Stage-at-Diagnosis Funding Equation](079-2026-08-24-colorectal-cancer-treatment-costs-stage-diagnosis-funding-equation.md) | Opened: $1.85B treatment vs $42.1M NBCSP; stage I vs IV cost differential; Lancet $2.1B savings projection; bevacizumab/cetuximab PBS cost growth |
+| 080 | 2026-08-25 | [The Colonoscopy Funding Gap: How MBS Schedule Fees, Wait Times, and Workforce Shortages Undermine NBCSP Follow-Up](080-2026-08-25-colonoscopy-funding-gap-nbcsp-follow-up-mbs-reform.md) | Opened: MBS reform from 32090/32093 to indication-specific 32222-32228; 14.6% 30-day benchmark rate; $2,000 uninsured OOP vs free public with 62-day median wait; NSW DAC model; nurse endoscopist scope-of-practice reform |
 
 ---
 
