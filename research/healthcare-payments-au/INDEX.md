@@ -88,6 +88,7 @@ A daily research series building a connected, deepening body of knowledge on how
 | 080 | 2026-08-25 | [The Colonoscopy Funding Gap: How MBS Schedule Fees, Wait Times, and Workforce Shortages Undermine NBCSP Follow-Up](080-2026-08-25-colonoscopy-funding-gap-nbcsp-follow-up-mbs-reform.md) | Opened: MBS reform from 32090/32093 to indication-specific 32222-32228; 14.6% 30-day benchmark rate; $2,000 uninsured OOP vs free public with 62-day median wait; NSW DAC model; nurse endoscopist scope-of-practice reform |
 | 081 | 2026-08-26 | [Nurse Endoscopists and the Colonoscopy Workforce: Australia's Contested Solution to a 50,000-Procedure Shortfall](081-2026-08-26-nurse-endoscopist-scope-practice-colonoscopy-workforce.md) | Opened: Victoria APNE programme (Austin Health SETC, 12-month training); MBS billing restriction to medical practitioners blocks private sector adoption; CCRTGE credentialling architecture; interval cancers as the quality metric this debate sidesteps; colonoscopy simulation training pipeline |
 | 082 | 2026-08-27 | [Interval Cancers in the NBCSP: The Quality Failure Beneath the Capacity Crisis](082-2026-08-27-interval-cancers-nbcsp-quality-gap.md) | Opened: stool DNA/multi-target screening modalities; CT colonography MBS funding reform; NCSR data governance and ADR reporting gap; First Nations interval cancer and NT rate (8.4/10,000); colonoscopy quality improvement economics |
+| 083 | 2026-08-28 | [The NCSR Data Governance Gap: Why Australia Cannot Report Colonoscopy Quality Nationally](083-2026-08-28-ncsr-data-governance-adr-reporting-gap.md) | Opened: histopathology form return voluntary (not mandated); PI 5a (ADR), PI 5b, PI 8 unreported; NCSR built on $220M Telstra Health contract plagued by delays; 2025 CCS and EndoVault FHIR integration improving but structural gap persists; UK JAG accreditation as mandatory-participation comparator; MBS billing conditions as possible lever; threads into AI-CADe for ADR equalisation, stool DNA testing, CT colonography MBS reform, First Nations equity, MBS-conditioned data submission |
 
 ---
 
@@ -1614,3 +1615,23 @@ A daily research series building a connected, deepening body of knowledge on how
 **File:** `079-2026-08-24-colorectal-cancer-treatment-costs-stage-diagnosis-funding-equation.md`
 **Topic:** Colorectal Cancer Treatment Costs and the Stage-at-Diagnosis Funding Equation: How $42 Million in Screening Offsets $1.85 Billion in Treatment
 **Thread opened:** Australia spends $1.85 billion/year treating bowel cancer (2023–24) vs $42.1 million running the NBCSP (44:1 ratio); screen-detected cancers are stage I in ~40% of cases vs 14% for symptom-detected, and stage IV in 3–5.5% vs 15–20.6%; Lancet Public Health modelling projects $1.7–2.1 billion in cumulative savings (2030–2040) if participation reaches 40–60%; current participation (~44%) leaves most of that saving unrealised; stage IV treatment costs $71,156+ per patient in first-year chemotherapy alone, rising to $80,000–$120,000+ with bevacizumab ($8,000/month) and cetuximab; the opt-in 45–49 architecture misses the populations whose stage IV diagnoses are most costly and most preventable; PBS-listed targeted therapies (bevacizumab, cetuximab, encorafenib+cetuximab) are driving the fastest-growing cost component; opens threads into MBS colonoscopy items 32090/32093 gap payments, bevacizumab biosimilar uptake, bowel cancer survival by SES/First Nations, colorectal liver metastasis surgery costs, and NBCSP participation barriers.
+
+## Report 080 — 2026-08-25
+**File:** `080-2026-08-25-colonoscopy-funding-gap-nbcsp-follow-up-mbs-reform.md`
+**Topic:** The Colonoscopy Funding Gap: How MBS Schedule Fees, Wait Times, and Workforce Shortages Undermine NBCSP Follow-Up
+**Thread opened:** MBS reform from 32090/32093 to indication-specific 32222-32228; 14.6% 30-day benchmark rate; $2,000 uninsured OOP vs free public with 62-day median wait; NSW DAC model; nurse endoscopist scope-of-practice reform.
+
+## Report 081 — 2026-08-26
+**File:** `081-2026-08-26-nurse-endoscopist-scope-practice-colonoscopy-workforce.md`
+**Topic:** Nurse Endoscopists and the Colonoscopy Workforce: Australia's Contested Solution to a 50,000-Procedure Shortfall
+**Thread opened:** Victoria APNE programme (Austin Health SETC, 12-month training); MBS billing restriction to medical practitioners blocks private sector adoption; CCRTGE credentialling architecture; interval cancers as the quality metric this debate sidesteps; colonoscopy simulation training pipeline.
+
+## Report 082 — 2026-08-27
+**File:** `082-2026-08-27-interval-cancers-nbcsp-quality-gap.md`
+**Topic:** Interval Cancers in the NBCSP: The Quality Failure Beneath the Capacity Crisis
+**Thread opened:** Stool DNA/multi-target screening modalities; CT colonography MBS funding reform; NCSR data governance and ADR reporting gap; First Nations interval cancer and NT rate (8.4/10,000); colonoscopy quality improvement economics.
+
+## Report 083 — 2026-08-28
+**File:** `083-2026-08-28-ncsr-data-governance-adr-reporting-gap.md`
+**Topic:** The NCSR Data Governance Gap: Why Australia Cannot Report Colonoscopy Quality Nationally
+**Thread opened:** Histopathology form return is "required" but not mandated by the NBCSP; PI 5a (ADR), PI 5b (PPV), and PI 8 (cancer stage) have been unreported for years due to incomplete data; the NCSR was built on a $220M Telstra Health contract plagued by implementation delays and governance failures; the September 2025 Colonoscopy Clinical Care Standard and EndoVault FHIR integration are improving compliance but the structural gap between "required" and "mandatory" is unresolved; the UK JAG accreditation model (mandatory participation, ADR monitoring as condition of screening programme access) offers the comparator Australia has not adopted; MBS billing conditions (analogous to pathology) are the most tractable lever; threads opened: AI computer-aided detection (CADe) as potential quality equaliser, stool DNA/multi-target screening, CT colonography MBS reform, First Nations bowel cancer equity, and MBS-conditioned data submission reform.
