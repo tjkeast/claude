@@ -1638,3 +1638,23 @@ A daily research series building a connected, deepening body of knowledge on how
 **File:** `083-2026-08-28-ncsr-data-governance-adr-reporting-gap.md`
 **Topic:** The NCSR Data Governance Gap: Why Australia Cannot Report Colonoscopy Quality Nationally
 **Thread opened:** Histopathology form return is "required" but not mandated by the NBCSP; PI 5a (ADR), PI 5b (PPV), and PI 8 (cancer stage) have been unreported for years due to incomplete data; the NCSR was built on a $220M Telstra Health contract plagued by implementation delays and governance failures; the September 2025 Colonoscopy Clinical Care Standard and EndoVault FHIR integration are improving compliance but the structural gap between "required" and "mandatory" is unresolved; the UK JAG accreditation model (mandatory participation, ADR monitoring as condition of screening programme access) offers the comparator Australia has not adopted; MBS billing conditions (analogous to pathology) are the most tractable lever; threads opened: AI computer-aided detection (CADe) as potential quality equaliser, stool DNA/multi-target screening, CT colonography MBS reform, First Nations bowel cancer equity, and MBS-conditioned data submission reform.
+
+## Report 084 — 2026-08-29
+**File:** `084-2026-08-29-ai-cade-colonoscopy-adr-quality-gap.md`
+**Topic:** AI-Assisted Colonoscopy and the ADR Quality Gap: Can Technology Solve What Governance Cannot?
+**Thread opened:** CADe systems improve ADR ~20% in RCTs but real-world gains are smaller; no MBS funding for AI colonoscopy assistance in Australia; 2025 Lancet finding on AI deskilling endoscopists; threads opened: CT colonography MBS reform, CADx and optical biopsy economics, nurse endoscopist-AI interaction.
+
+## Report 085 — 2026-08-30
+**File:** `085-2026-08-30-ct-colonography-mbs-funding-gap-nbcsp.md`
+**Topic:** CT Colonography and the NBCSP Dead End: Why Australia Has No Alternative When Colonoscopy Is Unavailable
+**Thread opened:** CTC 96% sensitivity, $767 cheaper than optical colonoscopy, no sedation required; MBS item 56556 restricted to specialist referral for specific indications only; US/UK allow CTC as NBCSP follow-up pathway; 85% of positive-screen patients wait >30 days; threads opened: stool DNA alternative screening modalities, colonoscopy Clinical Care Standard, radiology capacity.
+
+## Report 086 — 2026-08-31
+**File:** `086-2026-08-31-multi-target-stool-dna-testing-nbcsp-alternative-screening.md`
+**Topic:** Multi-Target Stool DNA Testing: A Higher-Sensitivity Screening Alternative That Australia Hasn't Funded
+**Thread opened:** Cologuard Plus FDA-approved October 2024 with 95% CRC sensitivity vs 67% for iFOBT; BLUE-C trial NEJM results; no TGA registration or MSAC assessment in Australia; participation dividend hypothesis; program cost ~$572M/year vs $42.1M for iFOBT; threads opened: First Nations screening equity, PHI colonoscopy OOP gap, Colonoscopy Clinical Care Standard 2025, CADx optical biopsy economics, NBCSP 20-year performance record.
+
+## Report 087 — 2026-09-01
+**File:** `087-2026-09-01-first-nations-colorectal-cancer-screening-nbcsp-equity.md`
+**Topic:** First Nations Colorectal Cancer Screening: The NBCSP's Equity Gap
+**Thread opened:** Indigenous participation 34.2% vs 40.5% non-Indigenous (6.3pt gap, down from 16pt in 2018-19); higher positive screen rate (8% vs 6%) but lower follow-up diagnostic assessment rate; 5-year CRC survival 58% vs 67%; Lancet Global Health 2026 meta-analysis: 16% of Indigenous CRC is early-onset vs 9% non-Indigenous; alternative access model (ACCHO kit distribution) raised pilot participation from 27% to 40% but not scaled with dedicated funding; no NBCSP equity target; threads opened: Colonoscopy Clinical Care Standard 2025 equity provisions, PHI and colonoscopy OOP gap, cervical screening self-collection as Indigenous equity model, outreach colonoscopy services NT/QLD, Australian Cancer Plan equity commitments.
